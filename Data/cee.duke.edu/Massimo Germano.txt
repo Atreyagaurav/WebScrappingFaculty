@@ -1,0 +1,5 @@
+Massimo Germano
+https://cee.duke.edu/faculty/massimo-germano
+https://cee.duke.edu
+
+Research InterestsTurbulence in fluids and its representation. Multiscale decompositions of turbulent flows. The Navier-Stokes, the Large Eddy and the Reynolds equations. Reynolds modeling and subgrid scale modeling for the Large Eddy Simulation of turbulent flows. Hybrid RANS/LES modeling.

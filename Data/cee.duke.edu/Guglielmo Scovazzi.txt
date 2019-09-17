@@ -1,0 +1,5 @@
+Guglielmo Scovazzi
+https://cee.duke.edu/faculty/guglielmo-scovazzi
+https://cee.duke.edu
+
+Research InterestsFinite element methods, computational fluid and solid mechanics, multiphase porous media flows, computational methods for fluid and solid materials under extreme load conditions, turbulent flow computations, instability phenomena.

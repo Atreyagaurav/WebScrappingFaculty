@@ -1,0 +1,5 @@
+Christopher J. Earls
+https://www.cee.cornell.edu/faculty-directory/christopher-j-earls
+https://www.cee.cornell.edu
+earls@cornell.edu
+Research InterestsEarls' Group is concerned with developing novel algorithmic and computational approaches that enable new understanding concerning the actual condition, and future behavior of complex natural and engineered systems. Practical challenges concerning the principled treatment of uncertainty, sparse sensing, and the complex multi-physics response modalities of the real-world are motivational in our work. The intellectual themes that underpin our research are: computational mechanics, high performance computing, and applied mathematics. Problems of interest to us occur in the domains of engineering and applied science.

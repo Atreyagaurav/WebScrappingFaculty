@@ -1,0 +1,5 @@
+Johann Guilleminot
+https://cee.duke.edu/faculty/johann-guilleminot
+https://cee.duke.edu
+
+Research InterestsComputational mechanics, mechanics of heterogeneous materials, molecular dynamics simulations and atomistic-to-continuum coupling, stochastic solvers, statistical inverse problem and model validation, stochastic analysis, uncertainty quantification in science and engineering

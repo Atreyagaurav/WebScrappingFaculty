@@ -1,0 +1,5 @@
+Mircea Dan Grigoriu
+https://www.cee.cornell.edu/faculty-directory/mircea-dan-grigoriu
+https://www.cee.cornell.edu
+mdg12@cornell.edu
+Research InterestsGrigoriu's research focuses on random vibration, stochastic calculus, stochastic differential equations, stochastic partial differential equations, numerical methods for solving stochastic problems, probabilistic models for microstructures, wind/earthquake engineering, and Monte Carlo simulation.

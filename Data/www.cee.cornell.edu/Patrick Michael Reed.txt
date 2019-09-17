@@ -1,0 +1,12 @@
+Patrick Michael Reed
+https://www.cee.cornell.edu/faculty-directory/patrick-michael-reed
+https://www.cee.cornell.edu
+patrick.reed@cornell.edu
+Research InterestsDr. Reed's primary research interests relate to sustainable water management given conflicting demands from renewable energy systems, ecosystem services, expanding populations, and climate change. The tools developed in Dr. Reed's group bridge sustainability science, risk management, economics, multiobjective decision making, operations research, computer science, and high performance computing. Engineering design and decision support software developed by Dr. Reed has been used broadly in governmental and industrial application areas (e.g., civil infrastructure planning and management, airline logistics, and US satellite constellation design and management). His open source and free academic software related to multiobjective optimization has thousands of users across the world.
+http://moeaframework.org/ (Open source framework for multiobjective optimization)
+http://borgmoea.org/ (Top benchmark algorithm for solving challenging applications)
+Additionally, Dr. Reed has licensed DecisionVis, LLC to distribute and support commercial licensing of his research group's decision support tools.
+https://www.decisionvis.com/ (free academic licensing for visualization tools)
+He also coordinates Water Programming: A Collaborative Research Blog for detailing key tips and tricks for using his decision support tools in practice.
+http://waterprogramming.wordpress.com/
+The above resources are meant to advance design and management of complex engineered systems.
