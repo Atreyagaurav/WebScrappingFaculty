@@ -8,6 +8,11 @@ I first tried to make everything automatic but it was hard to find the faculty w
 * Internet connection.
 * Ms. Excel 
 ## How to Use
+### To completely automate
+* Edit the list of universities in file Universities.txt if you want. 
+* Run UniversityList.py and wait till it is completed (will take a long time).
+* Run Extract.py to collect the info into the profList.csv.
+### To browse manually
 * Open main.py
 * Run Faculty Grabber : It'll run a endless loop where if you put any faculty website in clipboard it'll extract the info.
 * Select any university
