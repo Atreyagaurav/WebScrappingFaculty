@@ -89,8 +89,8 @@ class MainCanvas:
 	def UpdateFacultyList(self):
 		i=1
 		self.FacultyList.delete(0,'end')
-		for prof in self.Faculties:
-			self.FacultyList.insert(i,prof.Name)
+		for Prof in self.Faculties:
+			self.FacultyList.insert(i,Prof.Name)
 			i+=1
 class MainApp:
 	def __init__(self):

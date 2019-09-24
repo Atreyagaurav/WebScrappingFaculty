@@ -1,0 +1,6 @@
+Miguel Carreira-Perpiñán
+https://engineering.ucmerced.edu/content/miguel-carreira-perpi%C3%B1%C3%A1n
+https://engineering.ucmerced.edu
+mcarreira-perpinan@ucmerced.edu
+Research Interests: Professor Carreira-Perpiñán's basic research interests are in machine learning — the estimation of models and representations from data. Most recently, he has been working on topics in the intersection of optimization and machine learning, in particular in learning algorithms for deep neural nets and for nonlinear embeddings. Other topics of interest are dimensionality reduction/manifold learning, clustering, denoising and other unsupervised learning problems, and mean-shift algorithms. He often gets inspiration from problems in speech processing (e.g. articulatory inversion and model adaptation), computer vision (e.g. segmentation, articulated pose tracking, image registration), sensor networks, robotics (e.g. inverse kinematics) and other application areas. In the past, he has also worked on computational neuroscience, specifically on dimension reduction models of the maps of the visual cortex.
+

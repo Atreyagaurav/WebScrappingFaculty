@@ -1,0 +1,9 @@
+Florin Rusu
+https://engineering.ucmerced.edu/content/florin-rusu
+https://engineering.ucmerced.edu
+frusu@ucmerced.edu
+Research Interests: Large scale data management
+Database systems design and implementation
+Data aggregation methods
+Approximation and randomized algorithms
+

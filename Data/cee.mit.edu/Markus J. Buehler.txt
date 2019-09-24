@@ -1,0 +1,5 @@
+Markus J. Buehler
+https://cee.mit.edu/people_individual/markus-j-buehler/
+https://cee.mit.edu
+mbuehler@mit.edu
+Research InterestsMaterials science and mechanics of natural and biological protein materials (materiomics), how protein materials define our body and how they fail catastrophically (fracture, deformation, disease), large-scale atomistic modeling, protein based materials and biopolymers, interaction of chemistry and mechanics, bridging chemical scales to continuum theories of materials, modeling of bio-nano-materials phenomena, multiple-scale simulation, development and use of multi-scale simulation tools.

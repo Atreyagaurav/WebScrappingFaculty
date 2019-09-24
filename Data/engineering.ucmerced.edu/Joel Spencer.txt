@@ -1,0 +1,11 @@
+Joel Spencer
+https://engineering.ucmerced.edu/content/joel-spencer
+https://engineering.ucmerced.edu
+joel.spencer@ucmerced.edu
+Research Interests: Professor Spencer seeks to to develop novel optical imaging and sensing systems for applications in tissue regeneration, transplantation, and cancer. 
+Current Research Topics:
+investigating new ways to image the thymus in live mice with subcellular resolution
+developing faster oxygen sensing methods for in vivo applications
+applying whole tissue imaging methods for studying immune reconstitution
+developing imaging assays for regenerative medicine and other applications
+

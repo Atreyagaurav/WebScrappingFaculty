@@ -1,0 +1,44 @@
+Boyer, Kim L.
+https://www.albany.edu/ceas/60631.php
+https://www.albany.edu
+kboyer3@albany.edu
+Research InterestsComputer Vision and Image Analysis:
+
+Medical image analysis
+Perceptual organization
+Structural analysis
+Graph theoretical methods
+Stereopsis in weakly constrained environments
+Aerial and satellite image analysis
+Change detection
+Organization of large object model bases
+Feature extraction
+Robust methods
+Additional Information
+Dr. Kim Boyer received the BSEE (with distinction), MSEE, and PhD. Degrees, all in electrical engineering, from Purdue University in 1976, 1977, and 1986, respectively. From January 2008 through December 2014 he was Head of the Department of Electrical, Computer, and Systems Engineering at Rensselaer Polytechnic Institute, Troy, NY. In July 2015 he was appointed as the first Dean of the new College of Engineering and Applied Sciences, University at Albany, State University of New York.
+From 1977 through 1981 he was with Bell Laboratories, Holmdel, NJ; from 1981 through 1983 he was with Comsat Laboratories, Clarksburg, MD. From 1986-2007 he was on the faculty of the Department of Electrical and Computer Engineering, The Ohio State University. He is a Fellow of the IEEE, a Fellow of IAPR, and a former IEEE Computer Society Distinguished Visitor (distinguished speaker).
+Dr. Boyer is also a National Academies Jefferson Science Fellow at the US Department of State, spending 2006-07 in Washington as Senior Science Advisor to the Bureau of Western Hemisphere Affairs. While at State he studied the impact of technological innovation on economic development in scientifically lagging and scientifically developing countries. The correlation between the number of scientists and engineers and the gross domestic product (and other indicators of economic capacity) is compelling. These investigations led to a number of policy recommendations designed to assist these countries in coupling innovation into their economies. Dr. Boyer also developed policy recommendations for the use of science and engineering as instruments of diplomacy and capacity building in the scientific innovation arena. He retains his Fellowship as a consultant on science and technology policy for the State Department. 
+Dr. Boyer’s research interests include all aspects of computer vision and medical image analysis, including perceptual organization, structural analysis, graph theoretical methods, stereopsis in weakly constrained environments, optimal feature extraction, large model bases, and robust methods. His current research activities include mapping the surface of the dynamic pre-lens tear film from interferometric video, visual analysis for modeling the dynamics of mitosis in live cell imaging, and most recently, content-based image retrieval based on artistic composition.
+As an educator, Dr. Boyer is particularly interested in the interaction between the engineering sciences and public policy. Today’s scientists and engineers, particularly those with advanced degrees, will be called upon to articulate for science in the formation of public policy. It is imperative that we prepare our students to accept this role, by providing them with the communications skills they will need, together with a worldview. We must prepare and encourage them to act as spokespersons for science and engineering in the public discourse; we can afford to do no less.
+Dr. Boyer served as President of the International Association for Pattern Recognition 2012-2014 and will remain on the Executive Committee as Past President until August 2016. He has been a US delegate to the IAPR Governing Board since 2004. He also served two terms as IAPR Treasurer and one as First Vice President. He is a former Associate Editor of IEEE Transactions on Pattern Analysis and Machine Intelligence, Area Editor of Computer Vision and Image Understanding, Associate Editor of Machine Vision and Applications, Founder and Chair of the first two IEEE Computer Society Workshops on Perceptual Organization, was a charter member of the DARPA IUE technical Advisory Committee, and was a member of the initial ORD RADIUS Technical Oversight Committee. He is also the Series Editor for the CRC Press book series on Computer Vision.
+Dr. Boyer won the Siemens Best Paper Award at CVPR93 with his then-student Kuntal Sengupta. In 1995, a student team co-directed by Professor Boyer won the International Unmanned Ground Vehicle Competition for its vision-guided Autonomous Robotic Transporter. In 2002, he was a program chair for Computer Vision and Robotics at ICPR, Quebec City. He is a former Chair of the IEEE Computer Society Technical Committee on Pattern Analysis and Machine Intelligence, and continues to serve on its Steering Committee. He was the keynote speaker for the 2004 SIBGRAPI conference in Curitiba, Brazil and for the 2011 Mexican Conference on Pattern Recognition in Cancun. He was a Program Chair for CVPR08 in Anchorage and Technical Co-Chair for ICPR 2010 in Istanbul and ICPR 2012 in Tsukuba, Japan. He was also the Honorary Chair for the 2012 Mexican Conference on Pattern Recognition in Huatulco, Mexico, and the International Liaison Chair for ICPR 2014 in Stockholm.
+Dr. Boyer has published seven books and more than 100 scientific papers and has lectured in nearly 30 countries around the world. His work has been cited nearly 5,500 times. His books include Computing Perceptual Organization in Computer Vision, World Scientific, 1994 (with Sudeep Sarkar); Perceptual Organization for Artificial Vision Systems, Kluwer Academic Publishers, 2000 (with Sudeep Sarkar); Robust Range Image Registration: Using Genetic Algorithms and the Surface Interpenetration Measure, 2005 (with Luciano Silva and Olga Bellon); and Multispectral Satellite Image Understanding: From Land Classification to Building and Road Detection, Springer, 2011 (with Cem Unsalan). 
+
+Publications
+
+Authored Books
+C. Unsalan and K. L. Boyer, “Multispectral Satellite Image Understanding: From Land Classification to Building and Road Detection,” Springer-Verlag, 2011. 
+L. Silva, O. R. P. Bellon, and K. L. Boyer, “Robust Range Image Registration Using Enhanced Genetic Algorithms and the Surface Interpenetration Measure,” World Scientific Series on Machine Perception and Artificial Intelligence, Singapore, World Scientific, 2005. 
+S. Sarkar and K. L. Boyer, “Computing Perceptual Organization in Computer Vision,” World Scientific Series on Machine Perception and Artificial Intelligence, Singapore: World Scientific, 1994.  
+Archival Journal Papers
+Quan Wang, Xinchi Zhang, and Kim Boyer, “3D Scene Estimation for Smart Light Delivery with Perturbation-Modulated Light Sensing,” Journal of Solid State Lighting, DOI: 10.1186/s40539-014-0017-2, October 2014. 
+D. Wu and Kim L. Boyer, “Markov Random Field Based Phase Demodulation of Interferometric Images,” Computer Vision and Image Understanding, Vol. 115, No. 6, June 2011, pp. 759-770. 
+D. Wu, J. Nichols, E. King-Smith, and K. Boyer, “Texture Based Prelens Tear Film Segmentation in Interferometry Images,” Machine Vision and Applications, Vol. 21, No. 3, pp. 253-259, April 2010. 
+J. Kong, O. Sertel, H. Shimada, K. L. Boyer, J. H. Saltz, and M. N. Gurcan, “Computer-assisted Grading of Neuroblastic Differentiation,” Archives of Pathology and Laboratory Medicine, Vol. 132, No. 6, pp. 903-904, June 2008. 
+L. Silva, O. R. P. Bellon, and K. L. Boyer, “Robust Multiview Range Image Registration,” Image and Vision Computing, Vol. 25, No. 1, pp 114-125, Jan. 2007. Invited. 
+K. L. Boyer, A. Herzog, and C. Roberts, “Automatic Recovery of the Optic Nerve head Geometry in Optical Coherence Tomography,” IEEE Transactions on Medical Imaging, Vol. 25, No 5, pp. 553-570, May 2006. 
+C. Ünsalan and K. L. Boyer, “A System to Detect Houses and Residential Street Networks in Multispectral Satellite Images,” Computer Vision and Image Understanding, Vol. 98, No. 3, pp. 423-461, June 2005. 
+O. R. P. Bellon, M. N. L. Cat, L. Silva, and K. L. Boyer, “Using Computer Vision to Help the Determination of the Gestational Age of Newborns,” Academic Radiology, Vol 12, No. 5, pp. 544-553, May 2005. 
+L. Silva, O. R. P. Bellon, and K. L. Boyer, “Precision Range Image Registration Using a Robust Surface Interpenetration Measure and Enhanced Genetic Algorithms,” IEEE Transactions on Pattern Analysis and Machine Intelligence, Vol. 27, No. 5, pp. 762-776, May 2005. 
+C. Ünsalan and K. L. Boyer, “A Theoretical and Experimental Investigation of Graph Theoretical Measures for Land Development in Satellite Imagery,” IEEE Transactions on Pattern Analysis and Machine Intelligence, Vol. 27, No. 4, pp. 575-589, April 2005.
+

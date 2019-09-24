@@ -1,0 +1,182 @@
+Chang, Ming-Ching
+https://www.albany.edu/ceas/73082.php
+https://www.albany.edu
+mchang2@albany.edu
+Research Interests
+Please visit Professor Chang's research website for information about his research: https://www.albany.edu/faculty/mchang2/. 
+Publications
+
+
+Selected Journal Publications:
+        
+
+Ming-Ching Chang, Ting Yu, Jiajia Luo, Kun Duan, Peter Tu, Yang Zhao, Nandini Nagraj, Vrinda Rajiv, Michael Priebe, Elena Wood, and Max Stachura. "Multi-Modal Sensor System for Pressure Ulcer Wound Assessment and Care", IEEE Transactions on Industrial Informatics (TII), special section on multisensory fusion and integration for intelligent systems, to apper, 2018. (Impact factor 6.764) PDF
+
+
+
+Longyin Wen, Zhen Lei, Ming-Ching Chang, Honggang Qi, and Siwei Lyu, “Multi-Camera Multi-Target Tracking with Space-Time-View Hyper-graph”, International Journal of Computer Vision (IJCV), 122 (2), pp. 313-333, first online 2016/09, 2017. (Impact factor 8.222) Publisher Link PDF
+
+
+
+Fiona M. Fennessy, Andriy Fedorov, Tobias Penzkofer, Kyung Won Kim, Michelle S. Hirsch, Mark G. Vangel, Paul Masry, Trevor A. Flood, Ming-Ching Chang, Clare M. Tempany, Robert V. Mulkern, and Sandeep N. Gupta, “Quantitative Pharmacokinetic Analysis of Prostate Cancer DCE-MRI at 3T: Comparison of Two Arterial Input Functions on Cancer Detection with Digitized Whole Mount Histopathological Validation”, 33 (7), pp. 886-894, Magnetic Resonance Imaging (MRI), Elsevier, 2015. PDF
+
+
+
+M.-C. Chang and B. B. Kimia, “Measuring 3D Shape Similarity by Graph-Based Matching of the Medial Scaffolds”, Computer Vision and Image Understanding (CVIU), , Special Issue on 3D Imaging and Modeling (3DIM), Elsevier, Vol. 115, Issue 5, pp. 707-720, May. 2011.
+            
+
+
+M.-C. Chang, F. F. Leymarie, and B. B. Kimia, “Surface Reconstruction from Point Clouds by Transforming the Medial Scaffold”, Computer Vision and Image Understanding (CVIU), Elsevier, Vol. 113, Issue 11, pp. 1130-1146, Nov. 2009. (Top 5 downloaded computer science articles in ScienceDirect during April-June 2009.)
+            
+
+
+M.-C. Chang, C.-S. Fuh, and H.-Y. Chen, “Fast Search Algorithms for Industrial Inspection”, International Journal of Pattern Recognition and Artificial Intelligence (IJPRAI), World Scientific, Vol. 15, No. 4, pp. 675-690, 2001.
+            
+
+Selected Conference Publications:
+        
+
+Wenbo Li, Longyin Wen, Ming-Ching Chang, Ser nam Lim, and Siwei Lyu. "Adaptive RNN Tree for Large-Scale Human Action Recognition", IEEE International Conference on Computer Vision (ICCV), Venice, Italy, 2017. (acceptance rate 29%) PDF Poster
+
+
+
+Ming-Ching Chang, Yi Yao, Li Guan, Yan Tong, and Peter Tu, "Cloud Tracking for Solar Irradiance Prediction", IEEE International Conference on Image Processing (ICIP), Beijing, China, 2017. PDF Poster
+
+
+
+Ming-Ching Chang, Ting Yu, Kun Duan, Jiajia Luo, Peter Tu, Michael Priebe, Elena Wood, and Max Stachura, "In-Bed Patient Motion and Pose Analysis Using Depth Videos for Pressure Ulcer Prevention", IEEE Conference on Image Processing (ICIP), Beijing, China, 2017. PDF Poster
+
+
+
+Shengkun Li, Dawei Du, Longyin Wen, Ming-Ching Chang, and Siwei Lyu, "Hybrid Structure Hypergraph for Online Deformable Object Tracking", IEEE Conference on Image Processing (ICIP), Beijing, China, 2017. PDF
+
+
+
+Milind Naphade, David C. Anastasiu, Anuj Sharma, Vamsi Jagrlamudi, Hyeran Jeon, Kaikai Liu, Ming-Ching Chang, Siwei Lyu, and Zeyu Gao, The NVIDIA AI City Challenge, IEEE Smart World Congress, San Jose, CA, USA, 2017. PDF
+
+
+
+Yi Wei, Nenghui Song, Lipeng Ke, Ming-Ching Chang, and Siwei Lyu, “Street Object Detection / Tracking for AI City Traffic Analysis”, IEEE Smart World Congress, San Jose, CA, USA, 2017. PDF Slides
+
+
+
+Siwei Lyu, Ming-Ching Chang, Dawei Du, Longyin Wen, Honggang Qi, Yuezun Li, Yi Wei, Lipeng Ke, Tao Hu, Marco Del Coco, Pierluigi Carcagni, et al., “UA-DETRAC 2017: Report of AVSS2017 & IWT4S Challenge on Advanced Traffic Monitoring”, IEEE Advanced Video and Signal-based Surveillance (AVSS), Lecce, Italy, 2017. PDF
+
+
+
+Y. Yang, M.-C. Chang, L. Wen, P. Tu, H. Qi, and S. Lyu, “Efficient Large-scale Photometric Reconstruction Using Divide-Recon-Fuse 3D Structure from Motion”, IEEE Advanced Video and Signal-based Surveillance (AVSS), Colorado Springs, CO, USA, 2016. PDF Slides
+
+
+
+Peter Tu, Ming-Cing Chang, and Tao Gao, “Crowd Analytics via One Shot Learning and Agent Based Inference”, IEEE GlobalSIP Symposium on Signal Processing for Understanding Crowd Dynamics, Washington DC, USA, 2016. PDF
+
+
+
+X. Wang, M.-C. Chang, Y. Ying, and S. Lyu, “Co-regularized PLSA for Multi-Modal Learning”, AAAI Conference on Artificial Intelligence (AAAI), Pheonix, AZ, USA,  2016 (acceptance rate 26%).
+            PDF Slides
+
+
+
+M.-C. Chang, H. Qi, X. Wang, H. Cheng, and S. Lyu, “Fast Online Upper Body Pose Estimation from Video”, British Machine Vision Conference (BMVC), Swansea, England, 2015. (acceptance rate 33%) PDF
+
+
+
+Y. Kim, J. Chen, M.-C. Chang, E. M. Provost, X. Wang, and S. Lyu, “Joint Event Localization and Classification of Human Action Videos with Event Transitions”, IEEE Automatic Face and Gesture Recognition (FG), Ljubljana, Slovenia, 2015. (acceptance rate 12%).
+            PDF Slides
+
+
+
+Yueming Yang, Ming-Ching Chang, and Siwei Lyu, “Seeing As It Happens: Real Time 3D Video Event Visualization”, IEEE Conference on Image Processing (ICIP), Québec City, Canada, 2015. PDF
+
+
+
+Jixu Chen, Ming-Ching Chang, Tai-Peng Tian, Ting Yu, and Peter Tu, “Bridging Computer Vision and Social Science: A Multi-Camera Vision System for Social Interaction Training Analysis”, IEEE International Conference on Image Processing (ICIP), Quebec City, Quebec, Canada, 2015. PDF
+
+
+
+Peter Tu, A. Logan-Terry, J. Chen, G. Rubin, Ming-Ching Chang, J. Hockett, Ting Yu, T.-P. Tian, “Cross-Culture Training Analysis via Social Science and Computer Vision Methods”, International Conference on Applied Human Factors and Ergonomics (AHFE), Las Vegas, NV, USA, 2015. PDF
+
+
+
+Andrew Pulver, Ming-Ching Chang, and Siwei Lyu, “Shot Segmentation and Grouping for PTZ Camera Videos”, Annual Symposium on Information Assurance (ASIA), Albany, NY, USA, 2015. PDF
+
+
+
+Y. Zhang, X. Liu, M.-C. Chang, W. Ge, and T. Chen, “Spacio-Temporal Phrases for Activity Recognition”, in Proceeding of European Conference on Computer Vision (ECCV), Firenze, Italy, Oct. 2012 (acceptance rate 25%).
+            
+
+
+Y. Zhang, W. Ge, M.-C. Chang, and X. Liu, “Group-Level Context Learning for Event Recognition”, IEEE Workshop on Applications of Computer Vision (WACV), Oral presentation (acceptance rate 8%), Best Student Paper Award, Breckenridge, Colorado, USA, Jan. 2012.
+            
+
+
+M.-C. Chang, N. Krahnstoever, and W. Ge, “Probabilistic Group-Level Mo(on Analysis and Scenario Recognition”, IEEE International Conference on Computer Vision (ICCV), Barcelona, Spain, Nov. 2011 (acceptance rate 23.7%).
+            
+
+
+N. Krahnstoever, M.-C. Chang, and W. Ge, “Gaze and Body Pose Estimation from a Distance”, IEEE International Conference on Advanced Video and Signal-Based Surveillance (AVSS), Best Paper Award - Runner up, Klagenfurt, Austria, Aug. - Sep. 2011.
+            
+
+
+K. Sankaranarayanan, M.-C. Chang, and N. Krahnstoever, “Tracking Gaze Direction from Far-Field Surveillance Cameras”, IEEE Workshop on Applications of Computer Vision (WACV), Kona, Hawaii, USA, Jan. 2011.
+            
+
+
+F. F. Leymarie, M.-C. Chang, C. Imielinska, and B. B. Kimia, “A General Approach to Model Biomedical Data from 3D Unorganised Point Clouds with Medial Scaffolds”, Eurographics Workshop on Visual Computing for Biology and Medicine (VCBM), Leipzig, Germany, July 2010.
+            
+
+
+M.-C. Chang and B. B. Kimia, “Measuring 3D Shape Similarity by Matching the Medial Scaffolds”, 3-D Digital Imaging and Modeling (3DIM) in conjunction with IEEE International Conference on Computer Vision (ICCV), Kyoto, Japan, pp. 1473-1480, Oct. 2009 (acceptance rate 45%).
+            
+
+
+M.-C. Chang and B. B. Kimia, “Regularizing 3D Medial Axis Using Medial Scaffold Transforms”, IEEE Computer Vision and Pattern Recognition (CVPR), Anchorage, Alaska, USA, pp. 1-8, June, 2008 (acceptance rate 32%).
+            
+
+
+M.-C. Chang, F. F. Leymarie, and B. B. Kimia, “Surface Reconstruction from Point Clouds by Transforming the Medial Scaffold”, IEEE 3-D Digital Imaging and Modeling (3DIM), Montreal, Canada, pp.13-20, 2007.
+            
+
+
+ M.-C. Chang, F. F. Leymarie, and B. B. Kimia, “3D Shape Registration Using Regularized Medial Scaffolds”, oral presentation in IEEE 3D Data Processing, Visualization and Transmission (3DPVT), Thessaloniki, Greece, pp. 987-994, 2004.
+            
+
+
+
+Workshops:
+        
+
+Ming-Ching Chang, Yi Wei, Nenghui Song, Siwei Lyu, “Video Analytics in Smart Transportation for the AIC'18 Challenge”, IEEE CVPR Workshop on the NVIDIA AICity Challenge, 2018. PDF
+
+
+
+(as participating team), “The Visual Object Tracking VOT2015 challenge results”,  ICCV Workshop on Visual Object Tracking Challenge, Santiago, Chile, 2015. PDF
+
+
+
+(as participating team), “The Visual Object Tracking VOTITR2015 challenge results”,  ICCV Workshop on Visual Object Tracking Challenge, Santiago, Chile, 2015. PDF
+
+
+
+
+Awards and Honors
+
+
+Honorary Mention Award, IEEE Smart World NVIDIA AI City Challenge, 2017.
+GE Belief - Stay Lean and Go Fast Management Award, GE Global Research Center, 2015.
+Best Student Paper Award, IEEE Workshop on the Applications of Computer Vision (WACV), 2012 (top 2 out of 63 accepted papers).
+Best Paper Award Runner-Up, IEEE International Conference on Advanced Video and Signal-based Surveillance (AVSS), 2011 (top 2 out of 81 accepted papers).
+GE Above and Beyond Awards:
+
+Gold Award for Stay Lean to Go Fast (2015)
+Bronze Award for Stay Lean to Go Fast (2015)
+Bronze Award for Empower and Inspire Each Other (2015)
+Bronze Award for Enternal Focus (2015)
+Bronze Award for Expertise (2013)
+Bronze Award for Imagination & Courage (2012)
+Silver Award for Expertise (2011)
+Level 3 Award for Innovation (2010)
+
+
+
+

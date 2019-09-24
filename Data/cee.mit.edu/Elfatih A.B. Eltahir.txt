@@ -1,0 +1,5 @@
+Elfatih A.B. Eltahir
+https://cee.mit.edu/people_individual/elfatih-a-b-eltahir/
+https://cee.mit.edu
+dstewart@MIT.EDU
+Research InterestsI am interested in understanding how regional land use/land cover change as well as global climate change may impact society through changes in the patterns of water availability, extreme weather, and spread of vector-borne diseases. Together with my students, we develop sophisticated numerical models (MIT Regional Climate Model (MRCM); and the Hydrology, Entomology and Malaria Transmission Simulator (HYDREMATS)) that are used for predicting such impacts at regional scales. We test these models against satellite observations and archived data sets of hydrologic and atmospheric variables, as well as data collected in our own field campaigns.

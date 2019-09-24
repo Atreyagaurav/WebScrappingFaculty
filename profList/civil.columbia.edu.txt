@@ -1,0 +1,10 @@
+Ali Ashrafi;https://civil.columbia.edu/faculty/ali-ashrafi
+William Becker;https://civil.columbia.edu/faculty/william-becker
+Raimondo Betti;https://civil.columbia.edu/faculty/raimondo-betti
+Adrian Brügger;https://civil.columbia.edu/faculty/adrian-brugger
+Julius Chang;https://civil.columbia.edu/faculty/julius-chang
+Gautam Dasgupta;https://civil.columbia.edu/faculty/gautam-dasgupta
+George Deodatis;https://civil.columbia.edu/faculty/george-deodatis
+Sharon Di;https://civil.columbia.edu/faculty/sharon-di
+Maria Feng;https://civil.columbia.edu/faculty/maria-feng
+Jacob Fish;https://civil.columbia.edu/faculty/jacob-fish

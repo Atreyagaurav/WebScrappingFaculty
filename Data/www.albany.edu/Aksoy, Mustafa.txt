@@ -1,0 +1,141 @@
+Aksoy, Mustafa
+https://www.albany.edu/ceas/mustafa-aksoy.php
+https://www.albany.edu
+maksoy@albany.edu
+Research Interests
+Dr. Aksoy’s research interests are in remote geophysical sensing using microwave technology and electromagnetic theory.
+        
+Additional Information
+
+Dr. Aksoy is a member of the Institute of Electrical and Electronics Engineers (IEEE), the IEEE Geoscience and Remote Sensing Society (GRSS), and the IEEE Geoscience and Remote Sensing Society’s Frequency Allocations in Remote Sensing (FARS) Committee. He also serves as a reviewer for the IEEE Transactions on Geoscience and Remote Sensing (TGRS), and IEEE Geoscience and Remote Sensing Letters (GRSL).
+        
+
+Publications
+
+Journal Publications:
+
+
+Jezek, K.; Johnson, J.; Tan, S.; Tsang, L.; Andrews, M.; Brogioni, M.; Macelloni, G.; Durand, M.; Chen, C.; Belgiovane, D.; Duan, Y.; Yardim, C.; Li, H.; Bringer, A.; Leuski, V.; Aksoy, M., “500-2000 MHz Brightness-Temperature Spectra of the Northwestern Greenland Ice Sheet,” Geoscience and Remote Sensing, IEEE Transactions on, vol. 56, no. 3, pp.1485-1496, Mar. 2018.
+            doi: 10.1109/TGRS.2017.2764381
+
+
+            Mohammed, P.N.; Aksoy, M.; Piepmeier, J.R.; Johnson, J.T.; Bringer, A., “SMAP L-band Microwave Radiometer: RFI Mitigation Pre-Launch Analysis and First Year On-Orbit Observations,” Geoscience and Remote Sensing, IEEE Transactions on, vol. 54, no. 10, pp.6035-6047, Oct. 2016.
+            doi: 10.1109/TGRS.2016.2580459.
+            
+
+Aksoy, M.; Johnson, J.T.; Misra, S.; Colliander, A.; O’Dwyer, I., “L-Band Radio Frequency Interference Observations during the SMAP Validation Experiment 2012,” Geoscience and Remote Sensing, IEEE Transactions on, vol. 54, no. 3, pp.1323-1335, Mar. 2016.
+            doi: 10.1109/TGRS.2015.2477686
+            
+
+
+Tan, S.; Aksoy, M.; Brogioni, M.; Macelloni, G.; Durand, M.; Jezek, K.; Wang, T.; Tsang, L.; Johnson, J.T.; Drinkwater, M.; Brucker, L., “Physical Models of Layered Polar Firn Brightness Temperatures from 0.5GHz to 2GHz ,” Selected Topics in Applied Earth Observations and Remote Sensing, IEEE Journal of , vol. 8, no. 7, pp. 3681-3691, July 2015.
+            doi: 10.1109/JSTARS.2015.2403286
+            
+
+
+Jezek, K.C.; Johnson, J.T.; Drinkwater, M.R.; Macelloni, G.; Leung Tsang; Aksoy, M.; Durand, M., “Radiometric Approach for Estimating Relative Changes in Intraglacier Average Temperature,” Geoscience and Remote Sensing, IEEE Transactions on , vol.53, no.1, pp.134,143, Jan. 2015.
+            doi: 10.1109/TGRS.2014.2319265
+            
+
+
+Piepmeier, J.R.; Johnson, J.T.; Mohammed, P.N.; Bradley, D.; Ruf, C.; Aksoy, M.; Garcia, R.; Hudson, D.; Miles, L.; Wong, M., “Radio-Frequency Interference Mitigation for the Soil Moisture Active Passive Microwave Radiometer,” Geoscience and Remote Sensing, IEEE Transactions on , vol.52, no.1, pp.761,775, Jan. 2014.
+            doi: 10.1109/TGRS.2013.2281266
+            
+
+
+Aksoy, M.; Johnson, J.T., “A Comparative Analysis of Low-Level Radio Frequency Interference in SMOS and Aquarius Microwave Radiometer Measurements,” Geoscience and Remote Sensing, IEEE Transactions on , vol.51, no.10, pp.4983,4992, Oct. 2013.
+            doi: 10.1109/TGRS.2013.2266278
+            
+
+
+Aksoy, M.; Johnson, J.T., “A Study of SMOS RFI Over North America,” Geoscience and Remote Sensing Letters, IEEE , vol.10, no.3, pp.515,519, May 2013.
+            doi: 10.1109/LGRS.2012.2211993
+            
+
+
+Conference Publications:
+
+
+
+Aksoy, M.; Racette P. E., ”Tracking Calibration Stability in Climate Monitoring Microwave Radiometers using On-board 3-Point Calibration,” 2017 IEEE International Geoscience and Remote Sensing Symposium (IGARSS), Fort Worth, TX, 2017, pp. 2118-2120.
+            doi: 10.1109/IGARSS.2017.8127402
+
+
+Johnson, J. T.; Mohammed P.N.; Piepmeier J.R.; Bringer, A.; Aksoy, M., "Soil Moisture Active Passive (SMAP) microwave radiometer radio-frequency interference (RFI) mitigation: Algorithm updates and performance assessment," 2016 IEEE International Geoscience and Remote Sensing Symposium (IGARSS), Beijing, China, 2016, pp. 123-124.
+            doi: 10.1109/IGARSS.2016.7729022
+
+
+Johnson, J. T.; Jezek, K. C.; Aksoy, M.; Bringer, A.; Yardim, C.; Andrews, M.; Chen, C. C.; Belgiovane, D.; Leuski, V.; Durand, M., Duan; Y., Macelloni, G.; Brogioni, M.; Tan, S.; Wang, T. L.; Tsang, L., "The Ultra-wideband Software-Defined Radiometer (UWBRAD) for ice sheet internal temperature sensing: Results from recent observations," 2016 IEEE International Geoscience and Remote Sensing Symposium (IGARSS), Beijing, China, 2016, pp. 7085-7087.
+            doi: 10.1109/IGARSS.2016.7730848
+
+
+Duan, Y.; Durand, M.; Jezek, K.; Yardim, C.; Bringer, A.; Aksoy, M.; Johnson, J., "Testing the feasibility of a bayesian retrieval of greenland ice sheet internal temperature from ultra-wideband software-defined microwave radiometer (UWBRAD) measurements," 2016 IEEE International Geoscience and Remote Sensing Symposium (IGARSS), Beijing, China, 2016, pp. 7092-7093.
+            doi: 10.1109/IGARSS.2016.7730850
+
+
+Aksoy, M.; Johnson, J.T.; Misra, S., “Radio frequency interference observations using an L-Band direct sampling receiver during the SMAPVEX12 airborne campaign,” Geoscience and Remote Sensing Symposium (IGARSS), 2014 IEEE International , vol., no., pp.219,222, 13-18 July 2014.
+            doi: 10.1109/IGARSS.2014.6946396
+
+
+Aksoy, M.; Johnson, J.T.; Jezek, K.C.; Durand, M.; Drinkwater, M.; Macelloni, G.; Leung Tsang, “An examination of multi-frequency microwave radiometry for probing subsurface ice sheet temperature,” Geoscience and Remote Sensing Symposium (IGARSS), 2014 IEEE International , vol., no., pp.3614,3617,13-18 July 2014.
+            doi: 10.1109/IGARSS.2014.6947265
+
+
+Macelloni, G.; Brogioni, M.; Aksoy, M.; Johnson, J.T.; Jezek, K.C.; Drinkwater, M.R., “Understanding SMOS data in Antarctica,” Geoscience and Remote Sensing Symposium (IGARSS), 2014 IEEE International , vol., no., pp.3606,3609, 13-18 July 2014.
+            doi: 10.1109/IGARSS.2014.6947263
+
+
+Bradley, D.; Morris, J.M.; Adali, T.; Johnson, J.T.; Aksoy, M., “On the detection of RFI using the complex signal kurtosis in microwave radiometry,” Microwave Radiometry and Remote Sensing of the Environment (MicroRad), 2014 13th Specialist Meeting on , vol., no., pp.33,38, 24-27 March 2014.
+            doi: 10.1109/MicroRad.2014.6878903
+
+
+Misra, S.; Johnson, J.; Aksoy, M.; Jinzheng Peng; Bradley, D.; O’Dwyer, I.; Padmanabhan, S.; Dawson, D.; Chazanoff, S.; Latham, B.; Gaier, T.; Flores-Helizon, C.; Denning, R., “SMAP RFI mitigation algorithm performance characterization using airborne high-rate direct-sampled SMAPVEX 2012 data,” Geoscience and Remote Sensing Symposium (IGARSS), 2013 IEEE International , vol., no., pp.41,44, 21-26 July 2013.
+            doi: 10.1109/IGARSS.2013.6721087
+
+
+Aksoy, M.; Johnson, J.; Misra, S.; O’Dwyer, I., “RFI characterization for SMAP using L-band direct sampled data obtained during the SMAPVEX12 airborne campaign,” Radio Science Meeting (USNC-URSI NRSM), 2013 US National Committee of URSI National , vol., no., pp.1,1, 9-12 Jan. 2013.
+            doi: 10.1109/USNC-URSI-NRSM.2013.6524989
+
+
+Misra, S.; Johnson, J.; Aksoy, M.; Bradley, D.; Hsin Li; Mederios, J.; Piepmeier, J.; O’Dwyer, I., “Performance characterization of the SMAP RFI mitigation algorithm using direct-sampled SMAPVEX 2012 data,” Radio Science Meeting (USNC-URSI NRSM), 2013 US National Committee of URSI National , vol., no., pp.1,1, 9-12 Jan. 2013.
+            doi: 10.1109/USNC-URSI-NRSM.2013.6524988
+
+
+Aksoy, M.; Park, J.; Johnson, J.T., “Joint analysis of radio frequency interference from SMOS measurements and from airborne observations,” General Assembly and Scientific Symposium, 2011 XXXth URSI , vol., no., pp.1,4, 13-20 Aug. 2011.
+            doi: 10.1109/URSIGASS.2011.6050795
+
+
+Johnson, J.T.; Aksoy, M., “Studies of radio frequency interference in SMOS observations,” Geoscience and Remote Sensing Symposium (IGARSS), 2011 IEEE International , vol., no., pp.4210,4212, 24-29 July 2011.
+            doi: 10.1109/IGARSS.2011.6050159
+
+
+Grants
+
+
+Title: Ensemble Detector: A Novel Tool for Analysis of Non-Stationary Processes
+            Project PI: Mustafa Aksoy (Sole PI)
+
+            Source of Support: 	NASA
+
+            Total Budget: $55,481
+
+            Duration: Apr 20, 2018 – Apr 19, 2019
+
+
+IEEE Geoscience and Remote Sensing Society Travel Grant, $300, July 2017.
+
+
+The U.S. National Committee for the International Union of Radio Science (USNC-URSI) Travel Fellowship Grant, $600, January 2013.
+
+
+The U.S. National Committee for the International Union of Radio Science (USNC-URSI) Travel Fellowship Grant, $600, January 2012.
+
+
+The U.S. National Committee for the International Union of Radio Science (USNC-URSI) Travel Fellowship Grant, $600, January 2011.
+
+
+Awards and Honors
+
+NASA “Robert H. Goddard Exceptional Achievement
+        for Engineering” award, March 2016. 
+

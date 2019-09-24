@@ -1,0 +1,5 @@
+Carolina Osorio
+https://cee.mit.edu/people_individual/carolina-osorio/
+https://cee.mit.edu
+osorioc@mit.edu
+Research InterestsProfessor Osorio develops operations research techniques to inform the design and operations of transportation systems. Her research then uses these techniques to mitigate the economic, human health, energy and environmental impacts of urban congestion, to improve the reliability and robustness of transportation systems, as well as to enhance the experience of travelers. The techniques combine ideas from the fields of probability theory, simulation, simulation-based optimization, derivative-free optimization, nonlinear optimization, statistics, traffic control and traffic flow theory. She has applied these techniques to address, for instance, large-scale simulation-based urban transportation problems and energy-efficient traffic management problems.

@@ -1,0 +1,5 @@
+Ruben Juanes
+https://cee.mit.edu/people_individual/ruben-juanes/
+https://cee.mit.edu
+juanes@mit.edu
+Research InterestsI am a computational geoscientist and engineer, with a strong interest in the physics of multiphase flow in porous media. My research focuses on advancing our fundamental understanding and predictive capabilities of the simultaneous flow of two or more fluids through rocks, soils and other porous materials. Research in my group combines theory, simulation and experiments that elucidate fundamental aspects of multi-fluid flow, which we then apply for prediction of large-scale Earth science problems in the areas of energy and the environment, including geological carbon sequestration, methane hydrates, and ecohydrology of arid environments.

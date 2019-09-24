@@ -1,0 +1,7 @@
+Alberto Cerpa
+https://engineering.ucmerced.edu/content/alberto-e-cerpa
+https://engineering.ucmerced.edu
+acerpa@ucmerced.edu
+Research Interests: Professor Cerpa's broad interests lie broadly in the computer networking and distributed systems areas. His recent focus has been systems research in wireless sensor networks, with emphasis in wireless radio channel measurement and modeling, link quality estimation, routing algorithms, topology control, and programming models. Professor Cerpa is also interested in Internet protocols and operating systems issues. In the past, he has been involved in active networking, mobile IP, and protocol design and verification research.
+His research group develops and deploys sensor networks that address some of the grand challenges in science and engineering, mostly in the energy, health and instruments for scientific discovery domains. Some of his projects include developing instruments for solar radiation mapping, energy and occupancy monitoring in smart buildings and exercise physiology monitoring and modeling.
+

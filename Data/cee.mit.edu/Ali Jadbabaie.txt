@@ -1,0 +1,15 @@
+Ali Jadbabaie
+https://cee.mit.edu/people_individual/ali-jadbabaie/
+https://cee.mit.edu
+jadbabai@MIT.EDU
+Research Interests
+Network Science, Network Economics
+Consensus and information aggregation in social networks
+Cooperative control of multiagent systems
+Applications of algebraic topology in coverage and deployment of sensor networks
+Analysis, optimization, and control of networked dynamical systems in physics, engineering and biology
+Optimization, and optimal control of nonlinear and hybrid systems
+Motion coordination and vison-based control of unmanned air and ground vehicles
+Robust control
+Spectral Graph theory
+

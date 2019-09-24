@@ -1,0 +1,791 @@
+
+European Business School;http://www.ebs-paris.com/
+European Management Center Paris;http://www.emc-campus.com/
+Grenoble Ecole de Management;http://www.grenoble-em.com/
+Groupe Sup de Co Amiens Picardie;http://www.supco-amiens.fr/
+Groupe Sup de Co Montpellier;http://www.supco-montpellier.fr/
+IDRAC (Institut de recherche en action commerciale);http://www.ecoles-idrac.com/
+Institut Catholique d'Arts et Métiers Lille;http://www.icam.fr/
+Institut Catholique d'Arts et Métiers Nantes;http://www.icam.fr/presentation/nantes.htm
+Institut Catholique de Paris;http://www.icp.fr/
+Institut Catholique de Toulouse;http://www.ict-toulouse.asso.fr/
+Institut Commercial de Nancy;http://www.icn-nancy.com/
+Institut de Recherche et d'Enseignement Supérieur aux Techniques de l'électronique;http://www.ireste.fr/
+Institut des hautes études économiques et commerciales;http://www.inseec.fr/
+http://www.ismra.fr/
+Institut des Sciences de la Matière et du Rayonnement;Institut des Sciences de l'Ingénieur de Clermont-Ferrand;http://cust.univ-bpclermont.fr/
+Institut des Sciences de l'Ingénieur de Montpellier;http://www.isim.univ-montp2.fr/
+Institut d'Etudes Politiques de Bordeaux;http://www.iep.u-bordeaux.fr/
+Institut d'Etudes Politiques de Paris (Sciences Po);http://www.sciences-po.fr/
+Institut National des Sciences Appliquées de Lyon;http://www.insa-lyon.fr/
+Institut National des Sciences Appliquées de Rennes;http://www.insa-rennes.fr/
+Institut National des Sciences Appliquées de Rouen;http://www.insa-rouen.fr/
+Institut National des Sciences Appliquées de Toulouse;http://www.insa-tlse.fr/
+Institut National des Télécommunications;http://www.int-evry.fr/
+Institut National Polytechnique de Grenoble;http://www.inpg.fr/
+Institut National Polytechnique de Lorraine;http://www.inpl-nancy.fr/
+Institut National Polytechnique de Toulous;http://www.inp-fc.fr/
+Institut National Supérieur de FrmationAgro-Aimehtt://agroroazhoninra.fretab/infa/accuInstitt Supéreur Agicole d Behtp://ww.isInsttut Suérieur dAgricuturettp://ww.isa.fpl.asIstitutSupériur d'Aricultue Rhonhttp:/www.isInstitt Sup�rieure 'Electonique dhtt://wwwisInsttut Suérieured'Elecroniquedhtt://wwwisIntitut extileet Chimque http//www.ieSciller Iternatinal Unversityhttp:/www.scillerpaiSchiler Inernationl Univrsity,Strahtp://ww.schillrstrasburUnivrsité laise Pscal (lermontFerrhttp//www.uiv-bpclemoUiversitéBordhtp://ww.cribx1u-bordeUniversté Catolique ehttp//www.ful.asUniersité atholiqe de lhttp//www.Universté Catolique http:/www.uni-catholUnivrsité Carles-d-Gaull (Lilhttp//www.niv-lilUniversté Clade Berard (http//www.uiv-lyoniversté d'Ax-Marselhtt://wwwu-3mUniersité 'htp://ww.univangeUiversit� d'htt://wwwuniv-aroUniersité 'Auverne (Cermont-errhtp://ww.u-clemonUnversitéd'Ahtt://wwwuniv-avgnUniverité de ouhtt://ww.u-bourggUnivesité d Bretane Ocidhtt://www.niv-brUnivrsité d Bretahttp:/www.unv-uUnivrsité e CaenBasse orhtt://www.nicaniversté de ergy-ohttp//www.-cerUnversitéde Core Pascahtt://ww.univ-crUniverité deFranch-http//www.uiv-fcomniversté de Hute-htp://ww.univ-muhouUnivrsité e la M�diterraée (Ax Marselhtp://ww.univmeUniversité de La Rochelle;http://www.univ-lr.fr/
+Université de Limoges;http://www.unilim.fr/
+Université de Marne la Vallée;http://www.univ-mlv.fr/
+Université de Metz;http://www.univ-metz.fr/
+Université de Montpellier I;http://www.univ-montp1.fr/
+Université de Montpellier II;http://www.univ-montp2.fr/
+Université de Nantes;http://www.univ-nantes.fr/
+Université de Nice-Sophia Antipolis;http://www.unice.fr/
+Université Denis Diderot (Paris VII);http://www.sigu7.jussieu.fr/
+Université de Pau et des Pays de l'Adour;http://www.univ-pau.fr/
+Université de Perpignan;http://www.univ-perp.fr/
+Université de Picardie Jules-Verne;http://www.u-picardie.fr/
+Université de Poitiers;http://www.univ-poitiers.fr/
+Université de Provence (Aix-Marseille I);http://www.up.univ-mrs.fr/
+Université de Reims Champagne-Ardenne;http://www.univ-reims.fr/
+Université de Rouen - Haute Normandie;http://www.univ-rouen.fr/
+Université de Savoie;http://www.univ-savoie.fr/
+Université des Sciences et Technologies de Lille (Lille I);http://www.univ-lille1.fr/
+Université des Sciences Humaines (Strasbourg II);http://ushs.u-strasbg.fr/
+Université des Sciences Sociales (Toulouse I);http://www.univ-tlse1.fr/
+Université de Technologie de Belfort Montbéliard;http://www.utbm.fr/
+Université de Technologie de Compiègne;http://www.utc.fr/
+Université de Technologie de Troyes;http://www.utt.fr/
+Université de Toulouse;http://www.univ-toulouse.fr/
+Université de Toulouse-le-Mirail (Toulouse II);http://www.univ-tlse2.fr/
+Université de Valenciennes et du Hainaut-Cambrésis;http://www.univ-valenciennes.fr/
+Université de Versailles Saint-Quentin-en-Yvelines;http://www.uvsq.fr/
+Université d'Evry Val d'Essonne;http://www.univ-evry.fr/
+Université d'Orléans;http://www.univ-orleans.fr/
+Université du Droit et de la Sante (Lille II);http://www.univ-lille2.fr/
+Université du Havre;http://www.univ-lehavre.fr/
+Université du Littoral Cote d'Opale;http://www.univ-littoral.fr/
+Université du Maine;http://www.univ-lemans.fr/
+Université du Sud, Toulon et Var;http://www.univ-tln.fr/
+Université François Rabelais de Tours;http://www.univ-tours.fr/
+Université Henri Poincaré (Nancy I);http://www.uhp-nancy.fr/
+Université Jean Monnet;http://www.univ-st-etienne.fr/
+Université Jean Moulin (Lyon III);http://www.univ-lyon3.fr/
+Université Joseph Fourier (Grenoble I);http://www.ujf-grenoble.fr/
+Université Louis Pasteur (Strasbourg I);http://www-ulp.u-strasbg.fr/
+Université Lumiére (Lyon II);http://www.univ-lyon2.fr/
+Université Michel de Montaigne (Bordeaux III );http://www.montaigne.u-bordeaux.fr/
+Université Montesquieu (Bordeaux IV);http://www.montesquieu.u-bordeaux.fr/
+Université Nancy II;http://www.univ-nancy2.fr/
+Université Panthéon-Assas (Paris II);http://www.u-paris2.fr/
+Université Panthéon-Sorbonne (Paris I);http://www.univ-paris1.fr/
+Université Paris-Dauphine (Paris IX);http://www.dauphine.fr/
+Université Paris Nanterre (Paris X);http://www.u-paris10.fr/
+Université Paris Nord (Paris XIII);http://www.univ-paris13.fr/
+Université Paris-Sorbonne (Paris IV);http://www.paris4.sorbonne.fr/
+Université Paris Sud (Paris XI);http://www.u-psud.fr/
+Université Paul Sabatier (Toulouse III);http://www.ups-tlse.fr/
+Université Paul Valéry (Montpellier III);http://www.univ-montp3.fr/
+Université Pierre et Marie Curie (Paris VI);http://www.jussieu.fr/
+Université Pierre Mendes-France (Grenoble II);http://www.upmf-grenoble.fr/
+Université René Descartes (Paris V);http://www.univ-paris5.fr/
+Université Rennes I;http://www.univ-rennes1.fr/
+Université Rennes II - Haute-Bretagne;http://www.uhb.fr/
+Université Robert Schuman (Strasbourg III);http://www-urs.u-strasbg.fr/
+Université Sorbonne-Nouvelle (Paris III);http://www.univ-paris3.fr/
+Université Stendhal (Grenoble III);http://www.u-grenoble3.fr/
+Université Val-de-Marne (Paris XII);http://www.univ-paris12.fr/
+Université Victor Segalen (Bordeaux II);http://www.u-bordeaux2.fr/
+Université Vincennes Saint-Denis (Paris VIII);http://www.univ-paris8.fr/
+Université Omar Bongo;http://www.uob.ga/
+Aga Khan University;http://www.aku.edu/
+American InterContinental University - London;http://www.aiuniv.edu/
+Anglia Ruskin University;http://www.anglia.ac.uk/
+Aston University;http://www.aston.ac.uk/
+Birkbeck College, University of London;http://www.bbk.ac.uk/
+Birmingham City University;http://www.bcu.ac.uk/
+Bournemouth University;http://www.bournemouth.ac.uk/
+British College of Osteopathic Medicine;http://www.bcom.ac.uk/
+Brunel University Uxbridge;http://www.brunel.ac.uk/
+Buckinghamshire New University;http://www.bucks.ac.uk/
+Camberwell College of Arts;http://www.camb.linst.ac.uk/
+Canterbury Christ Church University;http://www.canterbury.ac.uk/
+Cardiff University;http://www.cardiff.ac.uk/
+Central Saint Martins College of Art & Design;http://www.csm.linst.ac.uk/
+Chelsea College of Art and Design;http://www.chelsea.linst.ac.uk/
+City University;http://www.city.ac.uk/
+Courtauld Institute of Art, University of London;http://www.courtauld.ac.uk/
+Coventry University;http://www.coventry.ac.uk/
+Cranfield University;http://www.cranfield.ac.uk/
+De Montfort University Leicester;http://www.dmu.ac.uk/
+European School of Economics;http://www.eselondon.ac.uk/
+Falmouth University;http://www.falmouth.ac.uk/
+Glasgow Caledonian University;http://www.gcal.ac.uk/
+Glasgow School of Art;http://www.gsa.ac.uk/
+Goldsmiths College, University of London;http://www.gold.ac.uk/
+Heriot-Watt University;http://www.hw.ac.uk/
+Heythrop College, University of London;http://www.heythrop.ac.uk/
+Huron University USA in London;http://www.huron.ac.uk/
+ifs University College;http://www.ifslearning.ac.uk/
+Imperial College London;http://www.ic.ac.uk/
+Imperial College School of Medicine;http://www.med.ic.ac.uk/
+Institue of Historical Research, University of London;http://ihr.sas.ac.uk/
+Institute of Advanced Legal Studies, University of London;http://www.sas.ac.uk/ials/
+Institute of Classical Studies, University of London;http://www.sas.ac.uk/icls/
+Institute of Commonwealth Studies, University of London;http://www.ihr.sas.ac.uk/ics/
+Institute of Education, University of London;http://www.ioe.ac.uk/
+Institute of Germanic Studies, University of London;http://www.sas.ac.uk/igs/
+Institute of Latin American Studies, University of London;http://www.sas.ac.uk/ilas/
+International Centre for Isclamic Science;http://www.kolieh.com/
+International Colleges of Islamic Science;http://www.islamiccolleges.com/
+Keele University;http://www.keele.ac.uk/
+King's College London, University of London;http://www.kcl.ac.uk/
+Kingston University;http://www.kingston.ac.uk/
+Leeds Metropolitan University;http://www.lmu.ac.uk/
+Liverpool Hope University College;http://www.hope.ac.uk/
+Liverpool John Moores University;http://www.livjm.ac.uk/
+London Business School;http://www.lbs.lon.ac.uk/
+London College of Science & Technology;http://www.lcst.ac/
+London Guildhall University;http://www.lgu.ac.uk/
+London Institute of Management and Technology;http://www.limt.co.uk/
+London Metropolitan University;http://www.londonmet.ac.uk/
+London School of Business & Finance;http://www.lsbf.org.uk/
+London School of Economics and Political Science, University of London;http://www.lse.ac.uk/
+London School of Hygiene & Tropical Medicine, University of London;http://www.lshtm.ac.uk/
+London School of Jewish Studies;http://www.brijnet.org/lsjs/
+Loughborough University;http://www.lboro.ac.uk/
+Middlesex University;http://www.mdx.ac.uk/
+Napier University;http://www.napier.ac.uk/
+Newport International University;http://www.niu.org.uk/
+Nottingham Trent University;http://www.ntu.ac.uk/
+Open University;http://www.open.ac.uk/
+Oxford Brookes University;http://www.brookes.ac.uk/
+Queen Mary and Westfield College, University of London;http://www.qmw.ac.uk/
+Richmond University - The American International University in London;http://www.richmond.ac.uk/
+Roehampton University of Surrey;http://www.roehampton.ac.uk/
+Royal Academy of Music, University of London;http://www.ram.ac.uk/
+Royal College of Art;http://www.rca.ac.uk/
+Royal College of Music, University of London;http://www.rcm.ac.uk/
+Royal Free Hospital School of Medicine, University of London;http://www.rfhsm.ac.uk/
+Royal Holloway and Bedford New College;http://www.rhbnc.ac.uk/
+Saint George's Hospital Medical School, University of London;http://www.sghms.ac.uk/
+Schiller International University, London;http://www.schillerlondon.ac.uk/
+School of Oriental and African Studies, University of London;http://www.soas.ac.uk/
+School of Pharmacy, University of London;http://www.ulsop.ac.uk/
+School of Slavonic and East European Studies, University of London;http://www.ssees.ac.uk/
+Sheffield Hallam University;http://www.shu.ac.uk/
+Sotheby´s Institute of Art - London;http://www.sothebysinstitutelondon.com/
+Southampton Solent University;http://www.solent.ac.uk/
+South Bank University;http://www.sbu.ac.uk/
+Staffordshire University;http://www.staffs.ac.uk/
+St.Patrick's International College, London;http://www.st-patricks.ac.uk/
+Stratford College London;http://www.sclondon.ac/
+Swansea Metropolitan University;http://www.smu.ac.uk/
+Thames Valley University;http://www.tvu.ac.uk/
+The American University in London;http://www.aul.edu/
+The Manchester Metropolitan University;http://www.mmu.ac.uk/
+The Queen's University Belfast;http://www.qub.ac.uk/
+The Robert Gordon University;http://www.rgu.ac.uk/
+Trinity College Carmarthen;http://www.trinity-cm.ac.uk/
+Trinity College of Music;http://www.tcm.ac.uk/
+United Medical and Dental Schools, University of London;http://www.umds.ac.uk/
+University Campus Suffolk;http://www.ucs.ac.uk/
+University College London, University of London;http://www.ucl.ac.uk/
+University of Aberdeen;http://www.abdn.ac.uk/
+University of Abertay Dundee;http://www.abertay.ac.uk/
+University of Bath;http://www.bath.ac.uk/
+University of Bedfordshire;http://www.beds.ac.uk/
+University of Birmingham;http://www.bham.ac.uk/
+University of Bolton;http://www.bolton.ac.uk/
+University of Bradford;http://www.brad.ac.uk/
+University of Brighton;http://www.bton.ac.uk/
+University of Bristol;http://www.bris.ac.uk/
+University of Buckingham;http://www.buck.ac.uk/
+University of Cambridge;http://www.cam.ac.uk/
+University of Central Lancashire;http://www.uclan.ac.uk/
+University of Chester;http://www.chester.ac.uk/
+University of Derby;http://www.derby.ac.uk/
+University of Dundee;http://www.dundee.ac.uk/
+University of Durham;http://www.dur.ac.uk/
+University of East Anglia;http://www.uea.ac.uk/
+University of East London;http://www.uel.ac.uk/
+University of Edinburgh;http://www.ed.ac.uk/
+University of Essex;http://www.essex.ac.uk/
+University of Exeter;http://www.ex.ac.uk/
+University of Glamorgan;http://www.glam.ac.uk/
+University of Glasgow;http://www.gla.ac.uk/
+University of Gloucestershire;http://www.glos.ac.uk/
+University of Greenwich;http://www.gre.ac.uk/
+University of Halifax, Birmingham Campus;http://www.halifaxuni.ac/
+University of Hertfordshire;http://www.herts.ac.uk/
+University of Huddersfield;http://www.hud.ac.uk/
+University of Hull;http://www.hull.ac.uk/
+University of Kent at Canterbury;http://www.ukc.ac.uk/
+University of Lancaster;http://www.lancs.ac.uk/
+University of Leeds;http://www.leeds.ac.uk/
+University of Leicester;http://www.le.ac.uk/
+University of Lincoln;http://www.lincoln.ac.uk/
+University of Liverpool;http://www.liv.ac.uk/
+University of London;http://www.lon.ac.uk/
+University of Manchester;http://www.man.ac.uk/
+University of Newcastle-upon-Tyne;http://www.ncl.ac.uk/
+University of Northampton;http://www.northampton.ac.uk/
+University of North London;http://www.unl.ac.uk/
+University of Northumbria at Newcastle;http://www.unn.ac.uk/
+University of Nottingham;http://www.nottingham.ac.uk/
+University of Oxford;http://www.ox.ac.uk/
+University of Paisley;http://www.paisley.ac.uk/
+University of Plymouth;http://www.plymouth.ac.uk/
+University of Portsmouth;http://www.port.ac.uk/
+University of Reading;http://www.rdg.ac.uk/
+University of Salford;http://www.salford.ac.uk/
+University of Sheffield;http://www.shef.ac.uk/
+University of Southampton;http://www.soton.ac.uk/
+University of St. Andrews;http://www.st-and.ac.uk/
+University of Stirling;http://www.stir.ac.uk/
+University of Strathclyde;http://www.strath.ac.uk/
+University of Sunderland;http://www.sunderland.ac.uk/
+University of Surrey;http://www.surrey.ac.uk/
+University of Sussex;http://www.sussex.ac.uk/
+University of Teesside;http://www.tees.ac.uk/
+University of the West of England, Bristol;http://www.uwe.ac.uk/
+University of Ulster;http://www.ulst.ac.uk/
+University of Wales;http://www.wales.ac.uk/
+University of Wales, Aberystwyth;http://www.aber.ac.uk/
+University of Wales, Bangor;http://www.bangor.ac.uk/
+University of Wales College of Medicine;http://www.uwcm.ac.uk/
+University of Wales Institute, Cardiff;http://www.uwic.ac.uk/
+University of Wales, Lampeter;http://www.lamp.ac.uk/
+University of Wales, Newport;http://www.newport.ac.uk/
+University of Wales, Swansea;http://www.swan.ac.uk/
+University of Warwick;http://www.warwick.ac.uk/
+University of Westminster;http://www.westminster.ac.uk/
+University of Wolverhampton;http://www.wlv.ac.uk/
+University of Worcester;http://www.worc.ac.uk/
+University of York;http://www.york.ac.uk/
+Warburg Institute, University of London;http://www.sas.ac.uk/warburg/
+Warnborough University;http://www.warnborough.edu/
+William Gilbert College;http://www.williamgilbert.co.uk/
+Wimbledon School of Art;http://www.wimbledon.ac.uk/
+St. George's University;http://www.sgu.edu/
+Agricultural University of Georgia;http://www.agruni.edu.ge/
+Akaki Tsereteli State University;http://www.atsu.edu.ge/
+Caucasus University;http://www.cu.edu.ge/
+Free University of Tbilisi;http://www.freeuni.ge/
+Georgian Technical University;http://www.gtu.edu.ge/
+Ilia Chavchavadze State University;http://www.iliauni.edu.ge/
+International Blacksea University;http://www.ibsu.edu.ge/
+St. Andrew Georgian University;http://www.sangu.ge/
+Tbilisi State Medical University;http://www.tsmu.edu/
+Tbilisi State University;http://www.tsu.edu.ge/
+Tbilisi Teaching University;http://www.tbuniver.edu.ge/
+University of Grigol Robakidze;http://www.gruni.edu.ge/
+Université des Antilles et de la Guyane;http://www.univ-ag.fr/
+Accra Polytechnic ;http://www.accrapolytechnic.edu.gh/
+Akrofi-Christaller Institute of Theeology, Mission and  Culture;http://www.acighana.org/
+All Nations University College;http://www.anuc.edu.gh/
+Ashesi University;http://www.ashesi.edu.gh/
+Cape Coast Polytechnic ;http://www.cpoly.edu.gh/
+Central University College;http://www.central.edu.gh/
+Ghana Christian University College;http://www.ghanacu.org/
+Ghana Institute of Management and Public Administration (GIMPA);http://www.gimpa.edu.gh/
+Ghana Telecom University College;http://www.gtuc.edu.gh/
+Ho Polytechnic ;http://www.hopoly.edu.gh/
+Islamic University College;http://www.iug.edu.gh/
+Koforidua Polytechnic ;http://www.koforiduapoly.edu.gh/
+Kumasi Polytechnic ;http://www.kpoly.edu.gh/
+Kwame Nkrumah University of Science and Technology;http://www.knust.edu.gh/
+Lancaster University Ghana;http://www.lancaster.edu.gh/
+Pan African Christian University College;http://www.pacuc.edu.gh/
+Prempeh College;http://www.prempeh-college.com/
+Presbyterian University College;http://www.presbyuniversity.edu.gh/
+Regent University College of Science and Technology  ;http://www.regentghana.net/
+Takoradi Polytechnic ;http://www.tpoly.edu.gh/
+Trinity Theological Seminary;http://www.trinity.edu.gh/
+University for Development Studies;http://www.uds.edu.gh/
+University of Cape Coast;http://www.ucc.edu.gh/
+University of Education, Winneba;http://www.uew.edu.gh/
+University of Ghana;http://www.ug.edu.gh/
+Valley View University;http://www.vvu.edu.gh/
+University of Greenland;http://www.ilisimatusarfik.gl/
+American International University West Africa;http://www.aiu.edu.gm/
+EUCLID University;http://www.euclid.int/
+University of the Gambia;http://www.utg.edu.gm/
+Université Gamal Abdel Nasser de Conakry;http://www.uganc.org/
+Université Julius Nyerere Kankan;http://www.ujnk.org/
+Université Kofi Annan;http://www.univ-kag.org/
+Université Thierno Amadou Diallo;http://www.utad-petel-edu.org/
+Université des Antilles et de la Guyane;http://www.univ-ag.fr/
+Universidad Nacional de Guinea Ecuatorial;http://www.unge.gq/
+Aegean University;http://www.aegean.gr/
+Agricultural University of Athens;http://www.aua.gr/
+American College of Greece;http://www.acg.gr/
+American College of Thessaloniki;http://www.act.edu/
+Aristotle University of Thessaloniki;http://www.auth.gr/
+Athens Graduate School of Management (AGSM);http://www.agsm.gr/
+Athens Laboratory of Business Administration (ALBA);http://www.alba.edu.gr/
+Athens School of Fine Arts;http://www.asfa.gr/
+Athens University of Economics and Business;http://www.aueb.gr/
+City University Athens;http://www.cityu.gr/
+DEI Bachelor & Master Degrees;http://www.dei.edu.gr/
+Dimocritus University of Thrace;http://www.duth.gr/
+European University, Athens Campus;http://www.euruni.edu/
+Harokopio University;http://www.forthnet.gr/harokopio/
+Hellenic Army Academy;http://www.sse.gr/
+Hellenic Open University;http://www.eap.gr/
+Institute of Management Development - Ohrid;http://www.imd.edu.gr/
+Institute of Management & Enteurpreneurship of South East Europe;http://www.imese.gr/
+International Hellenic University;http://www.ihu.edu.gr/
+Ionian University Corfu;http://www.uion.edu.gr/
+National Technical University of Athens;http://www.ntua.gr/
+Panteios University of Economics and Political Sciences Athens;http://www.panteion.gr/
+Technical University of Crete;http://www.tuc.gr/
+Technological Education Institute of Athens;http://www.teiath.gr/
+Technological Education Institute of Epiros;http://www.teiep.gr/
+Technological Education Institute of Halkida, Euboea;http://www.teihal.gr/
+Technological Education Institute of Heraklion;http://www.teiher.gr/
+Technological Education Institute of Kalamata;http://www.teikal.gr/
+Technological Education Institute of Kavala;http://www.teikav.edu.gr/
+Technological Education Institute of Kozani;http://www.teikoz.gr/
+Technological Education Institute of Lamia;http://www.teilam.gr/
+Technological Education Institute of Larissa;http://www.teilar.gr/
+Technological Education Institute of Mesologgi;http://www.teimes.gr/
+Technological Education Institute of Patras;http://www.teipat.gr/
+Technological Education Institute of Piraeus;http://www.teipir.gr/
+Technological Education Institute of Serres;http://www.teiser.gr/
+Technological Education Institute of Thessaloniki;http://www.teithe.gr/
+University of Athens;http://www.uoa.gr/
+University of Central Greece;http://www.ucg.gr/
+University of Crete;http://www.uoc.gr/
+University of Indianapolis in Athens;http://www.uindy.edu.gr/
+University of Ioannina;http://www.uoi.gr/
+University of LaVerne in Athens;http://www.laverne.edu.gr/
+University of Macedonia;http://www.uom.gr/
+University of Patras;http://www.upatras.gr/
+University of Peloponnese;http://www.uop.gr/
+University of Piraeus;http://www.unipi.gr/
+University of Thessaly;http://www.uth.gr/
+University of Western Macedonia;http://www.uowm.gr/
+Yorker International University, Athens;http://www.nyuniversity.net/
+Centro Universitario Ciudad Vieja;http://www.cucv.edu.gt/
+Centro Universitario de Occidente;http://www.cunoc.edu.gt/
+Universidad del Istmo;http://www.unis.edu.gt/
+Universidad del Valle de Guatemala;http://www.uvg.edu.gt/
+Universidad de San Carlos de Guatemala;http://www.usac.edu.gt/
+Universidad Francisco Marroquín;http://www.ufm.edu.gt/
+Universidad Galileo;http://www.galileo.edu/
+Universidad Mariano Gálvez;http://www.umg.edu.gt/
+Universidad Panamericana;http://www.upana.edu.gt/
+Universidad Rafael Landívar;http://www.url.edu.gt/
+Universidad Rural de Guatemala;http://www.urural.edu.gt/
+University of Guam;http://www.uog.edu/
+Gemsville Technical University;http://www.gemsvilleuniversity.com/
+Greenheart Medical School;http://www.greenheartmed.org/
+Texila American University;http://www.tauedu.org/
+University of Guyana;http://www.uog.edu.gy/
+Chinese University of Hong Kong;http://www.cuhk.hk/
+Chu Hai College;http://www.chuhai.edu.hk/
+City University of Hong Kong;http://www.cityu.edu.hk/
+Hong Kong Academy for Performing Arts ;http://www.hkapa.edu/
+Hong Kong Baptist University;http://www.hkbu.edu.hk/
+Hong Kong Institute of Education;http://www.ied.edu.hk/
+Hong Kong Polytechnic University;http://www.polyu.edu.hk/
+Hong Kong Shue Yan College;http://www.hksyc.edu/
+Hong Kong University of Science and Technology;http://www.ust.hk/
+Lingnan University;http://www.ln.edu.hk/
+Open University of Hong Kong;http://www.ouhk.edu.hk/
+University of Hong Kong;http://www.hku.hk/
+Escuela Agricola Panamericana Zamorano;http://www.zamorano.edu/
+Universidad Católica de Honduras;http://www.unicah.edu/
+Universidad de San Pedro Sula;http://www.usps.edu.hn/
+Universidad José Cecilio del Valle;http://www.ujcv.edu.hn/
+Universidad Metropolitana de Honduras;http://www.unimetro.edu.hn/
+Universidad Nacional Autónoma de Honduras;http://www.unah.edu.hn/
+Universidad Pedagógica Nacional "Francisco Morazán";http://www.upnfm.edu.hn/
+Universidad Tecnológica Centroamericana;http://www.unitec.edu/
+Universidad Tecnológica de Honduras;http://www.uth.hn/
+University of Dubrovnik;http://www.unidu.hr/
+University of Osijek;http://www.unios.hr/
+University of Pula;http://www.unipu.hr/
+University of Rijeka;http://www.uniri.hr/
+University of Split;http://www.unist.hr/
+University of Zadar;http://www.unizd.hr/
+University of Zagreb;http://www.unizg.hr/
+Zagreb School of Economics and Management;http://www.zsem.hr/
+American University of the Caribbean;http://www.auchaiti.org/
+Université Chrétienne du Nord d'Haiti;http://www.ucnh.org/
+Université d'Etat d'Haiti;http://www.ueh.edu.ht/
+Université Épiscopale d'Haiti;http://www.uneph.org/
+Université Notre Dame d'Haïti;http://www.undh.org/
+Université Quisqueya;http://www.uniq.edu/
+Academy of Drama and Film;http://www.filmacademy.hu/
+Andrassy Gyula German Speaking University Budapest;http://www.andrassyuni.hu/
+Avicenna International College;http://www.avicenna.hu/
+Budapest Buddhist University;http://www.tkbf.hu/
+Budapest University of Economic Sciences and Public Administration;http://www.bke.hu/
+Central European University;http://www.ceu.hu/
+College of Dunaujvaros;http://www.duf.hu/
+Dániel Berzsenyi Teacher Training College;http://www.bdtf.hu/
+Debrecen University of Agricultural Sciences;http://www.agr.unideb.hu/
+Eötvös Lorand University;http://www.elte.hu/
+Esztergom Theological College;http://www.ehf.hu/
+Haynal Imre University of Health Sciences Budapest;http://www.hiete.hu/
+Hungarian Academy of Craft and Design;http://www.mif.hu/
+Hungarian Academy of Fine Arts Budapest;http://www.arts7.hu/
+Hungarian University of Physical Education;http://www.hupe.hu/
+Janus Pannonius University;http://www.jpte.hu/
+Károl Gáspár University of the Reformed Church;http://www.kgre.hu/
+Kodolanyi Janos University College;http://www.kodolanyi.hu/
+Kossuth Lajos University;http://www.lib.klte.hu/
+Liszt Ferenc Academy of Music Budapest;http://www.lfze.hu/
+Pázmány Péter Catholic University;http://www.ppke.hu/
+Reformed Theological Academy of Debrecen;http://www.drk.hu/
+Séchenyi István University;http://www.sze.hu/
+Semmelweis University of Medical Sciences;http://www.sote.hu/
+Szent István University;http://www.szie.hu/
+Technical University of Budapest;http://www.bme.hu/
+University Medical School of Debrecen;http://www.dote.hu/
+University Medical School of Pécs;http://www.pote.hu/
+University of Debrecen ;http://www.unideb.hu/
+University of Horticulture and Food Industry;http://www.kee.hu/
+University of Miskolc;http://www.uni-miskolc.hu/
+University of Pannonia;http://www.uni-pannon.hu/
+University of Pecs;http://www.pte.hu/
+University of Sopron;http://www.efe.hu/
+University of Szeged;http://www.u-szeged.hu/
+University of Veterinary Science;http://www.univet.hu/
+University of West Hungary;http://www.nyme.hu/
+Abfi Institute Perbanas Jakarta;http://www.perbanasinstitute.ac.id/
+Binus University;http://www.binus.ac.id/
+Bogor Agricultural University;http://www.ipb.ac.id/
+Institut Sains dan Teknologi Al Kamal;http://www.ista.ac.id/
+Institut Sains & Teknologi Akprind;http://www.akprind.ac.id/
+Institut Teknologi Adhi Tama Surabaya;http://www.itats.ac.id/
+Institut Teknologi Bandung;http://www.itb.ac.id/
+Institut Teknologi Sepuluh Nopember;http://www.its.ac.id/
+Institut Teknologi Telkom;http://www.stttelkom.ac.id/
+Politeknik Negeri Bandung;http://www.polban.ac.id/
+Politeknik Negeri Jakarta;http://www.pnj.ac.id/
+Politeknik Negeri Lhokseumawe;http://www.pnl.ac.id/
+Politeknik Negeri Malang;http://www.poltek-malang.ac.id/
+Politeknik Negeri Padang;http://www.polinpdg.ac.id/
+Politeknik Negeri Pontianak;http://www.polnep.ac.id/
+Politeknik Negeri Sambas;http://www.poltesa.ac.id/
+Politeknik Negeri Semarang;http://www.polines.ac.id/
+Politeknik Pos Indonesia;http://www.poltekpos.ac.id/
+Prasetiya Mulya Business School;http://www.pmbs.ac.id/
+Sekolah Tinggi Akuntansi Negara (STAN);http://www.stan.ac.id/
+Stie Perbanas Surabaya;http://www.perbanas.ac.id/
+STMIK AMIKOM Yogyakarta;http://www.amikom.ac.id/
+STMIK Sinar Nusantara;http://www.sinus.ac.id/
+Swiss German University;http://www.sgu.ac.id/
+Trisakti Institute of Tourism ;http://www.stptrisakti.ac.id/
+Unitomo Surabaya;http://www.unitomo.ac.id/
+Universitas 17 Agustus 1945 Banyuwangi;http://www.untag-banyuwangi.ac.id/
+Universitas 17 Agustus 1945 Cirebon;http://www.untagcirebon.info/
+Universitas 17 Agustus 1945 Jakarta;http://www.untag-jkt.org/
+Universitas 17 Agustus 1945 Samarinda;http://www.untag-smd.ac.id/
+Universitas 17 Agustus 1945 Semarang;http://www.untagsmg.ac.id/
+Universitas 17 Agustus 1945 Surabaya;http://www.untag.ac.id/
+Universitas Advent Indonesia;http://www.unai.edu/
+Universitas Ahmad Dahlan;http://www.uad.ac.id/
+Universitas Airlangga;http://www.unair.ac.id/
+Universitas Amir Hamzah;http://www.unhamzah.ac.id/
+Universitas Andalas;http://www.unand.ac.id/
+Universitas Atma Jaya Yogyakarta;http://www.uajy.ac.id/
+Universitas Bakrie;http://www.bakrie.ac.id/
+Universitas Bengkulu;http://www.unib.ac.id/
+Universitas Bhayangkara Jakarta Raya;http://www.ubharajaya.ac.id/
+Universitas Bhayangkara Surabaya;http://www.ubhara.ac.id/
+Universitas Bojonegoro;http://www.unigoro.ac.id/
+Universitas Brawijaya;http://www.ub.ac.id/
+Universitas Bunda Mulia Jakarta;http://www.ubm.ac.id/
+Universitas Bung Hatta;http://www.bunghatta.ac.id/
+Universitas Cenderawasih;http://www.uncen.ac.id/
+Universitas Darma Agung;http://www.uda.ac.id/
+Universitas Darma Persada;http://www.unsada.ac.id/
+Universitas Dian Nuswantoro;http://www.dinus.ac.id/
+Universitas Diponegoro;http://www.undip.ac.id/
+Universitas Dr. R. Moestopo;http://www.moestopo.ac.id/
+Universitas Gadjah Mada;http://www.ugm.ac.id/
+Universitas Gajayana Malang;http://www.unigamalang.ac.id/
+Universitas Gunadarma;http://www.gunadarma.ac.id/
+Universitas Haluoleo;http://www.unhalu.ac.id/
+Universitas Hasanuddin;http://www.unhas.ac.id/
+Universitas HKBP Nommensen;http://www.nommensen.org/
+Universitas Ibn Chaldun Jakarta;http://www.ibnuchaldun.com/
+Universitas Ibn Khaldun Bogor;http://www.uika-bogor.ac.id/
+Universitas Indonesia;http://www.ui.ac.id/
+Universitas Indonusa Esa Unggul;http://www.indonusa.ac.id/
+Universitas Islam Bandung;http://www.unisba.ac.id/
+Universitas Islam Indonesia;http://www.uii.ac.id/
+Universitas Islam Jakarta;http://www.uinjkt.ac.id/
+Universitas Islam Malang;http://www.unisma.ac.id/
+Universitas Islam Nusantara;http://www.uninus.ac.id/
+Universitas Islam Riau;http://www.uir.ac.id/
+Universitas Islam Sultan Agung;http://www.unissula.ac.id/
+Universitas Islam Sumatera Utara;http://www.uisu.ac.id/
+Universitas Islam Syekh-Yusuf ;http://www.unistangerang.ac.id/
+Universitas Jambi;http://www.unja.ac.id/
+Universitas Janabadra;http://www.janabadra.ac.id/
+Universitas Jayabaya;http://www.jayabaya.ac.id/
+Universitas Jember;http://www.unej.ac.id/
+Universitas Jenderal Achmad Yani;http://www.unjani.ac.id/
+Universitas Jenderal Soedirman;http://www.unsoed.ac.id/
+Universitas Katolik Indonesia Atma Jaya;http://www.atmajaya.ac.id/
+Universitas Katolik Parahyangan;http://www.unpar.ac.id/
+Universitas Katolik Soegijapranoto;http://www.unika.ac.id/
+Universitas Katolik Widya Karya;http://www.widyakarya.ac.id/
+Universitas Katolik Widya Manadala;http://www.wima.ac.id/
+Universitas Kediri;http://www.unik-kediri.ac.id/
+Universitas Khairun;http://www.unkhair.ac.id/
+Universitas Klabat;http://www.tagnet.org/unklab/
+Universitas Komputer Indonesia;http://www.unikom.ac.id/
+Universitas Krisnadwipayana;http://www.unkris.ac.id/
+Universitas Kristen Duta Wacana;http://www.ukdw.ac.id/
+Universitas Kristen Indonesia;http://www.uki.ac.id/
+Universitas Kristen Indonesia Tomohon;http://www.ukit-tomohon.org/
+Universitas Kristen Krida Wacana;http://www.ukrida.ac.id/
+Universitas Kristen Maranatha;http://www.maranatha.edu/
+Universitas Kristen Petra;http://www.petra.ac.id/
+Universitas Kristen Satya Wacana;http://www.uksw.edu/
+Universitas Lambung Mangkurat;http://www.unlam.ac.id/
+Universitas Lampung;http://www.unila.ac.id/
+Universitas Lancang Kuning;http://unilak.ac.id/
+Universitas Ma Chung;http://www.machung.ac.id/
+Universitas Madura;http://www.unira-pmk.net/
+Universitas Mahasaraswati Denpasar;http://www.unmas.org/
+Universitas Mahendradatta;http://www.mahendradatta.org/
+Universitas Mataram;http://www.unram.ac.id/
+Universitas Mercu Buana;http://www.mercubuana.ac.id/
+Universitas Merdeka Madiun;http://www.unmer-madiun.ac.id/
+Universitas Merdeka Malang;http://www.unmer.ac.id/
+Universitas Methodist Indonesia;http://www.umi-mdn.edu/
+Universitas Muhammadiyah Jakarta;http://www.umj.ac.id/
+Universitas Muhammadiyah Jember;http://www.unmuhjember.ac.id/
+Universitas Muhammadiyah Magelang;http://www.ummgl.ac.id/
+Universitas Muhammadiyah Makassar;http://www.unismuh.ac.id/
+Universitas Muhammadiyah Malang;http://www.umm.ac.id/
+Universitas Muhammadiyah Mataram;http://www.unmuhmataram.com/
+Universitas Muhammadiyah Sumatra Utara;http://www.umsu.ac.id/
+Universitas Muhammadiyah Surakarta;http://www.ums.ac.id/
+Universitas Muhammadiyah Yogyakarta;http://www.umy.ac.id/
+Universitas Mulawarman;http://www.unmul.ac.id/
+Universitas Muria Kudus;http://www.umk.ac.id/
+Universitas Muslim Indonesia;http://www.umi.ac.id/
+Universitas Narotama;http://www.narotama.ac.id/
+Universitas Nasional Jakarta;http://www.unas.ac.id/
+Universitas Nasional Pasim;http://www.pasim.ac.id/
+Universitas Negeri Gorontalo;http://www.ung.ac.id/
+Universitas Negeri Jakarta;http://www.unj.ac.id/
+Universitas Negeri Makassar;http://www.unm.ac.id/
+Universitas Negeri Malang;http://www.malang.ac.id/
+Universitas Negeri Manado;http://www.unima.ac.id/
+Universitas Negeri Medan;http://www.unimed.ac.id/
+Universitas Negeri Padang;http://www.unp.ac.id/
+Universitas Negeri Semarang;http://www.unnes.ac.id/
+Universitas Negeri Surabaya;http://www.unesa.ac.id/
+Universitas Negeri Yogyakarta;http://www.uny.ac.id/
+Universitas Ngurah Rai;http://www.unr.ac.id/
+Universitas Nusa Cendana;http://www.undana.ac.id/
+Universitas Padjadjaran;http://www.unpad.ac.id/
+Universitas Pakuan;http://www.unpak.ac.id/
+Universitas Palangka Raya;http://www.upr.ac.id/
+Universitas Pancasakti Tegal;http://www.upstegal.ac.id/
+Universitas Pancasila;http://www.univpancasila.ac.id/
+Universitas Paramadina Mulya;http://www.paramadina.ac.id/
+Universitas Pasundan;http://www.unpas.ac.id/
+Universitas Pattimura;http://www.unpatti.ac.id/
+Universitas Pekalongan;http://www.unikal.ac.id/
+Universitas Pelita Harapan;http://www.uph.edu/
+Universitas Pembangunan Nasional "Veteran" East Java;http://www.upnjatim.ac.id/
+Universitas Pembangunan Panca Budi;http://www.pancabudi.ac.id/
+Universitas Pendidikan Indonesia;http://www.upi.edu/
+Universitas Persada Indonesia Y.A.I;http://www.yai.ac.id/
+Universitas Pesantren Darul Ulum Jombang;http://www.unipdu.ac.id/
+Universitas Proklamasi 45;http://www.up45.ac.id/
+Universitas Putera Batam;http://www.puterabatam.ac.id/
+Universitas Riau;http://www.unri.ac.id/
+Universitas Sam Ratulangi;http://www.unsrat.ac.id/
+Universitas Sanata Dharma;http://www.usd.ac.id/
+Universitas Sarjanawiyata Tamansiswa;http://www.sarjanawiyata.ac.id/
+Universitas Sebelas Maret;http://www.uns.ac.id/
+Universitas Semarang;http://www.usm.ac.id/
+Universitas Siliwangi;http://www.unsil.ac.id/
+Universitas Simalungun;http://www.usi.ac.id/
+Universitas Slamet Riyadi Surakarta;http://www.unisri.ac.id/
+Universitas Sriwijaya;http://www.unsri.ac.id/
+Universitas Sultan Ageng Tirtayasa;http://www.untirta.ac.id/
+Universitas Sumatera Utara;http://www.usu.ac.id/
+Universitas Surabaya;http://www.ubaya.ac.id/
+Universitas Swadaya Gunung Djati;http://www.unswagati-crb.ac.id/
+Universitas Syiah Kuala;http://www.unsyiah.ac.id/
+Universitas Tadulako;http://www.untad.ac.id/
+Universitas Tanjungpura;http://www.untan.ac.id/
+Universitas Tarumanagara;http://www.untar.ac.id/
+Universitas Terbuka Indonesia;http://www.ut.ac.id/
+Universitas Tidar Magelang;http://www.utm.ac.id/
+Universitas Trilogi;http://www.universitas-trilogi.ac.id/
+Universitas Trisakti;http://www.trisakti.ac.id/
+Universitas Tunas Pembangunan;http://www.utp.ac.id/
+Universitas Udayana;http://www.unud.ac.id/
+Universitas Widya Gama Malang;http://www.widyagama.ac.id/
+Universitas Widyatama;http://www.widyatama.ac.id/
+Universitas Wijaya Kusuma Purwokerto;http://www.unwiku.ac.id/
+Universitas Wijaya Kusuma Surabaya;http://www.wijayakusumasby.ac.id/
+Universitas Wisnuwardhana;http://www.wisnuwardhana.ac.id/
+Universitas Yarsi;http://www.yarsi.ac.id/
+Athlone Institute of Technology;http://www.ait.ie/
+Carlow Institute of Technology;http://www.itcarlow.ie/
+Cork Institute of Technology;http://www.cit.ie/
+Dublin City University;http://www.dcu.ie/
+Dublin Institute for Advanced Studies;http://www.dias.ie/
+Dublin Institute of Technology;http://www.dit.ie/
+Galway Mayo Institute of Technology;http://www.gmit.ie/
+Griffith College;http://www.gcd.ie/
+Institue of Technology, Tralee;http://www.ittralee.ie/
+Irish International University (Distance Education);http://www.iiuedu.ie/
+LSB College;http://www.lsb.ie/
+National College of Ireland;http://www.ncirl.ie/
+National University of Ireland;http://www.nui.ie/
+National University of Ireland, Galway;http://www.ucg.ie/
+National University of Ireland, Maynooth;http://www.may.ie/
+Royal College of Physicians of Ireland;http://www.rcpi.ie/
+Royal College of Surgeons;http://www.rcsi.ie/
+Shannon College of Hotel Management;http://www.shannoncollege.com/
+University College Cork;http://www.ucc.ie/
+University College Dublin;http://www.ucd.ie/
+University of Dublin, Trinity College;http://www.tcd.ie/
+University of Limerick;http://www.ul.ie/
+Warnborough University;http://www.warnborough.edu/
+Waterford Institute Of Technology;http://www.wit.ie/
+Acdemic Center for Law and Business;http://www.clb.ac.il/
+Afeka Tel Aviv Academic College of Engineering;http://www.afeka.ac.il/
+Ariel University Center of Samaria;http://www.ariel.ac.il/
+Ashkelon Academic College;http://www.ash-college.ac.il/
+Bar-Ilan University;http://www.biu.ac.il/
+Ben-Gurion University of the Negev;http://www.bgu.ac.il/
+Bezalel Academy of Art and Design;http://www.bezalel.ac.il/
+College of Management;http://www.colman.ac.il/
+Emeq Yizrael College;http://www.yvc.ac.il/
+Galillee College;http://www.galilcol.ac.il/
+Hebrew University of Jerusalem;http://www.huji.ac.il/
+Jerusalem University College;http://www.juc.edu/
+Open University of Israel;http://www.openu.ac.il/
+Russell Berrie Nanotechnology Institute;http://rbni.technion.ac.il/
+Sami Shamoon College of Engineering;http://www.sce.ac.il/
+Shenkar School of Engineering & Design;http://www.shenkar.ac.il/
+Technion - Israel Institute of Technology;http://www.technion.ac.il/
+Tel Aviv University;http://www.tau.ac.il/
+The Interdisciplinary Center Herzliya;http://www.idc.ac.il/
+University of Haifa;http://www.haifa.ac.il/
+Weizmann Institute of Science;http://www.weizmann.ac.il/
+Western Galilee College;http://www.wgalil.ac.il/
+Acharya Nagarjuna University;http://www.nagarjunauniversity.ac.in/
+Acharya Ranga Agricultural University;http://www.angrau.net/
+Ahmedabad University;http://www.ahduni.edu.in/
+AISECT University;http://www.aisectuniversity.ac.in/
+Alagappa University;http://www.alagappauniversity.ac.in/
+Aligarh Muslim University;http://www.amu.ac.in/
+Allahabad Agricultural Institute, Deemed University;http://www.aaidu.org/
+Allahabad University;http://www.alldunivpio.org/
+All India Institute of Medical Sciences;http://www.aiims.ac.in/
+Amity University;http://www.amity.edu/
+Amravati University;http://www.amtuni.com/
+Amrita Vishwa Vidyapeetham (Deemed University);http://www.amrita.edu/
+Andhra University;http://www.andhrauniversity.info/
+Annamalai University;http://www.annamalaiuniversity.ac.in/
+Anna University;http://www.annauniv.edu/
+Anna University of Technology, Tirunelveli;http://www.annauniv.edu.in/
+ARYA Institute of Engineering & Technology;http://www.aryainstitutejpr.com/
+Asian Business School;http://www.abs.edu.in/
+Assam Agricultural University;http://www.aau.ac.in/
+Assam University;http://www.assamuniversity.nic.in/
+Avinashilingam Institute for Home Science and Higher Education for Women;http://www.tnuniv.ac.in/adu/
+Awadhesh Pratap Singh University;http://www.apsurewa.nic.in/
+Babasaheb Bhimrao Ambedkar University;http://www.bbauindia.org/
+Banaras Hindu University;http://www.bhu.ac.in/
+Banasthali University;http://www.banasthali.org/
+Bangalore University;http://bengaluruuniversity.com/
+Bankura University;http://www.bankurauniv.com/
+Barkatullah University;http://www.bubhopal.nic.in/
+Bengal Engineering College;http://www.becs.ac.in/
+Berhampur University;http://www.bamu.nic.in/
+Bhagwant University;http://www.bhagwantuniversity.com/
+Bharathiar University;http://www.bharathi.ernet.in/
+Bharathidasan University;http://www.bdu.ernet.in/
+Bharath Institue Of Higher Education & Research;http://www.bharathuniv.com/
+Bharati Vidyapeeth University;http://www.bharatividyapeeth.edu/
+Bhavnagar University;http://www.bhavuni.edu/
+Bhupendra Narayan Mandal University;http://www.bnmu.in/
+Bidhan Chandra Agricultural University;http://www.bckv.edu.in/
+Biju Pattnaik University of Technology;http://www.bput.org/
+Birla Institute of Technology and Science;http://www.bits-pilani.ac.in/
+Birla Institute of Technology, Ranchi;http://bitmesraranchi.org/
+Birsa Agricultural University;http://www.bau.nic.in/
+B. R. Ambedkar Bihar University;http://www.brabu.net/
+B. S. Abdur Rahman University;http://www.bsauniv.ac.in/
+Bundelkhand University;http://www.bundelkhanduniversity.org/
+Burdwan University;http://www.buruniv.ac.in/
+CCS Haryana Agricultural University;http://hau.ernet.in/
+Center for Entrepreneurship and Small Business Management;http://www.cesbm.ac.in/
+Central Agricultural University;http://www.cau.org.in/
+Central Institute of English and Foreign Languages;http://www.ciefl.org/
+Central Institute of Fisheries Education;http://www.cife.edu.in/
+Central Institute of Higher Tibetan Studies;http://www.cihts.ac.in/
+Chandra Shekhar Azad University of Agriculture and Technology;http://www.csauk.ac.in/
+Chaudhary Charan Singh Haryana Agricultural University;http://www.hau.ernet.in/
+Chaudhary Charan Singh University;http://www.ccsuniversity.ac.in/
+Ch. Charan Singh University;http://www.ccsuniversity.org/
+Chhatrapati Shahu Ji Maharaj University;http://www.kanpuruniversity.org/
+Christ University;http://www.christuniversity.in/
+CMJ University;http://www.cmjuniversity.edu.in/
+Cochin University of Science and Technology;http://www.cusat.ac.in/
+Darul Huda Islamic University;http://www.darulhuda.com/
+Dav University;http://www.davuniversity.org/
+Dayalbagh Educational Institute;http://www.dei.ac.in/
+Deccan College Postgraduate and Research Institute;http://www.deccancollegepune.ac.in/
+Deen Dayal Upadhyay Gorakhpur University;http://www.ddugu.edu.in/
+Delhi College of Engineering (DCE);http://www.dceonline.net/
+Devi Ahilya University of Indore;http://www.davv.ac.in/
+Dhirubhai Ambani Institute of Information and Communication Technology;http://www.da-iict.org/
+Dibrugarh University;http://www.dibru.ernet.in/
+Dravidian University;http://www.dravidianuniversity.ac.in/
+Dr. Babasaheb Ambedkar Marathwada Universtiy;http://www.bamu.net/
+Dr. Babasaheb Ambedkar Technological University;http://www.dbatechuni.org/
+Dr. Bhim Rao Abdekar University;http://www.brauagra.com/
+Dr. B.R. Ambedkar Open University;http://www.braou.ac.in/
+Dr. C.V. Raman University;http://www.cvru.ac.in/
+Dr. D.Y. Patil University;http://www.dypatiluniversity.org/
+Dr. Hari Singh Gour University, formerly University of Sagar;http://www.sagaruniversity.nic.in/
+Dr. Panjabrao Deshmukh Krishi Vidyapeeth;http://www.pdkv.ac.in/
+Dr. Ram Manohar Lohia Avadh University;http://www.rmlau.ac.in/
+Dr. YS Parmar University of Horticulture and Forestry;http://www.ysparmaruniversity.org/
+Eiilm University;http://www.eiilmuniversity.ac.in/
+Engineering Colleges in Tamil Nadu;http://www.sonatech.ac.in/
+Fakir Mohan University;http://www.fmuniversity.nic.in/
+Fatima mata national college kollam kerala;http://www.fatimacollege.net/
+First Global University to teaching Jainism;http://www.jainuniversity.org/
+Forest Research Institute Dehradun;http://fri.icfre.gov.in/
+Gandhigram Rural Institute;http://www.tnuniv.ac.in/gri/
+Gandhi Institute of Technology and Managment;http://www.gitam.edu/
+Gauhati University;http://www.gu.nic.in/
+Global Open University , Nagaland;http://www.government.ind.in/
+Goa University;http://www.unigoa.ac.in/
+Gokhale Institute of Politics and Economics;http://www.gipe.ernet.in/
+Govind Ballabh Pant University of Agriculture and Technology;http://www.gbpuat.ac.in/
+Gujarat Ayurved University;http://www.ayurveduniversity.com/
+Gujarat Technological University Ahmedabad;http://www.gtu.ac.in/
+Gujarat University Ahmedabad;http://www.gujaratuniversity.org.in/
+Gulbarga University;http://www.gulbargauniversity.kar.nic.in/
+Guru Ghasidas University;http://www.ggu.ac.in/
+Guru Gobind Singh Indraprastha University;http://www.ipu.ac.in/
+Guru Jambeshwar University;http://www.gju.ernet.in/
+Gurukula Kangri University;http://www.gkvharidwar.org/
+Gurukul University;http://www.gurukuluniversity.org/
+Guru Nanak Dev University;http://www.gnduonline.org/
+Hemchandracharay North Gujarat University;http://www.ngu.ac.in/
+Hemwati Nandan Bahuguna Garhwal University;http://www.hnbgu.ac.in/
+Hidayatullah National Law University, Raipur;http://www.hnluraipur.com/
+Himachal Pradesh Agricultural University;http://hillagric.ernet.in/
+Himachal Pradesh University;http://hpuniv.nic.in/
+IASE (Institute of Advanced Studies) Deemed University;http://www.iaseduniv.org/
+ICFAI University;http://www.icfai.org/
+Indian Agricultural Research Institute;http://www.iari.ernet.in/
+Indian Board of Alternative Medicine;http://www.altmedworld.net/
+Indian Institute of Information Technology;http://www.iiita.com/
+Indian Institute of Information Technology and Management - Kerala;http://www.iiitmk.ac.in/
+Indian Institute of Management, Tiruchirappalli;http://www.iimtrichy.ac.in/
+Indian Institute of 	

@@ -1,0 +1,6 @@
+Linfield C. Brown
+https://engineering.tufts.edu/cee/people/faculty/linfield-c-brown
+https://engineering.tufts.edu
+lbrown1@tufts.edu
+Research Interests: Environmental engineering process design and water quality modeling comprise the research interests of Professor Linfield C. Brown. His research work has covered a broad range of topics in oxygen transfer and reaeration of streams, sampling strategies, flow equalization, and uncertainty analysis in water quality modeling. His most recent research inquiry is in application of genetic algorithms to the complex problems of calibrating water quality models and of multi-response parameter estimation. His consulting experience is focused in the areas of environmental statistics and water quality modeling, and includes evaluation of regulatory criteria for waste load permitting, and international workshops on water quality modeling and control.
+

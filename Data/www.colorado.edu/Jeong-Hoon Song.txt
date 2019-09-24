@@ -1,0 +1,9 @@
+Jeong-Hoon Song
+https://www.colorado.edu/ceae/jeong-hoon-song
+https://www.colorado.edu
+jh.song@colorado.edu
+Interests:Computational multiscale analysis for failure
+Computational multiphysics analysis for coupled field interactions
+Computational material design and analysis
+Model reduction for real-time computing
+

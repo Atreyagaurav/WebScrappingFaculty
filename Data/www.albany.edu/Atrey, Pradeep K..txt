@@ -1,0 +1,129 @@
+Atrey, Pradeep K.
+https://www.albany.edu/ceas/pradeep-atrey.php
+https://www.albany.edu
+patrey@albany.edu
+Research Interests
+Security and Privacy Issues in: 
+
+Large-scale Multimedia Surveillance - Multimedia surveillance: suspicious event detection for public safety, privacy protection in video surveillance systems 
+Social Media and Networks - Privacy-aware cloud-based social networking, cyber bullying detection and personality prediction using social media data 
+Cloud-based Computing - Encrypted domain multimedia data processing over cloud: in surveillance, social media and health applications  
+
+Multimedia Security and Forensics - Digital evidence authentication, Protection of multimedia data (text documents, image and video) using secret sharing
+Multimedia Data Mining - Multimedia data on web: concept detection in videos
+Publications
+
+Peer Reviewed Journal Articles
+P. Natrajan, P. K. Atrey and M. S. Kankanhalli. Multi-camera coordination and control in surveillance systems: a survey. ACM Transactions on Multimedia Computing, Communications and Applications. (Accepted - 2014)
+H. Al Najjar, S. Alharthi and P. K. Atrey. Secure image sharing method over unsecured channels. Springer Int. J. Multimedia Tools and Applications. DOI: 10.1007/s11042-014-2404-5 (2014)
+A. Lathey and P. K. Atrey. Image enhancement in encrypted domain over cloud. ACM Transactions on Multimedia Computing, Communications and Applications. (Accepted - 2014)
+H. Agarwal, P. K. Atrey and B. Raman. Image watermarking in real oriented wavelet transform domain. Springer Int. J. Multimedia Tools and Applications, (2014).
+M. Saini, P. K. Atrey and A. El Saddik. From smart camera to smarthub: embracing cloud for video surveillance. Special issue on "Emerging Sensor-Cloud Technology for Pervasive Services and Applications" at Hindawi International Journal of Distributed Sensor Networks, Volume 2014, Article ID 757845, 10 pages (2014)
+G. Bhatnagar, A. Saha, Q. M. J. Wu and P. K. Atrey. Analysis and extension of multiresolution singular value decomposition. Elsevier Journal of Information Sciences. Volume 277, Pages 247-262 (2014).
+G. Bhatnagar, Q. M. J. Wu and P. K. Atrey. Robust logo watermarking using biometrics inspired key generation. Elsevier Journal of Expert Systems with Applications, 41(10), 2014, pp. 4563-4578.
+P. K. Atrey, S. Alharthi, M. A. Hossain, A. AlGhamdi and A. El Saddik. Collective control over sensitive video data using secret sharing. Springer Int. J. of Multimedia Tools and Applications, DOI: 10.1007/s11042-013-1644- 0, (2013)
+G. Bhatnagar, Q. M. J. Wu and P. K. Atrey. Secure randomized image watermarking based on singular value decomposition. ACM Trans. on Multimedia Computing, Communications and Applications, Vol. 10 Issue 1 Article No. 4 (2013)
+R. Bisewski and P. K. Atrey. Modeling, simulation and analysis of a weaponry-equipped camera surveillance system. Hypersciences Int. J. Modeling and Simulations of Systems, Vol.3, Iss.1, pp 4-13, (2012).
+D. T. Ahmed, M. A. Hossain, S. Shirmohamadi, A. Alghamdi, P. K. Atrey and A. El Saddik. Utility based decision support engine for camera view selection in multimedia surveillance systems. Springer Int. J. Multimedia Tools and Applications. (DOI: 10.1007/s11042-012-1294-7) (2012).
+K. Amriki and P. K. Atrey. Bus surveillance: How many and where cameras should be placed. Springer Int. J. Multimedia Tools and Applications. (DOI 10.1007/s11042-012-1247-12012) (2012).
+M. Saini, P. K. Atrey, S. Mehrotra, and M S. Kankanhalli. W3-Privacy: Understanding what, when, and where inference channels in multi-camera surveillance video. Springer Int. J. of Multimedia Tools and Applications, 68(1):135-158 (2014)
+C. Bhatt, P. K. Atrey and M. S. Kankanhalli. A reward and punishment based approach for concept detection using adaptive ontology rules. ACM Trans. on Multimedia Computing, Communications and Applications, Vol. 9 Issue 2, Article No. 10 (May 2013)
+M. Saini, P. K. Atrey, S. Mehrotra, and M S. Kankanhalli. Privacy aware publication of surveillance video. Inderscience Int. J. of Trust Management in Computing and Communications. Vol. 1, No. 1, pp 23-50 (2013).
+M. Saini, P. K. Atrey, S. Mehrotra, and M S. Kankanhalli. Adaptive transformation for robust privacy protection in video surveillance. Hindawi Int. J. of Advances in Multimedia, Volume 2012, Article ID 639649 (2012).
+M. Saini, X. Wang, P. K. Atrey, and M S. Kankanhalli. Adaptive workload equalization in multi-camera surveillance systems. IEEE Trans. on Multimedia, 14(3):555-562 (2012).
+C. Bhatt, P. K. Atrey, and M S. Kankanhalli. "Concept based near duplicate video clip detection for novelty reranking of web video search results". Springer Multimedia Systems J., 18(4):337-358 (2012).
+P. K. Atrey, H. Ibrahim, M. A. Hossain, S. Ramanna and A. El Saddik. Determining trust in media-rich websites using semantic similarity. Springer Int. J. of Multimedia Tools and Applications, 60(1):69-96 (2012).
+P. K. Atrey, A. El Saddik and M. S. Kankanhalli. Effective Multimedia Surveillance Using a Human-Centric Approach. Special Issue on "Hot Topics in Multimedia Research" at Springer Int. J. of Multimedia Tools and Applications. 51(2):697-721 (2011)
+M. A. Hossain, P. K. Atrey and A. El Saddik. Modeling and assessing quality of information in multi-sensor multimedia monitoring systems. ACM Trans. on Multimedia Computing, Communications and Applications, Vol. 7 Issue 1 (2011)
+P. K. Atrey, M. A. Hossain, A. El Saddik and M. S. Kankanhalli. Multimodal fusion for multimedia analysis: A survey. Springer Multimedia Systems J., 16(6):345-379 (2010)
+M. A. Hossain, J. Parra, P. K. Atrey and A. El Saddik. A framework for human-centered provisioning of ambient media services. Springer Int. J. of Multimedia Tools and Applications, 44(3):407-431 (2009)
+M. A. Hossain, P. K. Atrey and A. El Saddik. Learning multisensor confidence using a reward-and-punishment mechanism. IEEE Trans. on Instrumentation and Measurement, 58(5):1525-1534 (2009)
+P. K. Atrey and A. El Saddik. Confidence evolution in multimedia systems. IEEE Trans. on Multimedia, 10(7):1288-1298 (2008)
+M. A. Hossain, P. K. Atrey and A. El Saddik. Gain-based selection of ambient media services in pervasive computing environments. Springer Int. J. of Mobile Networks and Applications, 13(6): 599-613 (2008)
+P. K. Atrey, M. A. Hossain and A. El Saddik. Association-based dynamic computation of reputation in web services. Inderscience Int. J. Web and Grid Services, 4(2):169-188 (2008)
+V. K. Singh, P. K. Atrey and M. S. Kankanhalli. Coopetitive multi-camera surveillance using model predictive control. Springer Int. J. of Machine Vision and Applications, 19(5-6):375-393 (2008)
+P. K. Atrey, M. S. Kankanhalli and John B. Oommen. Goal-oriented optimal subset selection of correlated multimedia streams. ACM Trans. on Multimedia Computing, Communications and Applications, Vol. 3, Issue 1, Article 2 (2007)
+P. K. Atrey, W.-Q. Yan and M. S. Kankanhalli. A scalable signature scheme for video authentication. Springer Int. J. of Multimedia Tools and Applications, 34(1): 107-135 (2007)
+P. K. Atrey, M. S. Kankanhalli and R. Jain. Information assimilation framework for event detection in multimedia surveillance systems. Springer/ACM Multimedia Systems J., 12(3): 239-253 (2006)
+Peer Reviewed Letters
+M. Saini, P. K. Atrey, S. Mehrotra and M. S. Kankanhalli Considering implicit channels in privacy analysis of video data. IEEE COMSOC MMTC E-letter, Vol. 6, No. 11, pp 27-30, November 2011.
+Peer Reviewed Conference/Workshop Proceedings
+A. Yakubu, N. C. Maddage and P. K. Atrey. Secret management scheme using Shamir's secret sharing. The 21st Int. Conf. on Multimedia Modeling (MMM'15), January 2015, Sydney, Australia. 
+K. Kansal, M. Mohanty and P. K. Atrey. Scaling and cropping of wavelet-based compressed images in hidden domain. The 21st Int. Conf. on Multimedia Modeling (MMM'15), January 2015, Sydney, Australia. 
+M. Mohanty, C. Gehrmann and P. K. Atrey. Avoiding weak parameters in secret image sharing. IEEE Int. Conf. on Visual Communications and Image Processing (VCIP'14), December 2014, Valletta, Malta. 
+Q. Huang, V. K. Singh and P. K. Atrey. Cyber bullying detection using social and textual features. The 3rd ACM MM Workshop on Socially Aware Multimedia (IWSAM14), November 2014, Orlando, FL, USA. 
+M. Moski and P. K. Atrey. An intuitive touch screen interface for car remote control. The 1st ACM MM Workshop on Emerging Multimedia Applications and Services for Smart Cities (EMASC14), November 2014, Orlando, FL, USA. 
+S. Bhardwaj, M. Saini, P. K. Atrey and A. El Saddik. Personalized ambient environments using multiple social networks. The 2nd IEEE ICME International Workshop on Ambient Multimedia and Sensory Environment (AMUSE'14), July 2014, Chengdu, China.
+M. Mohanty, W.-T. Ooi and P. K. Atrey. Secure cloud-based volume ray-casting. IEEE Int. Conf. on Cloud Computing Technology and Services (CloudCom'13), December 2013, Bristol, UK.
+K. Senevirathna and P. K. Atrey. A secure and privacy-aware cloud-based architecture for online social networks. The 7th Multi-Disciplinary Int. Workshop on Artificial Intelligence (MIWAI'13), December 2013, Krabi, Thailand.
+H. Agarwal, B. Raman and P. K. Atrey. Watermarking schemes to secure the face database and test images in a biometric system. The IEEE Int. Conf. on Signal and Image Processing Applications (ICSIPA'13), October 2013, Melaka, Malaysia.
+S. Bhadravati, M. Khabbazian and P. K. Atrey. On the semantic security of secret image sharing methods. IEEE Int. Conf. on Semantic Computing (ICSC'13), September 2013, Irvine, CA, USA.
+A. Lathey, P. K. Atrey and N. Joshi. Homomorphic low pass filtering on encrypted multimedia over cloud. IEEE Int. Conf. on Semantic Computing (ICSC'13), September 2013, Irvine, CA, USA.
+M. Mohanty, W.-T. Ooi and P. K. Atrey. Scale me, crop me, know me not: Supporting scaling and cropping in secret image sharing. IEEE Int. Conf. on Multimedia and Expo (ICME'13), July 2013, San Jose, CA, USA.
+M. Mohanty, P. K. Atrey and W.-T. Ooi. Secure cloud-based medical data visualization. The ACM Int. Conf. on Multimedia (ACMMM'12), pp 1105-1108, October 29-November 2, 2012, Nara, Japan.
+T. Atrey, P. Gupta and P. K. Atrey. Unobtrusive map navigation using eye tracking. The 25th Canadian Conf. on Electrical and Computer Engineering, April 29-May 2, 2012, Montreal, Canada.
+R. Bisewski and P. K. Atrey. Toward a remote-controlled weapon-equipped camera surveillance system. IEEE Int. Symposium on Monitoring & Surveillance Research: Healthcare-Safety-Security, pp 1087 – 1092, November 9, 2011, Boca Raton, FL, USA.
+P. K. Atrey. A secret sharing based privacy enforcement mechanism for untrusted social networking operators. The 3rd ACM Int. Workshop on Multimedia in Forensics and Intelligence, pp 13-18, November 28 -December 1, 2011, Scottsdale, AZ, USA.
+P. K. Atrey, K. Hildebrand and S. Ramanna. An efficient method for protection of text documents using secret sharing. Int. Conf. on Frontiers of Computer Science, August 2011, Bangalore, India.
+M. Saini, P. K. Atrey, S. Mehrotra and M. S. Kankanhalli. Anonymous surveillance. IEEE Int. Conf. on Multimedia and Expo – Workshop on Advances in Automated Multimedia Surveillance for Public Safety, July 2011, Barcelona, Spain.
+K. Amriki and P. K. Atrey. Towards optimal placement of surveillance cameras in a bus. IEEE Int. Conf. on Multimedia and Expo – Workshop on Advances in Automated Multimedia Surveillance for Public Safety, July 2011, Barcelona, Spain.
+M. Saini, X. Wang, P. K. Atrey and M. S. Kankanhalli. Dynamic workload assignment in video surveillance systems. IEEE Int. Conf. on Multimedia and Expo, July 2011, Barcelona, Spain.
+S. Alharthi, P. K. Atrey and M. S. Kankanhalli. Secret video sharing. APSIPA Annual Summit and Conference, December 2010, Singapore.
+S. Alharthi and P. K. Atrey. Further improvements on secret image sharing scheme. ACM Multimedia Workshop on Multimedia in Forensics, Security and Intelligence, pp 53-58, October 2010, Firenze, Italy.
+M. Saini, P. K. Atrey, S. Emmanuel and M. S. Kankanhalli. Functionality delegation in distributed surveillance systems. IEEE Int. Conf. on Advanced Video and Signal-Based Surveillance - Workshop on Multimedia Systems for Surveillance, pp 72-79, August, 2010, Boston, MA, USA.
+S. Alharthi and P. K. Atrey. An improved scheme for secret image sharing. IEEE ICME Workshop on Content Protection and Forensics, pp 1661-1665, July 2010, Singapore.
+M. Saini, P. K. Atrey, S. Mehrotra, S. Emmanuel and M. S. Kankanhalli. Privacy modeling for video data publication. IEEE Int. Conf. on Multimedia and Expo, pp 60-65, July 2010, Singapore.
+B. Barake, P. K. Atrey, M. A. Hossain and A. El Saddik. Human-coordinated camera control for monitoring public spaces. Int. Conf. on Information Sciences, Signal Processing and their Applications, May 2010, Kuala Lumpur, Malaysia.
+S. Guest, P. K. Atrey and S. Emmanuel. PEER: An effective and efficient personal website organizer. IEEE TENCON Conference, pp 1-6, November 2009, Singapore.
+P. K. Atrey. A hierarchical model for representation of events in multimedia observation systems. ACM Int. Workshop on Events in Multimedia, pp 57-64, October 2009, Beijing, China.
+B. Barake, P. K. Atrey, J. Zhao and A. El Saddik. A user friendly mobile device interface to assist security officers in physical monitoring at public places. ACM Int. Workshop on Ambient Media Computing: Part 1: Sensory Media Systems and Applications, pp 29-36, October 2009, Beijing, China.
+P. Zhang, S. Emmanuel, P. K. Atrey and M. S. Kankanhalli. Spatio-temporal latent semantic cues for moving people tracking. The 34th IEEE Int. Conf. on Acoustics, Speech, and Signal Processing, pp 3533-3536, April, 2009, Taipei, Taiwan.
+M. A. Hossain, P. K. Atrey and A. El Saddik. Dynamic gain estimation in ambient media services. The 1st ACM Int. Workshop on Semantic Ambient Media Experience, pp 49-56, October, 2008, Vancover, BC, Canada.
+M. A. Hossain, P. K. Atrey and A. El Saddik. Context-aware QoI computation in multisensor systems. First IEEE Int. Workshop on Quality of Information for Sensor Networks, Sep-Oct 2008, Atlanta, GA, USA.
+P. K. Atrey, M. A. Hossain and A. El Saddik. Automatic scheduling of CCTV camera views using a humancentric approach. IEEE Int. Conference on Multimedia and Expo, June 2008, Honnover, Germany.
+P. K. Atrey and A. El Saddik. Ambient aware authentication of digital evidences. The 21st Canadian Conf. on Electrical and Computer Engineering, pp 2037-2040, May 2008, Niagara Falls, ON, Canada.
+M. A. Hossain, P. K. Atrey and A. El Saddik. Managing ambient media preferences in distributed environments for service personalization. Int. Symposium on Parallel Architectures, Algorithms, and Networks, pp. 204-209, May 2008, Sydney, Australia.
+M. A. Hossain, P. K. Atrey and A. El Saddik. Learning multi-sensor confidence using difference of opinions. IEEE Int. Instrumentation and Measurement Technology Conference, May 2008, Victoria, British Columbia, Canada.
+P. K. Atrey, M. A. Hossain and A. El Saddik. A method for computing the reputation of multimedia services through selection and composition. Fifteenth Annual IS&T/SPIE Conf. on Multimedia Computing and Networking, Vol. 6818, pp H1-H8, January 30-31, 2008, San Jose, California, USA
+P. K. Atrey, M. A. Hossain and A. El Saddik. A multimedia-based system for monitoring sleepwalkers. IEEE Int. Conf. on Signal Processing and Communications, pp 1459-1462, November 2007, Dubai, UAE.
+P. Sherisha, P. K. Atrey and A. El Saddik. Towards an intelligent GPS-based vehicle navigation system for finding parking lots. IEEE Int. Conf. on Signal Processing and Communications, pp 1251-1254, November 2007, Dubai, UAE.
+H. Ibrahim, P. K. Atrey and A. El Saddik. Semantic similarity based trust computation in websites. First ACM Int. Workshop on The Many Faces of Multimedia Semantics, pp 65-72, September, 2007, Augsburg, Germany.
+M. A. Hossain, P. K. Atrey and A. El Saddik. Smart mirror for ambient home environment. The 3rd IET Int. Conf. on Intelligent Environments, pp 589-596, September, 2007, Ulm, Germany.
+M. A. Hossain, P. K. Atrey and A. El Saddik. Modeling quality of information in multi-sensor surveillance systems. Int. Workshop on Ambient Intelligence, Media, and Sensing, (Associated with the Int. Conf. on Data Engineering), pp 11-18, April 20, 2007, Istanbul, Turkey.
+P. K. Atrey, M. S. Kankanhalli and A. El Saddik. Confidence building among correlated streams in multimedia surveillance systems. Int. Conf. on Multimedia Modeling, pp 155-164, January, 2007, Singapore.
+V. K. Singh, P. K. Atrey and M. S. Kankanhalli. Coopetitive multimedia surveillance. Int. Conf. on Multimedia Modeling, pp 343-352, January, 2007, Singapore.
+K. G. Sivarama, P. K. Atrey, V. K. Singh, K. Ramakrishnan and M. S. Kankanhalli. A design methodology for selection and placement of sensors in multimedia surveillance systems. The 4th ACM Int. Workshop on Video Surveillance and Sensor Networks, pp 121-130, October, 2006, Santa Barbara, California, USA.
+K. Vaiapury, P. K. Atrey, M. S. Kankanhalli and K. Ramakrishnan. Non-identical duplicate detection in video using the SIFT method. Int. Conf. on Visual Information Engineering, pp 537-542, September, 2006, Bangalore, India.
+P. K. Atrey, V. Kumar, A. Kumar and M. S. Kankanhalli. Experiential sampling based foreground/background segmentation for video surveillance, IEEE Int. Conf. on Multimedia and Expo, July, 2006, Toronto, Canada.
+P. K. Atrey, N. C. Maddage and M. S. Kankanhalli. Audio based event detection for multimedia surveillance. IEEE Int. Conf. on Acoustics, Speech, and Signal Processing, pp V813-816, May, 2006, Toulouse, France.
+P. K. Atrey, M. S. Kankanhalli and R. Jain. Timeline-based information assimilation in multimedia surveillance and monitoring systems. The 3rd ACM Int. Workshop on Video Surveillance and Sensor Networks, pp 103-112, Pradeep K. Atrey Curriculum Vitae 7/18 November, 2005, Singapore.
+V. K. Singh and P. K. Atrey. Coopetitive visual surveillance using model predictive control. The 3rd ACM Int. Workshop on Video Surveillance and Sensor Networks, pp 149-158, November, 2005, Singapore.
+P. K. Atrey and M. S. Kankanhalli. Goal based optimal selection of media streams. IEEE Int. Conf. on Multimedia and Expo, pp 305-308, July, 2005, Amsterdam, The Netherlands.
+P. K. Atrey and M. S. Kankanhalli. Probability fusion for correlated multimedia streams. ACM Int. Conf. on Multimedia, pp 408-411, October, 2004, New York City, NY, USA.
+P. K. Atrey, W.-Q. Yan, E.-C. Chang and M. S. Kankanhalli. A hierarchical signature scheme for robust video authentication using secret sharing. The 10th Int. Multimedia Modeling Conf., pp 330-337, January, 2004, Brisbane, Australia.
+P. K. Atrey and N. Rajpal. Efficient representation of contours and its applications. The 7th Int. Workshop on Advanced Image Technology, pp 353-357, January, 2004, Singapore.
+P. K. Atrey, A. De and N. Rajpal. Polynomial representation of 2-D image boundary contours. IEEE Region 10 Conf. on Computers, Communications, Control and Power Engineering (TENCON '02), Vol. 1, pp 257- 260, October 2002, Beijing, China.
+P. K. Atrey, S. Dhawan and N. Rajpal. Minimizing the control points and studying the behavior of resulting 2D/3D curves. All India Seminar on Computer Communication and Networks, pp 76-79, November 2001, Roorkee, India.
+Peer Reviewed Book Chapters
+P. K. Atrey. Event representation in multimedia observation systems. In Effective Surveillance for Homeland Security: Balancing Technology and Social Issues, Eds. Francesco Flammini, Roberto Setola and Giorgio Franceschetti, (Chapter 7), CRC Press / Taylor & Francis, pp 143-168, (2013).
+M. Saini, P. K. Atrey and M. S. Kankanhalli. Workload modeling for multimedia surveillance systems. In Emerging Trends in Machine Learning, Eds. S. Ramanna, L. C. Jain and R. J. Howlett, (Chapter 16), Springer Press, pp 419-440 (2013).
+P. K. Atrey, A. El Saddik and M. S. Kankanhalli. Digital video authentication: System properties, design issues and techniques. In Handbook of Research on Secure Multimedia Distribution, (Chapter XVI), IGI publisher, pp 298-314 (2009).
+Edited Books
+Intelligent Multimedia Surveillance: Current Trends and Research. Publisher Springer. P. K. Atrey; M. Kankanhalli; A. Cavallaro (Eds.) (2013).
+Managing Trust in Cyberspaces. CRC Press. P. K. Atrey; S. M. Thampi; B. Bhargava (Eds.) (2013).
+Guest Editorials 
+P. K. Atrey, M. A. Hossain and M. S. Kankanhalli Advances in multimedia surveillance. Springer Int. J. Multimedia Tools and Applications, DOI: 10.1007/s11042-012-1342-3, (2013).
+P. K. Atrey, S. Emmanuel, S. Mehrotra and M. S. Kankanhalli. Privacy-aware multimedia surveillance systems. Springer Multimedia Systems J., 18(2):95-97, (2012).
+Awards and Honors
+
+The Erica and Arnold Rogers Award for Excellence in Research and Scholarship (2014)
+University of Winnipeg President’s Merit Award for Exceptional Performance (2013)
+University of Winnipeg President’s Merit Award for Exceptional Performance (2012)
+University of Winnipeg President’s Merit Award for Exceptional Performance (2010)
+IEEE ICME Outstanding Organizing Committee Member (as Publicity Chair) (2013)
+ETRI Journal Best Editor Award (2012)
+ETRI Journal Best Reviewer Award (2009)
+IEEE ICME Quality Reviewer (2011)
+Postdoctoral Fellowship, University of Ottawa (2006-08)
+NUS Research Scholarship, National University of Singapore (2002-06)
+

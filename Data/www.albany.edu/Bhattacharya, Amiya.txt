@@ -1,0 +1,43 @@
+Bhattacharya, Amiya
+https://www.albany.edu/ceas/90418.php
+https://www.albany.edu
+abhattacharya@albany.edu
+Research Interests
+My ongoing research interests are in developing intelligent and exploratory simulation technology for realistic modeling of collective behavior of complex adaptive systems, such as large crowd. The end goal is to design a software system and that can be used by event planners to make safe, secure and resilient event plans, as well as provide tools to manage on-the-y monitoring and control for emergency response and crowd evacuation. The key idea is to use machine learning techniques at the planning stage (mostly unsupervised learning) to drive the agent-based simulations to explore not only common cases but also rare and potentially catastrophic events.
+Publications
+
+
+
+1) “Virtual sensor WPAN on demand," Proc. 4th International Workshop on Real-World Sensor Networks (RealWSN 2010), 198-201, Colombo, Sri Lanka, December 2010, LNCS 6511, P. J. Marron, et al. (eds.), Springer 2010 (with M. S. Fernando, H. S. B. Ramthilak and P. Dasgupta).
+        
+        2) “Determining the integrity of application binaries on unsecured legacy machines using software-based remote attestation," Proc. 6th International Conference on Information Systems Security (ICISS 2010), 66-80, Gandhinagar, India, December 2010, LNCS 6503, S. Jha and A. Mathuria (eds.), Springer 2010 (with R. Srinivasan, P. Dasgupta and T. Gohad).
+        
+        3) “Lightweight virtualization of low-power WPAN sensor nodes," as part of Location-aware Computing, Virtual Networks," A. D. Joseph (ed.), IEEE Pervasive Computing, 8(4):28-32, 2009 (with P. Dasgupta).
+        
+        4) “Mitigating routing vulnerabilities in ad hoc networks using reputations," International Journal of Information and Computer Security, 3(2):150-172, 2009 (with P. Dewan and P. Dasgupta).
+        
+        5) “SDDA: Sparse and dynamic in-network data aggregation in sensor nets," Proc. IEEE Military Communications Conference (MILCOM'08 unclassified papers), San Diego, CA, November 2008 (with V. Kodali, H. Huang and Y. Katuru).
+
+        6) “Community sensor grids: Virtualization for sharing across domains," Proc. 1st Workshop on Virtualization in Mobile Computing (MobiVirt), Breckenridge, CO, June 2008 (with M. S. Fernando and P. Dasgupta).
+        
+        7) “Battlespace sensornets made intelligent against adversaries," Proc. ITEA White Sands Chapter Modeling and Simulation Conference, Las Cruces, NM, December 2006 (with A. RayChaudhuri and U. Chinthala).
+        
+        8) “Obfuscating temporal context of sensor data by coalescing at source," Mobile Computing and Communication Review (MC2R), 11(2):41-42, 2007 (with A. RayChaudhuri and U. Chinthala).
+
+        9) “Early channel reservation based on mobile movement," Proc. IEEE Global Communication Conference (GLOBECOM 2003), vol. 2, 924-928, San Francisco, CA, December 2003 (with S.-S. Wang and M. P. Green).
+        
+        10) “The role of prediction algorithms in the MavHome smart home architecture," IEEE Wireless Communications Magazine, 9(6):77-84, December 2002 (with S. K. Das, D. J. Cook, E. Heierman and T.-Y. Lin).
+        
+        11) “LeZi-Update: An information-theoretic framework for personal mobility tracking in PCS networks," ACM/Kluwer Wireless Networks Journal, 8(2-3):121-135, March-May 2002 (with S. K. Das).
+        
+        12) “A selective location update strategy for PCS users,," ACM/Baltzer Wireless Networks Journal 5(5):313-326, October 1999 (with S. K. Sen and S. K. Das).
+        
+Awards and Honors
+
+Distinguished Member of the Teaching Academy, New Mexico State University, 2005-08.
+John S. Schuchman Memorial Award for Outstanding Doctoral Research, University of Texas at Arlington, 2003.
+Texas Telecommunication Engineering Consortium (TxTEC) Fellowship, University of Texas at Arlington, 1999-2001.
+Best Student Paper Award with Best Paper recognition, 5th Annual ACM/IEEE Int'l Conference on Mobile Computing and Networking, 1999.
+Science Applications International Corporation (SAIC) Fellowship, University of California, San Diego, 1994.
+ 
+

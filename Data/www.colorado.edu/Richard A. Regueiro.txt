@@ -1,0 +1,10 @@
+Richard A. Regueiro
+https://www.colorado.edu/ceae/richard-regueiro
+https://www.colorado.edu
+richard.regueiro@colorado.edu
+Interests:Computational multiscale mechanics for porous and particulate materials.
+Mechanics of single phase (dry) and multiphase (partially-saturated and saturated, multi-constituent) porous materials, such as geomaterials (soil, rock), concrete, and soft biological tissues.
+Damaged polycrystalline metals.
+Generalized continuum theories for multiscale modeling of inelastic deformation.
+Applications include modeling geotechnical, geological, and structural engineering failures, high strain rate loading of polycrystalline metals and soils, and visco-poroelastic response of ocular tissues and other biological tissues.
+

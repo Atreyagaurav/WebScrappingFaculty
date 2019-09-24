@@ -1,0 +1,9 @@
+Jing (Peter) Jin
+https://cee.rutgers.edu/fac/jing-peter-jin
+https://cee.rutgers.edu
+peter.j.jin@rutgers.edu
+Research Interests• Mobile Sensor Data Modeling and Applications: including probe data based traffic state estimation and Lagrangian Traffic Flow Models.
+• Microscopic Vehicle Characteristics and Control in Connected Vehicle Environment: focusing on the bi-directional control, traffic stability analysis, cyber security, adaptive cruise control, and microscopic traffic coordination methods.
+• Transportation Big Data Analytics: including data mining on social network data, mobile location data for travel demand and activity pattern analysis.
+• Traffic operations: including freeway traffic flow and traffic management models, methodologies, and technologies, arterial traffic state estimation, Active Traffic and Demand Management (ATDM) technologies and their microscopic implementation.
+ 

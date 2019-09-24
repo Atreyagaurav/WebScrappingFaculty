@@ -1,0 +1,9 @@
+Changqing Li
+https://engineering.ucmerced.edu/content/changqing-li
+https://engineering.ucmerced.edu
+cli32@ucmerced.edu
+Research Interests: Biomedical imaging instrumentation and reconstruction algorithm development, focusing on preclinical imaging
+X-ray Luminescence Optical Tomography (XLOT)
+Simultaneous Fluorescence Optical Tomography (FOT) and Positron Emission Tomography (PET)
+Cerenkov Luminescence Imaging (CLI)/Tomography (CLT)
+

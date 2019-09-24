@@ -1,0 +1,5 @@
+Helen Durand
+https://engineering.wayne.edu/profile/gk4397
+https://engineering.wayne.edu
+helen.durand@wayne.edu
+Research Interestsplant-wide control of nonlinear systems; centralized and distributed economic model predictive control; operational safety and cybersecurity of closed-loop processes; reduced-order modeling in predictive control

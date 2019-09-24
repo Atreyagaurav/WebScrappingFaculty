@@ -1,0 +1,8 @@
+Sachin Goyal
+https://engineering.ucmerced.edu/content/sachin-goyal
+https://engineering.ucmerced.edu
+sgoyal2@ucmerced.edu
+Research Interests: Computational dynamics, mechanics and controls, with applications primarily in micro-scale biological systems
+Continuum-dynamics- and multi-body-dynamics-based modeling, and inverse modeling, of DNA and proteins, and their interactions
+Constitutive law modeling of bio-filaments from their molecular dynamics simulations
+

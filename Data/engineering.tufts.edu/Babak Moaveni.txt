@@ -1,0 +1,7 @@
+Babak Moaveni
+https://engineering.tufts.edu/cee/people/faculty/babak-moaveni
+https://engineering.tufts.edu
+
+  babak.moaveni@tufts.edu
+Research Interests: Babak Moaveni's research interests include vibration-based structural health monitoring, system and damage identification of civil structures, experimental modal analysis, signal processing, finite element analysis and finite element model updating, structural dynamics, earthquake engineering, structural reliability and risk analysis, uncertainty quantification, and verification and validation of computational models.
+

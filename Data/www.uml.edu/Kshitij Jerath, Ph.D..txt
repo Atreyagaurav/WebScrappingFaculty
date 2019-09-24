@@ -1,0 +1,5 @@
+Kshitij Jerath, Ph.D.
+https://www.uml.edu/Engineering/Mechanical/faculty/Jerath-Kshitij.aspx
+https://www.uml.edu
+Kshitij_Jerath@uml.edu
+Research InterestsMy overarching research goal is to advance the understanding of complex dynamics observed in large-scale self-organizing systems, and to design bottom-up control algorithms that guide such systems to desired states via minimal intervention. My current work focuses on design and control of robotic swarms and transportation networks with emphasis on the role of a small set of agents in influencing macro-scale system dynamics. In the future I intend to apply the developed tools to diverse networked systems such as social ensembles, system reliability, and neural systems.

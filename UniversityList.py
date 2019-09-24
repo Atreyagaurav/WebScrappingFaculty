@@ -9,6 +9,7 @@ import re
 import pyperclip as pc
 import time
 import multiprocessing as mp
+from Tree import *
 def getSoup(web):
 	try:
 		r=requests.get(web,timeout=(5,25))
@@ -166,18 +167,46 @@ def saveProfessorInfo(url):
 	pass
 	# r=requests.get(url)
 	# soup=BeautifulSoup(r.text,'html.parser')
-def getProfessorList_Web(url,AppCanvas):
+def getProfessorList_Web(url,AppCanvas=None):
 	r=requests.get(url)
 	web=get_base_url(url)
 	link={}
 	soup=BeautifulSoup(r.text,'html.parser')
-	sObj=soup.find_all('a',href=True)
-	for ob in sObj:
-		if((len(ob.text.split(' '))==2 or len(ob.text.split(' '))==3) and isName(ob.text)):
-			url=ob['href']
-			if not(url.startswith('http')):
-				url = urljoin(get_base_url(web), url)
-			link[ob.text]=url
+	if(web=="https://ceas.uc.edu"):
+		sObj=soup.find_all('div',{'class':'body'})
+		for ob in sObj:
+			name=re.findall('[A-Z][a-z]* .* *[A-Z][a-z]*',ob.h3.text)[0]
+			btn=ob.find('a',{'class':'btn-red'})
+			if not(btn==None):
+				url=btn['href']
+				if not(url.startswith('http')):
+					url = urljoin(get_base_url(web), url)
+			else:
+				url=None
+			link[name]=url
+	elif(web=="https://www.memphis.edu"):
+		sObj=soup.find_all('p',{'text':re.compile(r'.*Professor.*')})
+		for ob in sObj:
+			name=ob.text
+			print(name)
+			url=ob.find_next_siblings().find_next_siblings()['href']
+			if not(btn==None):
+				url=btn['href']
+				if not(url.startswith('http')):
+					url = urljoin(get_base_url(web), url)
+			else:
+				url=None
+			link[name]=url
+	else:
+		sObj=soup.find_all('a',href=True)
+		for ob in sObj:
+			if ob.text==None:
+				continue
+			if((len(ob.text.split(' '))==2 or len(ob.text.split(' '))==3) and isName(ob.text)):
+				url=ob['href']
+				if not(url.startswith('http')):
+					url = urljoin(get_base_url(web), url)
+				link[ob.text]=url
 	profNames= RemoveOutliners(link)
 	if profNames==None:
 		return None
@@ -187,7 +216,8 @@ def getProfessorList_Web(url,AppCanvas):
 		fname=saveProfObj_Web(site,profName)
 		if fname==None:
 			continue
-		AppCanvas.Notice.set("Found Professor: "+profName+"\nDetails Saved in Local Memory.")
+		if AppCanvas!=None:
+			AppCanvas.Notice.set("Found Professor: "+profName+"\nDetails Saved in Local Memory.")
 		profList.append(Professor(fname))
 	return profList
 def isName(str):
@@ -201,7 +231,28 @@ def collectUniInfo():
 	websites=getWebsitesFromFile("Universities.txt")
 	for uni in websites:
 		try:
-			collectProfessorSites(uni)
+			civilSite=getCivilProgramSite(uni)
+			soup=getSoup(civilSite)
+			faculties=soup.find_all('a',href=True,text=re.compile(r'.*[Ff]aculty.*|.*[Pp]eople.*'))
+			print(faculties)
+			if len(faculties)==0:
+				continue
+			for facultySite in faculties:
+				url=facultySite['href']
+				if not(url.startswith('http')):
+					url = urljoin(get_base_url(civilSite), url)
+				Profs=getProfessorList_Web(url)
+				if Profs==None:
+					continue
+				elif len(Prof)<5:
+					Profs=None
+					continue
+				else:
+					break
+			# if Profs==None:
+			# 	continue
+			# else:
+			# 	pass #Gaurav 
 		except:
 			pass
 	# uniThreads=[]
@@ -261,11 +312,14 @@ def RemoveOutliners(givenDict):
 		return None
 	Links=Node('Root',0)
 	for ind in newDict:
+		if (ind==None):
+			continue
 		Links.AddMultiLayer(ind.split('/'))
 	common=Links
+	Links.showTree()
 	while(common.TotalChildrens>len(newDict)/2):
 		common=common.getMainChild()
-	if(common.Rank<4):
+	if(common.Rank<=4):
 		return None
 	leaves= common.Parent.getLeaves()
 	finalDict={}
@@ -281,10 +335,15 @@ def removeEnglishWords(dicti):
 	d=enchant.Dict("en_US")
 	rem=[]
 	for val in dicti:
+		if val==None:
+			rem.append(val)
+			continue
 		wrds=val.split(' ')
 		flag=True
 		for wrd in wrds:
-			if not(d.check(wrd.lower()) or wrd==wrd.upper()):
+			if wrd=='':
+				flag=False
+			elif not(d.check(wrd.lower()) or wrd==wrd.upper()):
 				flag=False
 		if flag:
 			rem.append(val)
@@ -306,94 +365,7 @@ def getSoup(web):
 	except requests.exceptions.Timeout:
 		print(web+"::Timeout")
 		return None
-class Node:
-	def __init__(self,val,parent=None,rnk=0):
-		self.Value=val
-		self.Parent=parent
-		self.child=0
-		self.Rank=rnk
-		self.TotalChildrens=0
-		self.childNodes=[]
-	def AddMultiLayer(self,values):
-		n=len(values)
-		node=self.addNode(values[0])
-		if n==1:
-			return
-		else:
-			node.AddMultiLayer(values[1:])
-		self.refresh()
-	def addNode(self,val):
-		if(self.hasChildValue(val)):
-			return self.getChild(val)
-		self.childNodes.append(Node(val,self,self.Rank+1))
-		self.child+=1
-		self.TotalChildrens+=1
-		return self.childNodes[self.child-1]
-	def removeNode(self,val):
-		for i in range(self.child):
-			if(self.childNodes[i].Value==val):
-				self.TotalChildrens-=(self.childNodes[i].TotalChildrens+1)
-				self.childNodes.pop(i)
-	def refresh(self):
-		num=self.child
-		for childrens in self.childNodes:
-			childrens.refresh()
-			num+=childrens.TotalChildrens
-		self.TotalChildrens=num
-	def hasChildValue(self,val):
-		for i in range(self.child):
-			if(self.childNodes[i].Value==val):
-				return True
-		return False
-	def getChild(self,val):
-		for i in range(self.child):
-			if(self.childNodes[i].Value==val):
-				return self.childNodes[i]
-	def show(self):
-		print("Value="+self.Value)
-		print("childNodes="+str(self.child))
-		print("Total childNodes="+str(self.TotalChildrens))
-	def showAll(self):
-		self.show()
-		for child in self.childNodes:
-			child.showAll()
-	def getMainChild(self):
-		if self.child==0:
-			return None
-		child=self.childNodes[0]
-		for i in range(self.child):
-			max=self.childNodes[0].TotalChildrens
-			if(self.childNodes[i].TotalChildrens>max):
-				max=self.childNodes[i].TotalChildrens
-				child=self.childNodes[i]
-		return child
-	def getLeaves(self,prev=[]):
-		for i in range(self.child):
-			if(self.childNodes[i].child==0):
-				prev.append(self.childNodes[i])
-			else:
-				prev=self.childNodes[i].getLeaves(prev)
-		return prev
-	def CollectAll(self,deliminator=''):
-		lis=[]
-		leaves=self.getLeaves()
-		for node in leaves:
-			link=node.Value
-			par=node.Parent
-			r=node.Rank-self.Rank
-			for i in range(r):
-				link=par.Value+deliminator+link
-				par=par.Parent
-			lis.append(link)
-		return lis
-	def collectLeaf(self,deliminator=''):
-		link=self.Value
-		par=self.Parent
-		r=self.Rank
-		for i in range(r):
-			link=par.Value+deliminator+link
-			par=par.Parent
-		return link
+
 class Professor:
 	def __init__(self,filename):
 		f=open(filename)

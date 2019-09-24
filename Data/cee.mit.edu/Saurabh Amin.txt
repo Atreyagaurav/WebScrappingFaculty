@@ -1,0 +1,5 @@
+Saurabh Amin
+https://cee.mit.edu/people_individual/saurabh-amin/
+https://cee.mit.edu
+amins@mit.edu
+Research InterestsMy research focuses on the design and implementation of high confidence network control algorithms for infrastructure systems. My research group works on robust diagnostics and control problems that involve using networked systems to facilitate the monitoring and control of large-scale critical infrastructures, including transportation, water, and energy distribution systems. We also study the effect of security attacks and random faults on the survivability of networked systems, and designs incentive-compatible control mechanisms to reduce network risks.

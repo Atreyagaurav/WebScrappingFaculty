@@ -1,0 +1,34 @@
+Nenad Gucunski
+https://cee.rutgers.edu/fac/nenad-gucunski
+https://cee.rutgers.edu
+gucunski@soe.rutgers.edu
+Research InterestsSeismic Methods and Nondestructive Evaluation (NDE) Techniques
+
+
+seismic and ultrasonic techniques for NDE of transportation infrastructure
+
+
+electromagnetic methods, ground penetrating radar (GPR)
+
+
+Dynamic Soil Structure Interaction
+
+
+response of soil-structure systems under earthquake ground motion
+
+
+evaluation of impedance functions for foundation structures
+
+
+modeling of soil structure systems by finite elements
+
+
+Numerical Modeling
+
+
+simulation of wave propagation phenomena in structural elements, soils and layered systems
+
+
+numerical modeling of pavement and bridge deck structures
+
+

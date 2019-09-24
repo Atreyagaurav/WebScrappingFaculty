@@ -1,0 +1,5 @@
+Celestine Aguwa
+https://engineering.wayne.edu/profile/bd4891
+https://engineering.wayne.edu
+
+Research InterestsVoice of the Customer (VOC) Analysis- data mapping to engineering input: {PI: Dr. Celestine Aguwa}; 2010 - Current This research maps customer feedback to engineering input. It takes the customer input through data mining/clustering and calculates a threshold value, customer satisfaction ratio (CSR). This threshold is interpreted to accurately reflect customer needs and wants in the design input (correlation between the output to the design input).

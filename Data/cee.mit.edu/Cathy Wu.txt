@@ -1,0 +1,5 @@
+Cathy Wu
+https://cee.mit.edu/people_individual/cathy-wu/
+https://cee.mit.edu
+cathywu@mit.edu
+Research InterestsCathy works at the intersection of machine learning, optimization, and large-scale societal systems. Her recent research focuses on mixed autonomy systems in mobility, which studies the complex integration of automation such as self-driving cars into existing urban systems. She is interested in developing principled computational tools to enable reliable and complex decision-making for critical societal systems.

@@ -1,0 +1,13 @@
+Dara Entekhabi
+https://cee.mit.edu/people_individual/dara-entekhabi/
+https://cee.mit.edu
+darae@mit.edu
+Research Interests
+Earth remote sensing
+Land-atmosphere interaction and boundary layer processes
+Dynamics of winter-time extra-tropical atmosphere and its predictability
+Data Assimilation: Techniques development and applications
+Land evaporation retrieval using multi-platform remotely sensed data
+Sensor network model-integration closed-loop control
+Surface water-groundwater interaction and hillslope hydrology
+

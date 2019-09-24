@@ -1,0 +1,74 @@
+Chelmis, Charalampos
+https://www.albany.edu/ceas/73411.php
+https://www.albany.edu
+cchelmis@albany.edu
+Research Interests
+Dr. Chelmis is interested in modeling, algorithmic, computational, and practical aspects of all V's of Big Data with a focus on graph data and applications to data science. Previously, he was Senior Research Associate with the Department of Electrical Engineering at the University of Southern California in Los Angeles, CA. Dr. Chelmis is addressing challenges related to Volume, Velocity, Variety, Variability, and Veracity to create Value. In his research, he exploits tools from graph theory, complex networks, data mining, machine learning, and data integration. 
+Publications
+
+Selected Journal Publications
+[1] A. Srivastava, C. Chelmis, V. K. Prasanna, “The unified model of social influence and its application in influence maximization”, Social Network Analysis and Mining, 5(1): 1-12, 2015 (Invited)
+[2] C. Chelmis, A. Srivastava, V. K. Prasanna, “Computational Models of Technology Adoption at the Workplace”, Social Network Analysis and Mining, 4(1): 1-18, 2014
+[3] C. Chelmis, V. K. Prasanna, “Social Link Prediction in Online Social Tagging Systems”, ACM Transactions on Information Systems, 31(4), 2013
+[4] C. Chelmis, V. K. Prasanna, “An Empirical Analysis of Microblogging Behavior in the Enterprise”, Social Network Analysis and Mining, 3(3): 611-633, 2013 (Invited) 
+Selected Conference Publications
+[5] A. Srivastava, C. Chelmis, V. K. Prasanna, “Mining Large Dense Subgraphs”, 5th International World Wide Web Conference, 2016
+[6] S. Aman, C. Chelmis, V. K. Prasanna, “Learning to REDUCE: A Reduced Electricity Consumption Prediction Ensemble”, AAAI Conference on Artificial Intelligence Workshop on Artificial Intelligence for Smart Grids and Smart Buildings, 2016
+[7] A. Srivastava, C. Chelmis, V. K. Prasanna, “Social Influence Computation and Maximization in Signed Networks with Competing Cascades”, IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining, 2015 (Acceptance Rate < 18%)
+[8] S. Aman,C. Chelmis, V. K. Prasanna, “Influence-driven Model for Time Series Prediction from Partial Observations”, AAAI Conference on Artificial Intelligence, 2015 (Acceptance Rate < 20%)
+[9] C. Chelmis, S. Aman, M. R. Saeed, M. Frincu, V. K. Prasanna, “Estimating Reduced Consumption for Dynamic Demand Response”, AAAI Conference on Artificial Intelligence Workshops, 2015
+[10] C. Chelmis, J. Kolte, V. K. Prasanna, “Big Data Analytics for Demand Response: Clustering Over Space and Time”, IEEE International Conference on Big Data Workshops, 2015
+[11] C. Wickramaarachchi, A. Kumbhare, M. Frincu, C. Chelmis, V. K Prasanna, “Real-time Analytics for Fast Evolving Social Graphs”, 15th IEEE/ACM International Symposium on Cluster, Cloud and Grid Computing, 2015
+[12] C. D. Wickramaarachchi, C. Chelmis, V. K. Prasanna, “Empowering Fast Incremental Computation over Large Scale Dynamic Graph”, International Workshop on Parallel & Distributed Computing for Large Scale Machine Learning & Big Data Analytics, 2015
+[13] A. Srivastava, R. Chen, C. Chelmis, V. K. Prasanna, “A Hybrid Design for High Performance Large-scale Sorting on FPGA”, International Conference on Reconfigurable Computing and FPGAs, 2015
+[14] S. Zhou, C. Chelmis, V. K. Prasanna, “Optimizing Memory Performance for FPGA Implementation of PageRank”, International Conference on Reconfigurable Computing and FPGAs, 2015
+[15] S. Zhou, C. Chelmis,V. K. Prasanna, “Accelerating Large-Scale Single-Source Shortest Path on FPGA”, IEEE International Parallel and Distributed Processing Symposium Workshop, 2015
+[16] C. Chelmis, M. R. Saeed, M. Frincu, V. K. Prasanna, “Curtailment Estimation Methods for Demand Response: Lessons learned by comparing apples to oranges”, ACM International Conference on Future Energy Systems, 2015 (Acceptance Rate < 23%)
+[17] R. Pal, C. Chelmis, S. Aman, C. Tadepalli, M. Frincu, V. K. Prasanna, “Online Time Series Clustering For Demand Response: A Theory to Break the Curse of Dimensionality”, ACM International Conference on Future Energy Systems, 2015 (Acceptance Rate < 23%)
+[18] M. Frincu, C. Chelmis, S. Aman, M. R. Saeed, V. Zois, V. K. Prasanna, “Enabling Automated Dynamic Demand Response: From Theory to Practice”, ACM International Conference on Future Energy Systems, 2015 (Acceptance Rate < 23%)
+[19] A. Srivastava, C. Chelmis, V. K. Prasanna, “The Unified Model of Influence in Social Networks?”, IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining, 2014 (Acceptance Rate < 18%)
+[20] M. Frincu, C. Chelmis, M. U. Noor, V. K. Prasanna, “Accurate and Efficient Selection of the Best Consumption Prediction Method in Smart Grids”, IEEE International Conference on Big Data, 2014 (Acceptance Rate < 19%)
+[21] C. Chelmis, V. K. Prasanna, “The Role of Organization Hierarchy in Technology Adoption at the Workplace”, IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining, 2013 (Acceptance Rate < 13%)
+[22] H. Wu, C. Chelmis, Y. Zhang, V. Sorathia, O. Patri, V. K. Prasanna, “Enriching Employee Ontology for Enterprises with Knowledge Discovery from Social Networks”, IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining, 2013
+[23] C. Chelmis, “Complex Modeling and Analysis of Workplace Collaboration Data”, International Conference on Collaboration Technologies and Systems, 2013
+[24] C. Chelmis, V. K. Prasanna, “Exploring Generative Models of Tripartite Graphs for Recommendation in Social Media”, 4rth International Workshop on Modeling Social Media, 2013
+[25] C. Chelmis, V. K. Prasanna, “Predicting Communication Intention in Social Networks”, ASE/IEEE International Conference on Social Computing, 2012 (Acceptance Rate < 10%)
+[26] C. Chelmis, V. K. Prasanna, “Microblogging in the Enterprise: A few comments are in order”, IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining, 2012 (Acceptance Rate < 16%)
+[27] C. Chelmis, V. Sorathia, V. K. Prasanna, “Enterprise Wisdom Captured Socially”, IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining, 2012 (Invited)
+[28] C. Chelmis, V. K. Prasanna, “Social Networking Analysis: A State of the Art and the Effect of Semantics”, IEEE International Conference on Social Computing, 2011 
+Book Chapters
+[29] A. Srivastava, C. Chelmis, V. K. Prasanna, “Computational Models for Cascades in Massive Graphs: How to Spread a Rumor in Parallel”, Parallel Graph Algorithms, Chapman & Hall/CRC Computational Science, 2016 (Accepted)
+[30] V. Zois, C. Chelmis, V. K. Prasanna, “Querying of Time Series for Big Data Analytics”, Handbook of Research on Innovative Database Query Processing Techniques, IGI Global, 2015 (Accepted)
+[31] C. Chelmis, V. Sorathia, V. K. Prasanna, “Enterprise Knowledge Preservation and Management”, Collaborative Processes and Decision Making in Organizations, IGI Global, 2013 
+Posters
+[32] S. Aman, C. Chelmis, V. K. Prasanna, “Addressing Data Veracity in Big Data Applications”, IEEE International Conference on Big Data, 2014
+[33] C. Chelmis, V. K. Prasanna, “Exploring Generative Models of Tripartite Graphs for Recommendation in Social Media”, 4rth International Workshop on Modeling Social Media, 2013
+[34] C. Chelmis, “Predicting Intention of Communication in Social Media”, University of Southern California, Department of Computer Science, Annual Research Review, 2013
+[35] C. Chelmis, “Enterprise Wisdom Captured Socially”, 2nd European Semantic Web Conference (ESWC) Summer School, 2012 
+Awards and Honors
+
+Awards
+Methodology Prize Award, DARPA Forecasting Chikungunya Challenge (with Ajitesh Srivastava and Anand Panangadan) May 2015 for interactive prediction of Chikungunya spread based on a novel infection model that leverages thehuman mobility graph between 55 countries and territories in the North, Central, and South America, and the Caribbean.
+First Prize Award (Student Project), 2nd ESWC Summer School 2012
+Honorable Mention (SpringerTabs), Springer API Challenge 1.0 2011
+Academic Achievement Award, USC Office of International Services 2009–2010
+Andreas Mentzelopoulos Scholarship 2008–2010
+Fulbright Institute, Mutual Educational Exchange Grant 2008 
+Academic Service
+Co-Editor
+        Encyclopedia of Social Network Analysis and Mining, Springer 2016
+Guest Editor
+        Journal of Parallel and Distributed Computing – Special Issue: Scalable Computing Systems for Big Data Applications 2015
+Co-Chair
+        IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining (PhD Forum and Posters Track) 2015–present
+Int’l Workshop on Scalable Computing For Real-Time Big Data Applications 2014–present
+IEEE Parallel Learning Workshop 2016
+Program Committee
+        IEEE International World Wide Web Conference (WWW) – Posters Track 2015–present
+IEEE International Conference on Social Computing 2012–present
+IEEE International Conference on High Performance Computing 2015–present
+IEEE International Conference on Advances in P2P Systems 2010–2012Reviewer
+IEEE Transactions on Knowledge and Data Engineering (TKDE) 2015
+ASE International Conference on Social Informatics 2012
+IEEE International Conference on Social Computing 2011 
+

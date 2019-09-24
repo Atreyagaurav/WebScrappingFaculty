@@ -1,0 +1,71 @@
+Bogdanov, Petko
+https://www.albany.edu/ceas/petko-bogdanov.php
+https://www.albany.edu
+pbogdanov@albany.edu
+Research Interests
+Petko Bogdanov is an Assistant Professor at the computer science department of University at Albany –SUNY. His research interests include data mining and management with a focus on graph data and applications to bioinformatics, neuroscience, material informatics and sociology. Previously, he was a postdoctoral fellow at the department of computer science at University of California, Santa Barbara. He received his PhD and MS in Computer Science from the University of California, Santa Barbara in 2012 and his BE in Computer Engineering from Technical University of Sofia in 2005. Dr. Bogdanov is a member of the IEEE and the ACM.
+Publications
+
+Journals
+S. Copp,  Petko Bogdanov, M. Debord, A. Singh, E. Gwinn, “Base Motif Recognition and Design of
+        DNA Templates for Fluorescent Silver Clusters by Machine Learning," Journal of Advanced Materials,
+        2014. 
+Petko Bogdanov, M. Busch, J. Moehlis, A. Singh, B. Szymanski, “Modeling Individual
+        Topic-Specific Behavior and Influence Backbone Networks in Social Media," Journal of Social Network Analysis and Mining, 2014.
+J. Mohr, R. Wagner-Pacifici, R. Breiger,  Petko Bogdanov, “Graphing the Grammar of Motives in
+        National Security Strategies: Cultural Interpretation, Automated Text Analysis and the Drama of Global
+        Politics," Journal of Poetics: Empirical Research on Culture, the Media, and the Arts, 2013.
+ Petko Bogdanov, A. Singh, \Molecular Function Prediction Using Neighborhood Features,"
+        IEEE/ACM Transactions on Computational Biology and Bioinformatics ( TCBB), vol. 7, no. 2, pp. 208-217, Apr.-June 2010.
+Conferences
+A. Silva, Petko Bogdanov, A. Singh, “Hierarchical In-Network Attribute Compression via
+        Importance Sampling", In Proceedings of the 31st IEEE International Conference on Data Engineering
+        (ICDE), Seoul, Korea, 2015
+X. Dang, A. Singh, Petko Bogdanov, H. You, B. Hsu, \Discriminative Subnetworks with
+        Regularized Spectral Learning for Global-state Network Data," In Proceedings of the 25th European
+        Conference on Machine Learning / 18th European Conference on Principles and Practice of Knowledge
+        Discovery in Databases ( ECML/PKDD), Nancy, France 2014 
+M. Mongiovi, Petko Bogdanov, A. Singh, \Mining Evolving Network Processes," In Proceedings of
+        the IEEE International Conference on Data Mining ( ICDM), Dallas, TX, USA 2013
+Petko Bogdanov, A. Singh, “Accurate and Scalable Nearest Neighbors in Large Networks Based on
+        Effective Importance," In Proceedings of the 22nd ACM International Conference on Information and
+        Knowledge Management ( CIKM), San Francisco, CA, USA 2013.
+Petko Bogdanov, B. Baumer, P. Basu, A. Bar-Noy, A. Singh, “As Strong as the Weakest Link:
+        Mining Diverse Cliques in Weighted Graphs," In Proceedings of the 24th European Conference on
+        Machine Learning / 17th European Conference on Principles and Practice of Knowledge Discovery in
+        Databases (ECML/PKDD), Prague, Czech Republic, 2013.
+Petko Bogdanov, M. Busch, J. Moehlis, A. Singh, B. Szymanski, “The Social Media Genome:
+        Modeling Individual Topic-Specific Behavior in Social Media," In Proceedings of the IEEE/ACM
+        International Conference on Advances in Social Networks Analysis and Mining (ASONAM), Niagara
+        Falls, Canada, 2013.
+K. Macropol, Petko Bogdanov, A. Singh, L. Petzold, X. Yan, “I Act, Therefore I Judge: Network
+        Sentiment Dynamics Based on User Activity Change," In Proceedings of the IEEE/ACM International
+        Conference on Advances in Social Networks Analysis and Mining (ASONAM), Niagara Falls, Canada,
+        2013.
+M. Mongiovi, Petko Bogdanov, R. Ranca, A. Singh, E. Papalexakis, C. Faloutsos, “NetSpot:
+        Mining Anomalous Regions on Dynamic Networks," In Proceedings of the SIAM International Conference
+        on Data Mining ( SDM), Austin, TX, USA 2013.
+Petko Bogdanov, M. Mongiovi, A. Singh, “Mining Heavy Subgraphs in Time-Evolving Networks,"
+        In Proceedings of the IEEE International Conference on Data Mining ( ICDM), Vancouver, Canada 2011.
+Petko Bogdanov, A. Singh, “Fast Nearest Neighbors in Large and Composite Networks," In
+        Proceedings of the Army Science Conference, Orlando, FL, USA 2010.
+Book Chapters and Edited Volumes
+J. Mohr, Petko Bogdanov, “Introduction - Topic Models: What They are and Why They Matter,"
+        Introduction for “Topic Models and the Cultural Sciences", Special issue in the  Journal of Poetics:
+        Empirical Research on Culture, the Media, and the Arts, editors. J. Mohr and Petko Bogdanov, 2013.
+J. Mohr, Petko Bogdanov, \Collection and Analysis of Relational Data from Digital Archives," In
+        Encyclopedia of Social Network Analysis and Mining ( ESNAM), 2013.
+Petko Bogdanov, K. Macropol, A. Singh, “Function Annotation in Gene Networks," Book Chapter
+        in “Functional Coherence of Molecular Networks in Bioinformatics" eds. M. Koyutrk, S. Subramaniam
+        and A. Grama,  Springer Verlag, 2012.
+Workshops and Posters
+S. Copp,  Petko Bogdanov, M. Debord, A. Singh, E. Gwinn, \Motif-based design of DNA
+        templates for fluuorescent silver clusters," In 11th Annual Conference on Foundations of Nanoscience:
+        Self-assembled Architectures and Devices (FNANO), Snowbird, Utah, USA, 2014.
+Petko Bogdanov, N. Larusso, A. Singh, “Towards Community Discovery in Signed Collaborative
+        Networks," In Workshop on Social Interactions Analysis and Service Providers (SIASP) at the IEEE
+        International Conference on Data Mining (ICDM), Sydney, Australia, 2010.
+Petko Bogdanov, A. Singh, “Function Prediction Using Neighborhood Patterns," In Workshop on
+        data Mining in Bioinformatics (BIOKDD) at the 14th ACM SIGKDD International Conference on
+        Knowledge Discovery and Data Mining (KDD), Las Vegas, NV, USA 2008.
+

@@ -1,0 +1,12 @@
+Gerardo Diaz
+https://engineering.ucmerced.edu/content/gerardo-c-diaz
+https://engineering.ucmerced.edu
+gdiaz@ucmerced.edu
+Research Interests: Energy conversion systems
+Dynamic simulation and control of thermal systems
+Adaptive thermal networks
+Absorption chillers and heat pumps
+Vapor compression systems with alternate refrigerants
+Microchannel heat exchangers
+Artificial neural networks and genetic algorithm for optimization of thermal components
+

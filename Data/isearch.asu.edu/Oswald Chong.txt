@@ -1,0 +1,11 @@
+Oswald Chong
+https://isearch.asu.edu/profile/2207589
+https://isearch.asu.edu
+ochong@asu.edu
+Research Interests
+I'm constantly looking for graduate students. Your research should focus on the modeling of materials' life cycle environmental impacts, and the development of knowledge models for sustainable engineering designs. Students who have prior experiences and/or are interested in sustainability, statistical analysis, building/infrastructure design, and programming (C++, PHP, SQL and/or VB.net) are encouraged to contact Dr. Chong. Existing applicants will be given priority.
+My two research foci include, first, clustering, modeling and disseminating sustainable engineering knowledge, and, second, understanding and modeling the degredation and recovery processes (EDEC) of materials, products, buildings, infrastructure, and systems.  My research crosses path with the following theories and concepts:
+(1) knowledge mining and modeling; (2) causality models between impacts and outcomes; (3) cloud technology; (4) BIM platform; (5) Big Data; (6) predictive analytics; (7) sustainability; (8) engineering knowledge; (9) information technology; (10) life cycle analysis; and (11) materials, products and systems behaviors. Sample research include:  (1) Sustainable Design and Project Planning; (2) Eco-efficiency; (3) Technical Metabolism; (4) Energy Efficiency; (5) Sustainable Information Modeling; (6) Socio-Economics of Eco-Efficient Communities; (7) Corporate-Society Sustainability Interface; (8) Life Cycle Performance; (9) Building Information Modeling; (10) Social and Human Dimensions; (11) Carbon Management and Baseline Estimating; and (12) Carbon Taxation and Cap and Trade.
+ 
+In addition, I also conduct research in Professional Development for the Estimating Professions, Business Operations, and Construction Productivity Research. My publications are mainly in the areas of building defects, sustainability, lean and sustainability, and social-human dimensions.
+

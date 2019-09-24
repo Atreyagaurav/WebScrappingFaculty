@@ -1,0 +1,17 @@
+Tracy Becker;https://www.ce.berkeley.edu/people/faculty/tcbecker
+Fotini Katopodes Chow;https://www.ce.berkeley.edu/people/faculty/chow
+Matthew DeJong;https://www.ce.berkeley.edu/people/faculty/dejong
+Ashok Gadgil;https://www.ce.berkeley.edu/people/faculty/gadgil
+Sanjay Govindjee;https://www.ce.berkeley.edu/people/faculty/govindjee
+Arpad Horvath;https://www.ce.berkeley.edu/people/faculty/horvath
+Robert Kayen;https://www.ce.berkeley.edu/people/faculty/rkayen
+Dimitrios Konstantinidis;https://www.ce.berkeley.edu/people/faculty/konstantinidis
+Laurel Larsen;https://www.ce.berkeley.edu/people/faculty/laurel
+Shaofan Li;https://www.ce.berkeley.edu/people/faculty/li
+Baoxia Mi;https://www.ce.berkeley.edu/people/faculty/mi
+Scott Moura;https://www.ce.berkeley.edu/people/faculty/moura
+Susan Shaheen;https://www.ce.berkeley.edu/people/faculty/shaheen
+Alexander Skabardonis;https://www.ce.berkeley.edu/people/faculty/skabardonis
+Kenichi Soga;https://www.ce.berkeley.edu/people/faculty/soga
+Sally Thompson;https://www.ce.berkeley.edu/people/faculty/thompson
+Joan Walker;https://www.ce.berkeley.edu/people/faculty/walker

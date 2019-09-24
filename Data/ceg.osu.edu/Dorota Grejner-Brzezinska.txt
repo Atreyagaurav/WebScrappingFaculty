@@ -1,0 +1,22 @@
+Dorota Grejner-Brzezinska
+https://ceg.osu.edu/people/grejner-brzezinska.1
+https://ceg.osu.edu
+grejner-brzezinska.1@osu.edu
+Research InterestsGlobal Positioning System (GPS)
+Global Navigation Satellite Systems (GNSS)
+Multi-sensor integration for precision navigation and tracking
+GPS/inertial integration
+Geospatial Intelligence and Mobile Mapping technologies
+Geospatial / navigation sensor and data fusion
+Application of space-based sensing and navigation to science and engineering applications
+Ionosphere and troposphere monitoring with GPS-based techniques (GPS Remote Sensing)
+Landslide detection and monitoring
+Intelligent transportation systems
+Highway safety and security
+Autonomous navigation
+Collaborative navigation in GPS-denied environments
+Satellite and inertial geodesy
+Precision orbit determination
+Advanced numerical methods and adjustment computations
+		 
+

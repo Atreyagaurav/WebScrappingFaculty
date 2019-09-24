@@ -1,0 +1,7 @@
+Linda Abriola
+https://engineering.tufts.edu/cee/people/faculty/linda-abriola
+https://engineering.tufts.edu
+
+  linda.abriola@tufts.edu
+Research Interests: Linda Abriola's primary research area is in the mathematical modeling of the transport and fate of organic chemical contaminants in porous media. She developed one of the first mathematical models to describe the interphase mass partitioning and non-aqueous phase migration of organic liquid contaminants in the subsurface. Current and recent funding encompasses: measurement and modeling of effective mass transfer and microbial transformation rates at the field scale; use of machine learning and signal processing techniques to quantify in situ contaminant mass flux and mass distribution from sparse data; development of innovative nanoparticle tools for petroleum reservoir characterization; and exploration of the processes controlling transport of nanoparticles in subsurface environments.
+

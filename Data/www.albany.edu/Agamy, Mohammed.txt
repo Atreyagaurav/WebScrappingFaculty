@@ -1,0 +1,112 @@
+Agamy, Mohammed
+https://www.albany.edu/ceas/87819.php
+https://www.albany.edu
+magamy@albany.edu
+Research Interests
+        High Frequency Power Converters, Wide Bandgap Device Applications, Renewable Energy System and Modeling and Control of Power Converters and Electrical Machines
+    
+
+
+
+
+Publications
+
+
+Refereed Journal Papers
+        [J1]	D. Dong, M. Agamy, M. Harfman-Todorovic, X. Liu and P. Cioffi, “A PV Residential Micro-inverter with Grid-support Function:  Design, Implementation and Field Testing,” IEEE Transactions on Industry Applications, Vol. 54, No. 1, January 2018, pp. 469-481.
+        [J2]	M. S. Agamy, D. Dong, L. J. Garces, Y. Zhang, M. E. Dame, X. Wu & Y. Pan, “A High Power Medium Voltage Resonant Dual Active Bridge for MVDC Ship Power Networks,” IEEE Journal of Selected and Emerging Topics on Power Electronics, Vol. 5, No. 1, March 2017 pp. 88-99.
+        [J3]	A. Elasser, M. S. Agamy, J. Nasadoski, J. Mari, B. Bertrand, A. B., Z. Stum, R. Raju, P. Losee & L. Stevanovic, " Static and Dynamic Characterization of 6.5kV, 100A SiC Bipolar PiN Diode Modules," IEEE Transactions on Industry Applications Vol. 50, No. 1, January 2014, pp. 609-619.
+        [J4]	M. S. Agamy, M. Harfman-Todorovic, A. Elasser, S. Chi, J. A. Sabate, A. McCann, Li Zhang, F. Mueller & R. L. Steigerwald,"Efficient DC-DC Power Converters for Distributed PV Applications," IEEE Transactions on Power Electronics, Vol. 29, No. 2, February 2014, pp.674-684 .
+        [J5]	M. S. Agamy, S. Chi, A. Elasser, M. Harfman-Todorovic, Y. Jiang, F. Mueller & F. Tao, "A High Power Density Dc-Dc Converter for Distributed PV
+        Architectures," IEEE Journal of Photovoltaics, Vol. 3, No. 2, April 2013, pp. 791798.
+        [J6]	M. S. Agamy and P. K. Jain, “An Adaptive Energy Storage Technique for Efficiency Improvement of Single Stage Three-Level Resonant AC/DC Converters,” IEEE Transactions on Industry Applications, Vol. 47 No. 1, Jan. 2011, pp. 176-184.
+        [J7]	M. S. Agamy and P. K. Jain, “A Hybrid State Space Model for Single Stage ThreeLevel Resonant Rectifiers,” International Review on Modelling and Simulation, Vol. 4, No. 1, Jan./Feb. 2011 pp. 441-456.
+        [J8]	M. S. Agamy and P. K. Jain, “A Three Level Resonant Single Stage Power Factor Correction Converter: Design, Analysis and Implementation,” IEEE Transactions on Industrial Electronics, Vol. 56, No. 6, June 2009, pp. 2095-2107.
+        [J9]	M. S. Agamy and P. K. Jain, “Performance Comparison of Different Three-Level Resonant Topologies for Single Stage Power Factor Correction,” IEEE Transactions on Power Electronics, Vol. 24, No. 4, April 2009, pp. 1023-1031.
+        [J10]	M. S. Agamy and P. K. Jain, “Single Stage Three Level Full Bridge Resonant AC/DC Converter,” The International Journal of Electronics, Vol. 96, No. 3, March 2009, pp. 281-294, publisher: Taylor & Francis.
+        [J11]	M. S. Agamy and P. K. Jain, “A Variable Frequency Phase Shift Controller for Single Stage Three Level Resonant PFC Converters,” IEEE Transactions on Power Electronics, Vol. 23, No. 5, Sept. 2008, pp. 2290-2300.
+        [J12]	M. S. Agamy, H. A. Yousef and O. A. Sebakhy, “On the Design and Stability of an Adaptive Fuzzy Sliding Mode Controller,” The International Review of Automatic Control, Vol. 1, No. 1, May 2008, publisher: Praise Worthy Prize, pp. 72-80.
+        [J13]	M.S. Agamy and P. K. Jain, “A Robust Controller for a Three-Level Single Stage Resonant AC/DC Converter,” The International Review of Electrical Engineering, Vol. 2, No. 5, Oct. 2007, publisher: Praise Worthy Prize pp.687-694.
+
+Refereed Conference Papers
+        [C1]	D. Dong, R. Raju, M.S. Agamy, & G. Ganireddy, “Rotational Control Method with Transformer Loss Savings in Solid State Transformer Based Converter System,” Accepted for publication, to appear in proceedings of  IEEE Energy Conversion Conference and Expo (ECCE) 2018.
+        [C2]	Q. Chen, R. Raju, D. Dong & M.S. Agamy, “High Frequency Transformer Insulation in Medium Voltage SiC enabled Air Cooled Solid State Transformers,” Accepted for publication, to appear in proceedings of  IEEE Energy Conversion Conference and Expo (ECCE) 2018.
+        [C3]	A. Elasser, M.S. Agamy R. Ramabhadran, & K. Huh, “Emerging GaN Power Devices for Efficient and Compact Power Conversion,” Accepted for publication, to appear in proceedings of IEEE Energy Conversion Conference and Expo (ECCE) 2018.
+        [C4]	D. Dong, M. S. Agamy, R. Raju & R. Zhou, “Design of H-bridge Converter with 1.7kV SiC MOSFET on Insulated Metal Substrate for High Speed High Frequency Operation,” Proceedings of IEEE Energy Conversion Conference and Expo (ECCE) 2017.
+        [C5]	M.S. Agamy, D. Dong, L. Garces, Y. Zhang, A. Atalla, M. Dame & Y. Pan, “High Power Medium Voltage Resonant Dual Active Bridge,” Proceedings of IEEE Energy Conversion Conference and Expo (ECCE) 2016
+        [C6]	A. Atalla, M.S. Agamy, M. Dame, L. Hao, K. Weeber& Y. Pan, “Advancements in High Power High Frequency Transformer Design for Resonant Converter Circuits,” Proceedings of IEEE Energy Conversion Conference and Expo (ECCE) 2016 [Best Paper Award]
+        [C7]	D. Dong, L. Garces, M.S. Agamy, J. Dai, H. She, X. Li & Y. Pan, “Control and Operation of Resonant Dual Active Bridge for DC Marine Architectures,” Proceedings of IEEE Energy Conversion Conference and Expo (ECCE) 2016
+        [C8]	R. Saasaa, W. Eberle & M.S. Agamy, “A Single-Stage Interleaved LLC PFC Converter,” Proceedings of IEEE Energy Conversion Conference and Expo (ECCE) 2016.
+        [C9]	X. Liu, M.S. Agamy, M. Harfman-Todorovic, L. Garces & D. Dong, “A Low Cost Micro-Inverter with Soft Switching Capability Utilizing Circulating Current,” Proceedings of IEEE Applied Power Electronics Conference (APEC), March 2016, pp. 3403-3408.
+        [C10]	X. Wu, I. Ndiaye & M.S. Agamy, “Impact of Micro-inverter Reactive Power Support Capability in High Penetration Residential PV Networks,” Proceedings of the IEEE Photovoltaics Specialists Conference (PVSC), June 2015
+        [C11]	C. Bufi, A. Elasser & M.S. Agamy, “A System Reliability Trade-off Study for Centralized and Distributed PV Architectures,” Proceedings of the IEEE Photovoltaics Specialists Conference (PVSC), June 2015.
+        [C12]	R.L. Sellick, M.S. Agamy, L. Hao, K.R. Weeber, “A high-speed HVDC breaker topology with integral voltage-changing capability,” Proceedings of IEEE Electric Insulation Conference (EIC) June 2015.
+        [C13]	M.S. Agamy, M. Dame, J. Dai, X. Li, P.M. Cioffi, R. Sellick, “Resonant Converter Building Blocks for High Power, High Voltage Applications,” Proceedings of IEEE Applied Power Electronics Conference (APEC), March 2015.
+        [C14]	R.K. Gupta, M.S. Agamy, M.E. Dame, J. Dai, X. Li, P.M. Cioffi, R.L. Sellick, “Fault resilient, high efficiency stacked resonant converters for multi-terminal DC architectures,” Proceedings of IET International Conference on AC and DC Transmission (ACDC), February 2015.
+        [C15]	M. Harfman-Todorovic, F. Tao, M.S. Agamy, D. Dong, X. Liu, L. Garces, R. Zhou, E. Delgado, D. Marabell, C. Stephens, R. Steigerwald, “A high efficiency PV microinverter with grid support functions,” Proceedings of the Energy Conversion Conference and Expo (ECCE) Sept. 2014.
+        [C16]	M. Harfman Todorovic, F. Tao, R. Zhou, R. Steigerwald, M.S. Agamy, Y. Jiang, L. Garces, M. Schutten, D. Marabell, “A multi-objective study for down selection of a micro-inverter topology for residential applications,” Proceedings of the IEEE Photovoltaics Specialists Conference (PVSC), June 2014 [Best Poster Award]
+        [C17]	A. Elasser, M. S. Agamy, M. Harfman-Todorovic, S. Chi, A. McCann, B. Baxter, B. Smith, L. Zhang, L. Wang, F. Tao, J. Sabate, F. Mueller, J. Dodge, S. Gonzalez & A. Fresquez, “Field Installation and Evaluation of a 20kW Rooftop PV System Using 3.5kW String Level MPPT DC/DC Converters and a Central Inverter,” Proceedings of the IEEE Photovoltaics Specialists Conference (PVSC), June 2013
+        [C18]	M. S. Agamy, M. Harfman-Todorovic & A. Elasser, “Ground Fault and Insulation Degradation Detection and Localization in PV Plants,” Proceedings of the IEEE Photovoltaics Specialists Conference (PVSC), June 2013
+        [C19]	M.S. Agamy, S. Essakiappan, M. Harfman-Todorovic & A. Elasser, “A Transformer-less Partial Power Boost Converter for PV Applications Using a ThreeLevel Switching Cell," Proceedings of IEEE Applied Power Electronics Conference (APEC), March 2013.
+        [C20]	A. Elasser, M. S. Agamy, J. Nasadoski, J. Mari, B. Bertrand, A. B., Z. Stum, R. Raju, P. Losee & L. Stevanovic, " Static and Dynamic Characterization of 6.5kV, 100A SiC Bipolar PiN Diode Modules," Proceedings of the Energy Conversion Conference and Expo (ECCE) Sept. 2012.
+        [C21]	M. S. Agamy, M. Harfman-Todorovic, A. Elasser, J. A. Sabate, A. McCann, Li Zhang, F. Mueller & R. L. Steigerwald, " A High Efficiency DC-DC Converter Topology Suitable for Distributed Large Commercial and Utility Scale PV Systems," Proceedings of EPE-PEMC, ECCE Europe, Sept. 2012.
+        [C22]	M. S. Agamy, S. Chi, A. Elasser, M. Harfman-Todorovic, Y. Jiang, F. Mueller & F. Tao, "A High Power Density Dc-Dc Converter for Distributed PV Architectures," Proceedings of the IEEE Photovoltaics Speciatists Conference (PVSC), June 2012.
+        [C23]	M. Agamy, M. Harfman-Todorovic, A. Elasser, J. Sabate & R. Steigerwald, “DcDc Converter Topology Assessment for Large Scale Distributed Photovoltaic Plant Architectures,” Proceedings of the Energy Conversion Conference and Expo (ECCE) Sept. 2011, pp.764-769.
+        [C24]	M. S. Agamy and P. K. Jain, “An Overview of Methods to Increase the Power Handling Capability of Single Stage AC-DC Converters,” Proceedings of the IEEE International Symposium on Industrial Electronics (ISIE) 2011, pp. 147-152.
+        [C25]	A. Elasser, M. Agamy, J. Sabate, R. Steigerwald, R. Fisher & M. HarfmanTodorovic, “A Comparative Study of Central and Distributed MPPT Architectures for Megawatt Utility and Large Scale Commercial Photovoltaic Plants,” Proceedings of the 36th Industrial Electronics Annual Meeting (IECON) 2010, pp. 2753-2758.
+        [C26]	M. S. Agamy and P. K. Jain, “An Adaptive Energy Storage Technique for Efficiency Improvement of Single Stage Three-Level Resonant AC/DC Converters,” Proceedings of IEEE Applied Power Electronics Conference (APEC) 2009, pp. 1005-1010.
+        [C27]	M. S. Agamy and P. K. Jain, “A Small Signal State Space Model of Single Stage Three Level Resonant AC/DC Converters,” Proceedings of the IEEE Power Electronics Specialists Conference (PESC) June 2008, pp.1407-1413.
+        [C28]	M. S. Agamy and P. K. Jain, “A Variable Structure Controller for a Single Stage Three Level Resonant PFC Rectifier,” Proceedings of the proceedings of the IEEE Applied Power Electronics Conference (APEC), February 2008, pp. 1207-1213.
+        [C29]	M. S. Agamy and P. K. Jain, “A Discrete Time Controller for a Single Stage Three Level Resonant PFC Converter operated with Variable Frequency Phase Shift Modulation,” Proceedings of the International Telecommunication Energy Conference (INTELEC), September 2007, pp. 242-247.
+        [C30]	M. S. Agamy and P. K. Jain, “Modelling of Single Stage Three Level Resonant AC/DC Converters Operating with Variable Frequency Phase Shift Modulation,” Proceedings of the 38th Power Electronics Specialists Conference, (PESC), June 2007, pp. 1962-1967.
+        [C31]	M. S. Agamy and P. K. Jain, “A New Full Bridge Three Level Resonant AC/DC Converter Topology,” Proceedings of the 38th Power Electronics Specialists Conference, (PESC), June 2007, pp. 2699-2704.
+        [C32]	M. S. Agamy and P. K. Jain, “Discrete Time Modelling of Variable Frequency Pulse Width Modulation Controlled Single Stage Three-Level Resonant AC/DC Converters,” Proceedings of the 20th Canadian Conference on Electrical and Computer Engineering (CCECE), April 2007, pp. 994-997.
+        [C33]	M. S. Agamy and P. K. Jain, “A Current Sensorless Sliding Mode Controller for a Three Level Resonant Single Stage PFC AC/DC Converter,” Proceedings of the 20th Canadian Conference on Electrical and Computer Engineering (CCECE), April 2007, pp.698-701.
+        [C34]	M. S. Agamy and P. K. Jain,” A New Cycle by Cycle Controller for a Three Level Resonant Single Stage Power Factor Correction Converter”, Proceedings of the 32nd IEEE Industrial Electronics Conference (IECON) November 2006, pp. 2318-2323.
+        [C35]	M. S. Agamy and P. K. Jain, “A State Space Modeling Approach of a Single-Stage Three Level Resonant AC/DC Converter Operating in Discontinuous Conduction Mode”, Proceedings of the International Telecommunication Energy Conference (INTELEC), September 2006, pp. 560-566.
+        [C36]	M. S. Agamy and P. K. Jain, “Performance Evaluation of Single-Stage Three-level Resonant AC/DC Converter Topologies” Proceedings of the International Symposium on Industrial Electronics (ISIE), July 2006, pp. 1253-1258.
+        [C37]	M. S. Agamy and P. K. Jain, “Modeling and Dynamics of a Single-Stage Three-level Resonant AC/DC Converter Operating with Combined Variable Frequency & PWM Control”, Proceedings of the 37th Power Electronics Specialists Conference, (PESC) , June 2006, pp. 1385-1390.
+        [C38]	M. S. Agamy and P. K. Jain, “A Comparative Study of Two Controllers for Single Stage Three-Level Resonant AC/DC Converters”, Proceedings of the 19th Canadian Conference on Electrical and Computer Engineering, (CCECE), May 2006, pp., 1231-1234.
+        [C39]	M. S. Agamy and P. K. Jain, “A Single Stage Three Level Resonant LLC AC/DC Converter Using a Variable- Frequency-Phase-Shift Controller and a Voltage Balancing Auxiliary Circuit”, Proceedings of 21st Applied Power Electronics Conference (APEC), March 2006, pp. 411-416.
+        [C40]	M. S. Agamy and P. K. Jain, “A Single Stage PFC Three Level Resonant AC/DC Converter Using Combined Phase Shift and Frequency Control”, Proceedings of 31st IEEE Industrial Electronics Conference (IECON) November 2005, pp. 1166-1171.
+        [C41]	M. S. Agamy and P. K. Jain, “A New Zero Voltage Switching Single Stage Power Factor Corrected Three Level Resonant AC/DC Converter”, Proceedings of 31st IEEE Industrial Electronics Conference (IECON), November 2005, pp. 1178-1183.
+        [C42]	M. S. Agamy and P. K. Jain “A New Single Stage Power Factor Corrected Three Level Resonant AC/DC Converter With and   Without Active Current Control”, Proceedings of 40th IEEE Industry Applications Society Conference (IAS), October 2005, pp. 1992-1999.
+        [C43]	M. S. Agamy and P. K. Jain, “A Robust Controller for a Class of Front-end Buck Boost High Power Factor Rectifiers”, Proceedings of 36th IEEE Power Electronics Specialists Conference (PESC), June 2005, pp. 1998-2004.
+        [C44]	M. S. Agamy, “Sliding Mode Control of Induction Motors with Minimized Control Effort: A Comparative Study”, Proceedings of 18th Canadian Conference on Electrical and Computer Engineering (CCECE), May 2005, pp. 2247-2250.
+        [C45]	M. S. Agamy, H. A. Yousef and O. A. Sebakhy, “Adaptive Fuzzy Variable Structure Control of Induction Motors”, Proceedings of 17th Canadian Conference on Electrical and Computer Engineering, (CCECE), May 2004, pp. 89-94.
+
+        Patents (granted/allowed)
+        [P1]	M.S. Agamy, A. Elasser, D. Dong, P.M. Cioffi & A. Caiafa, “SiC Based Solid State Downhole Transfer Switch Architectures,” U.S. patent application #US 20170022766. – Allowed
+        [P2]	P.M. Cioffi & M.S. Agamy, “Solar Micro-inverter Direct Panel Mount,” U.S. patent application #US20160344337  - Allowed
+        [P3]	M.S. Agamy, A. Elasser & K. Huh, “System and Method for a DC/DC Converter,” U.S. patent # 9960687
+        [P4]	D. Dong, A. Caiafa, M.S. Agamy & A. Elasser, “Gate Drive for High Voltage Bidirectional Voltage Controlled Switches,” U.S. patent # 9856722
+        [P5]	X. Liu, M.S. Agamy, L.J. Garces & M. Harfman-Todorovic, “A High-efficiency Two-phase Interleaved Soft-switching Inverter,” U.S. patent # 9705422
+        [P6]	D. Dong, M.S. Agamy, R. Raju, L. Garces &Y. Pan, “Method for Zero Voltage Detection in Resonant Converters,” U.S. patent # 9667157
+        [P7]	M.S. Agamy, H.L.N. Wiegman, R. Zhou & A. Berner, “Series Converters for Battery Integration into a DC Network,” U.S. patent #9525355
+        [P8]	F. Tao, M.S. Agamy, A. Elasser & P. Kirlew, “Gate Drive Unit and Method for Controlling a Gate Drive Unit,” U.S. patent # 9401708.
+        [P9]	B.G. Thomas, M. S. Agamy, A. Elasser, A. Galbraith, S. Bollapragada & M. Garfullin," System and Method for Design and Optimization of Grid Connected PV Plants with Multiple Module Technology," U.S. patent # 9300140
+        [P10]	M.S. Agamy, M. Harfman-Todorovic, A. Elasser & A. Galbraith, “Systems and Methods for Locating Ground Faults and Insulation Degradation Conditions,” U.S. patent #9103865
+        [P11]	M.S. Agamy, M. Harfman-Todorovic, A. Elasser, A. Galbraith & J.A. Sabate, " Switching Coordination of Distributed DC-DC Converters for Highly Efficient Photovoltaic Power Plants," U.S. patent # 8829715
+        [P12]	R. L. Steigerwald, M.S. Agamy, M. Harfman-Todorovic, J.A. Sabate & A. Elasser, "DC-DC Converter and Method for Controlling the Same," U.S. patent # 8330299
+        [P13]	P.K. Jain & M.S. Agamy, "Adaptive power converter and related circuitry," U.S. patent # 8184456
+        
+Awards and Honors
+
+        •	IEEE Senior Member
+        •	GE Global Research – Whitney Technical Achievement Award – Highest Team Technical Achievement Award for New Technology Introduction – “Renewable Energy Reservoir” (2018)
+        •	National Science and Engineering Research Council (NSERC) Discovery Grant ($125k over a period of 5 years 2013-2018)
+        •	Paper Award at IEEE Energy Conversion Conference and Expo (ECCE) 2016.
+        •	GE Global Research – PCD Technical Achievement Award – Team Award for Resilient Multi-terminal HVDC Architectures Project (2015)
+        •	GE Global Research – PCD Technology Transition Award – Team Award for Module Embedded Smart Grid Ready Micro-inverter Project (2015)
+        •	GE Global Research – PCD Technical Achievement Award – Team Award for Silicon Carbide Solar Inverter Project (2014)
+        •	Best Poster Presentation Award at IEEE Photovoltaics Specialists Conference (2014)
+    
+
+
+
+
+
+
+
+
+

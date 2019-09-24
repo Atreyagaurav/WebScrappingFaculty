@@ -1,0 +1,14 @@
+Rajagopalan Balaji
+https://www.colorado.edu/ceae/rajagopalan-balaji
+https://www.colorado.edu
+balajir@colorado.edu
+Interests:Stochastic Hydrology and Hydroclimatology
+Nonparametric functional estimation techniques (probability density
+Functions, regression, scenarios generation, forecasting)
+Understanding low frequency climate variability and its signatures on regional hydrology
+Incorporating climate information in water resources/hydrologic decision making
+Understanding spatio-temporal variability in Indian summer monsoon
+Nonlinear Dynamics—recovering dynamics from data
+Bayesian techniques for optimal combination of information from
+multiple sources and decision making
+

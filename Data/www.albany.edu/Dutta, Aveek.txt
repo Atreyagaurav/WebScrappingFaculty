@@ -1,0 +1,27 @@
+Dutta, Aveek
+https://www.albany.edu/ceas/73113.php
+https://www.albany.edu
+adutta@albany.edu
+Research Interests
+Dr. Dutta’s research
+        lies at the crossroads of communication theory, networked systems and radio
+        architectures that spans from novel MAC-PHY cross-layer solutions in modern
+        wireless networks to cognitive radio networks. His research has
+        produced fast and efficient MAC layer protocols by incorporating various signal
+        processing subsystems of OFDM based physical layers. He has deep experience in
+        architecting and designing flexible radio platforms for research and has worked
+        on knowledge representation methods for complex physical layers in cognitive
+        radio networks. Currently, he focuses on solutions, driven by devices at the
+        network edge to make the wireless channel robust against interference, while
+        addressing the challenge of being always best-connected over heterogeneous
+        networks. His solutions employ a hybrid method of theoretical rigor and
+        experimental evaluation using prototype hardware and wireless measurements. 
+Publications
+
+Selected Publications:
+Aveek Dutta, Mung Chiang, “See Something Say Something - Crowdsourced Enforcement of
+        Spectrum Policies”, IEEE Transaction of Wireless Communication, September 2015
+        
+Dola Saha, Aveek Dutta, Dirk Grunwald and Douglas Sicker, “GRaTIS: Free Bits in the Network”,
+        IEEE Transaction on Mobile Computing, February 2013.
+

@@ -1,0 +1,15 @@
+Gregor P. Henze
+https://www.colorado.edu/ceae/gregor-p-henze
+https://www.colorado.edu
+gregor.henze@colorado.edu
+Interests:Building-to-grid integration
+Model-based predictive optimal control and model-free reinforcement learning control of building energy systems and building thermal mass
+Model-based benchmarking of building operational performance
+Whole-building fault detection and diagnosis
+Building occupancy detection using distributed sensor belief networks
+Design and control strategies for mixed-mode buildings that incorporate both natural and mechanical ventilation
+Low-exergy building energy systems for continental climates
+Zero energy buildings
+Time series prediction and forecasting
+Distributed generation systems
+

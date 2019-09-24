@@ -1,0 +1,14 @@
+Paul Anastas;https://seas.yale.edu/faculty-research/faculty-directory/paul-anastas
+Ruth Blake;https://seas.yale.edu/faculty-research/faculty-directory/ruth-blake
+Nicole Deziel;https://seas.yale.edu/faculty-research/faculty-directory/nicole-deziel
+Menachem Elimelech;https://seas.yale.edu/faculty-research/faculty-directory/menachem-elimelech
+John Fortner;https://seas.yale.edu/faculty-research/faculty-directory/john-fortner
+Edgar Hertwich;https://seas.yale.edu/faculty-research/faculty-directory/edgar-hertwich
+Shu Hu;https://seas.yale.edu/faculty-research/faculty-directory/shu-hu
+Jaehong Kim;https://seas.yale.edu/faculty-research/faculty-directory/jaehong-kim
+Michael Loewenberg;https://seas.yale.edu/faculty-research/faculty-directory/michael-loewenberg
+Jordan Peccia;https://seas.yale.edu/faculty-research/faculty-directory/jordan-peccia
+Krystal Pollitt;https://seas.yale.edu/faculty-research/faculty-directory/krystal-pollitt
+Paul Van Tassel;https://seas.yale.edu/faculty-research/faculty-directory/paul-van-tassel
+Mingjiang Zhong;https://seas.yale.edu/faculty-research/faculty-directory/mingjiang-zhong
+Julie Zimmerman;https://seas.yale.edu/faculty-research/faculty-directory/julie-zimmerman

@@ -1,0 +1,39 @@
+Mark Wiesner;https://cee.duke.edu/faculty/mark-wiesner
+Michael Howard Bergin;https://cee.duke.edu/faculty/michael-bergin
+Mark Edward Borsuk;https://cee.duke.edu/faculty/mark-borsuk
+Andrew Bragg;https://cee.duke.edu/faculty/andrew-bragg
+David Carlson;https://cee.duke.edu/faculty/david-carlson
+Nathaniel Chaney;https://cee.duke.edu/faculty/nathaniel-chaney
+Marc Deshusses;https://cee.duke.edu/faculty/marc-deshusses
+Johann Guilleminot;https://cee.duke.edu/faculty/johann-guilleminot
+Christine Ogilvie Hendren;https://cee.duke.edu/faculty/christine-hendren
+Tomasz Hueckel;https://cee.duke.edu/faculty/tomasz-hueckel
+Henry Petroski;https://cee.duke.edu/faculty/henry-petroski
+Guglielmo Scovazzi;https://cee.duke.edu/faculty/guglielmo-scovazzi
+Manolis Veveakis;https://cee.duke.edu/faculty/manolis-veveakis
+Wilkins Aquino;https://cee.duke.edu/faculty/wilkins-aquino
+John Everett Dolbow;https://cee.duke.edu/faculty/john-dolbow
+Martin Doyle;https://cee.duke.edu/faculty/martin-doyle
+James Hench;https://cee.duke.edu/faculty/james-hench
+Omar Mohamad Knio;https://cee.duke.edu/faculty/omar-knio
+Mukesh Kumar;https://cee.duke.edu/faculty/mukesh-kumar
+Wenhong Li;https://cee.duke.edu/faculty/wenhong-li
+Brian Mann;https://cee.duke.edu/faculty/brian-mann
+Joel Meyer;https://cee.duke.edu/faculty/joel-meyer
+Ram Oren;https://cee.duke.edu/faculty/ram-oren
+Avner Vengosh;https://cee.duke.edu/faculty/avner-vengosh
+Lisa L Satterwhite;https://cee.duke.edu/faculty/lisa-satterwhite
+Melanie Auffan;https://cee.duke.edu/faculty/melanie-auffan
+Dwayne Elias;https://cee.duke.edu/faculty/dwayne-elias
+Massimo Germano;https://cee.duke.edu/faculty/massimo-germano
+Thilo Hofmann;https://cee.duke.edu/faculty/thilo-hofmann
+Christopher Enochs Kees;https://cee.duke.edu/faculty/christopher-kees
+Lyesse Laloui;https://cee.duke.edu/faculty/lyesse-laloui
+Nicolas Moes;https://cee.duke.edu/faculty/nicolas-moes
+Eric Pierce;https://cee.duke.edu/faculty/eric-pierce
+Amilcare Porporato;https://cee.duke.edu/faculty/amilcare-porporato
+Peter Thornton;https://cee.duke.edu/faculty/peter-thornton
+Daniel Vallero;https://cee.duke.edu/faculty/daniel-vallero
+Eduardo Saucedo;https://cee.duke.edu/faculty/eduardo-saucedo
+Khara Grieger;https://cee.duke.edu/faculty/khara-grieger
+Bruce Muga;https://cee.duke.edu/faculty/bruce-muga
