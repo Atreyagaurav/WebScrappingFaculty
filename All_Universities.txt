@@ -1,95 +1,95 @@
-
+kl;test
 European Business School;http://www.ebs-paris.com/
 European Management Center Paris;http://www.emc-campus.com/
 Grenoble Ecole de Management;http://www.grenoble-em.com/
 Groupe Sup de Co Amiens Picardie;http://www.supco-amiens.fr/
 Groupe Sup de Co Montpellier;http://www.supco-montpellier.fr/
 IDRAC (Institut de recherche en action commerciale);http://www.ecoles-idrac.com/
-Institut Catholique d'Arts et Métiers Lille;http://www.icam.fr/
-Institut Catholique d'Arts et Métiers Nantes;http://www.icam.fr/presentation/nantes.htm
+Institut Catholique d'Arts et MÃ©tiers Lille;http://www.icam.fr/
+Institut Catholique d'Arts et MÃ©tiers Nantes;http://www.icam.fr/presentation/nantes.htm
 Institut Catholique de Paris;http://www.icp.fr/
 Institut Catholique de Toulouse;http://www.ict-toulouse.asso.fr/
 Institut Commercial de Nancy;http://www.icn-nancy.com/
-Institut de Recherche et d'Enseignement Supérieur aux Techniques de l'électronique;http://www.ireste.fr/
-Institut des hautes études économiques et commerciales;http://www.inseec.fr/
+Institut de Recherche et d'Enseignement SupÃ©rieur aux Techniques de l'Ã©lectronique;http://www.ireste.fr/
+Institut des hautes Ã©tudes Ã©conomiques et commerciales;http://www.inseec.fr/
 http://www.ismra.fr/
-Institut des Sciences de la Matière et du Rayonnement;Institut des Sciences de l'Ingénieur de Clermont-Ferrand;http://cust.univ-bpclermont.fr/
-Institut des Sciences de l'Ingénieur de Montpellier;http://www.isim.univ-montp2.fr/
+Institut des Sciences de la MatiÃ¨re et du Rayonnement;Institut des Sciences de l'IngÃ©nieur de Clermont-Ferrand;http://cust.univ-bpclermont.fr/
+Institut des Sciences de l'IngÃ©nieur de Montpellier;http://www.isim.univ-montp2.fr/
 Institut d'Etudes Politiques de Bordeaux;http://www.iep.u-bordeaux.fr/
 Institut d'Etudes Politiques de Paris (Sciences Po);http://www.sciences-po.fr/
-Institut National des Sciences Appliquées de Lyon;http://www.insa-lyon.fr/
-Institut National des Sciences Appliquées de Rennes;http://www.insa-rennes.fr/
-Institut National des Sciences Appliquées de Rouen;http://www.insa-rouen.fr/
-Institut National des Sciences Appliquées de Toulouse;http://www.insa-tlse.fr/
-Institut National des Télécommunications;http://www.int-evry.fr/
+Institut National des Sciences AppliquÃ©es de Lyon;http://www.insa-lyon.fr/
+Institut National des Sciences AppliquÃ©es de Rennes;http://www.insa-rennes.fr/
+Institut National des Sciences AppliquÃ©es de Rouen;http://www.insa-rouen.fr/
+Institut National des Sciences AppliquÃ©es de Toulouse;http://www.insa-tlse.fr/
+Institut National des TÃ©lÃ©communications;http://www.int-evry.fr/
 Institut National Polytechnique de Grenoble;http://www.inpg.fr/
 Institut National Polytechnique de Lorraine;http://www.inpl-nancy.fr/
 Institut National Polytechnique de Toulous;http://www.inp-fc.fr/
-Institut National Supérieur de FrmationAgro-Aimehtt://agroroazhoninra.fretab/infa/accuInstitt Supéreur Agicole d Behtp://ww.isInsttut Suérieur dAgricuturettp://ww.isa.fpl.asIstitutSupériur d'Aricultue Rhonhttp:/www.isInstitt Sup�rieure 'Electonique dhtt://wwwisInsttut Suérieured'Elecroniquedhtt://wwwisIntitut extileet Chimque http//www.ieSciller Iternatinal Unversityhttp:/www.scillerpaiSchiler Inernationl Univrsity,Strahtp://ww.schillrstrasburUnivrsité laise Pscal (lermontFerrhttp//www.uiv-bpclemoUiversitéBordhtp://ww.cribx1u-bordeUniversté Catolique ehttp//www.ful.asUniersité atholiqe de lhttp//www.Universté Catolique http:/www.uni-catholUnivrsité Carles-d-Gaull (Lilhttp//www.niv-lilUniversté Clade Berard (http//www.uiv-lyoniversté d'Ax-Marselhtt://wwwu-3mUniersité 'htp://ww.univangeUiversit� d'htt://wwwuniv-aroUniersité 'Auverne (Cermont-errhtp://ww.u-clemonUnversitéd'Ahtt://wwwuniv-avgnUniverité de ouhtt://ww.u-bourggUnivesité d Bretane Ocidhtt://www.niv-brUnivrsité d Bretahttp:/www.unv-uUnivrsité e CaenBasse orhtt://www.nicaniversté de ergy-ohttp//www.-cerUnversitéde Core Pascahtt://ww.univ-crUniverité deFranch-http//www.uiv-fcomniversté de Hute-htp://ww.univ-muhouUnivrsité e la M�diterraée (Ax Marselhtp://ww.univmeUniversité de La Rochelle;http://www.univ-lr.fr/
-Université de Limoges;http://www.unilim.fr/
-Université de Marne la Vallée;http://www.univ-mlv.fr/
-Université de Metz;http://www.univ-metz.fr/
-Université de Montpellier I;http://www.univ-montp1.fr/
-Université de Montpellier II;http://www.univ-montp2.fr/
-Université de Nantes;http://www.univ-nantes.fr/
-Université de Nice-Sophia Antipolis;http://www.unice.fr/
-Université Denis Diderot (Paris VII);http://www.sigu7.jussieu.fr/
-Université de Pau et des Pays de l'Adour;http://www.univ-pau.fr/
-Université de Perpignan;http://www.univ-perp.fr/
-Université de Picardie Jules-Verne;http://www.u-picardie.fr/
-Université de Poitiers;http://www.univ-poitiers.fr/
-Université de Provence (Aix-Marseille I);http://www.up.univ-mrs.fr/
-Université de Reims Champagne-Ardenne;http://www.univ-reims.fr/
-Université de Rouen - Haute Normandie;http://www.univ-rouen.fr/
-Université de Savoie;http://www.univ-savoie.fr/
-Université des Sciences et Technologies de Lille (Lille I);http://www.univ-lille1.fr/
-Université des Sciences Humaines (Strasbourg II);http://ushs.u-strasbg.fr/
-Université des Sciences Sociales (Toulouse I);http://www.univ-tlse1.fr/
-Université de Technologie de Belfort Montbéliard;http://www.utbm.fr/
-Université de Technologie de Compiègne;http://www.utc.fr/
-Université de Technologie de Troyes;http://www.utt.fr/
-Université de Toulouse;http://www.univ-toulouse.fr/
-Université de Toulouse-le-Mirail (Toulouse II);http://www.univ-tlse2.fr/
-Université de Valenciennes et du Hainaut-Cambrésis;http://www.univ-valenciennes.fr/
-Université de Versailles Saint-Quentin-en-Yvelines;http://www.uvsq.fr/
-Université d'Evry Val d'Essonne;http://www.univ-evry.fr/
-Université d'Orléans;http://www.univ-orleans.fr/
-Université du Droit et de la Sante (Lille II);http://www.univ-lille2.fr/
-Université du Havre;http://www.univ-lehavre.fr/
-Université du Littoral Cote d'Opale;http://www.univ-littoral.fr/
-Université du Maine;http://www.univ-lemans.fr/
-Université du Sud, Toulon et Var;http://www.univ-tln.fr/
-Université François Rabelais de Tours;http://www.univ-tours.fr/
-Université Henri Poincaré (Nancy I);http://www.uhp-nancy.fr/
-Université Jean Monnet;http://www.univ-st-etienne.fr/
-Université Jean Moulin (Lyon III);http://www.univ-lyon3.fr/
-Université Joseph Fourier (Grenoble I);http://www.ujf-grenoble.fr/
-Université Louis Pasteur (Strasbourg I);http://www-ulp.u-strasbg.fr/
-Université Lumiére (Lyon II);http://www.univ-lyon2.fr/
-Université Michel de Montaigne (Bordeaux III );http://www.montaigne.u-bordeaux.fr/
-Université Montesquieu (Bordeaux IV);http://www.montesquieu.u-bordeaux.fr/
-Université Nancy II;http://www.univ-nancy2.fr/
-Université Panthéon-Assas (Paris II);http://www.u-paris2.fr/
-Université Panthéon-Sorbonne (Paris I);http://www.univ-paris1.fr/
-Université Paris-Dauphine (Paris IX);http://www.dauphine.fr/
-Université Paris Nanterre (Paris X);http://www.u-paris10.fr/
-Université Paris Nord (Paris XIII);http://www.univ-paris13.fr/
-Université Paris-Sorbonne (Paris IV);http://www.paris4.sorbonne.fr/
-Université Paris Sud (Paris XI);http://www.u-psud.fr/
-Université Paul Sabatier (Toulouse III);http://www.ups-tlse.fr/
-Université Paul Valéry (Montpellier III);http://www.univ-montp3.fr/
-Université Pierre et Marie Curie (Paris VI);http://www.jussieu.fr/
-Université Pierre Mendes-France (Grenoble II);http://www.upmf-grenoble.fr/
-Université René Descartes (Paris V);http://www.univ-paris5.fr/
-Université Rennes I;http://www.univ-rennes1.fr/
-Université Rennes II - Haute-Bretagne;http://www.uhb.fr/
-Université Robert Schuman (Strasbourg III);http://www-urs.u-strasbg.fr/
-Université Sorbonne-Nouvelle (Paris III);http://www.univ-paris3.fr/
-Université Stendhal (Grenoble III);http://www.u-grenoble3.fr/
-Université Val-de-Marne (Paris XII);http://www.univ-paris12.fr/
-Université Victor Segalen (Bordeaux II);http://www.u-bordeaux2.fr/
-Université Vincennes Saint-Denis (Paris VIII);http://www.univ-paris8.fr/
-Université Omar Bongo;http://www.uob.ga/
+Institut National SupÃ©rieur de FrmationAgro-Aimehtt://agroroazhoninra.fretab/infa/accuInstitt SupÃ©reur Agicole d Behtp://ww.isInsttut SuÃ©rieur dAgricuturettp://ww.isa.fpl.asIstitutSupÃ©riur d'Aricultue Rhonhttp:/www.isInstitt SupÃrieure 'Electonique dhtt://wwwisInsttut SuÃ©rieured'Elecroniquedhtt://wwwisIntitut extileet Chimque http//www.ieSciller Iternatinal Unversityhttp:/www.scillerpaiSchiler Inernationl Univrsity,Strahtp://ww.schillrstrasburUnivrsitÃ© laise Pscal (lermontFerrhttp//www.uiv-bpclemoUiversitÃ©Bordhtp://ww.cribx1u-bordeUniverstÃ© Catolique ehttp//www.ful.asUniersitÃ© atholiqe de lhttp//www.UniverstÃ© Catolique http:/www.uni-catholUnivrsitÃ© Carles-d-Gaull (Lilhttp//www.niv-lilUniverstÃ© Clade Berard (http//www.uiv-lyoniverstÃ© d'Ax-Marselhtt://wwwu-3mUniersitÃ© 'htp://ww.univangeUiversitÃ d'htt://wwwuniv-aroUniersitÃ© 'Auverne (Cermont-errhtp://ww.u-clemonUnversitÃ©d'Ahtt://wwwuniv-avgnUniveritÃ© de ouhtt://ww.u-bourggUnivesitÃ© d Bretane Ocidhtt://www.niv-brUnivrsitÃ© d Bretahttp:/www.unv-uUnivrsitÃ© e CaenBasse orhtt://www.nicaniverstÃ© de ergy-ohttp//www.-cerUnversitÃ©de Core Pascahtt://ww.univ-crUniveritÃ© deFranch-http//www.uiv-fcomniverstÃ© de Hute-htp://ww.univ-muhouUnivrsitÃ© e la M©diterraÃ©e (Ax Marselhtp://ww.univmeUniversitÃ© de La Rochelle;http://www.univ-lr.fr/
+UniversitÃ© de Limoges;http://www.unilim.fr/
+UniversitÃ© de Marne la VallÃ©e;http://www.univ-mlv.fr/
+UniversitÃ© de Metz;http://www.univ-metz.fr/
+UniversitÃ© de Montpellier I;http://www.univ-montp1.fr/
+UniversitÃ© de Montpellier II;http://www.univ-montp2.fr/
+UniversitÃ© de Nantes;http://www.univ-nantes.fr/
+UniversitÃ© de Nice-Sophia Antipolis;http://www.unice.fr/
+UniversitÃ© Denis Diderot (Paris VII);http://www.sigu7.jussieu.fr/
+UniversitÃ© de Pau et des Pays de l'Adour;http://www.univ-pau.fr/
+UniversitÃ© de Perpignan;http://www.univ-perp.fr/
+UniversitÃ© de Picardie Jules-Verne;http://www.u-picardie.fr/
+UniversitÃ© de Poitiers;http://www.univ-poitiers.fr/
+UniversitÃ© de Provence (Aix-Marseille I);http://www.up.univ-mrs.fr/
+UniversitÃ© de Reims Champagne-Ardenne;http://www.univ-reims.fr/
+UniversitÃ© de Rouen - Haute Normandie;http://www.univ-rouen.fr/
+UniversitÃ© de Savoie;http://www.univ-savoie.fr/
+UniversitÃ© des Sciences et Technologies de Lille (Lille I);http://www.univ-lille1.fr/
+UniversitÃ© des Sciences Humaines (Strasbourg II);http://ushs.u-strasbg.fr/
+UniversitÃ© des Sciences Sociales (Toulouse I);http://www.univ-tlse1.fr/
+UniversitÃ© de Technologie de Belfort MontbÃ©liard;http://www.utbm.fr/
+UniversitÃ© de Technologie de CompiÃ¨gne;http://www.utc.fr/
+UniversitÃ© de Technologie de Troyes;http://www.utt.fr/
+UniversitÃ© de Toulouse;http://www.univ-toulouse.fr/
+UniversitÃ© de Toulouse-le-Mirail (Toulouse II);http://www.univ-tlse2.fr/
+UniversitÃ© de Valenciennes et du Hainaut-CambrÃ©sis;http://www.univ-valenciennes.fr/
+UniversitÃ© de Versailles Saint-Quentin-en-Yvelines;http://www.uvsq.fr/
+UniversitÃ© d'Evry Val d'Essonne;http://www.univ-evry.fr/
+UniversitÃ© d'OrlÃ©ans;http://www.univ-orleans.fr/
+UniversitÃ© du Droit et de la Sante (Lille II);http://www.univ-lille2.fr/
+UniversitÃ© du Havre;http://www.univ-lehavre.fr/
+UniversitÃ© du Littoral Cote d'Opale;http://www.univ-littoral.fr/
+UniversitÃ© du Maine;http://www.univ-lemans.fr/
+UniversitÃ© du Sud, Toulon et Var;http://www.univ-tln.fr/
+UniversitÃ© FranÃ§ois Rabelais de Tours;http://www.univ-tours.fr/
+UniversitÃ© Henri PoincarÃ© (Nancy I);http://www.uhp-nancy.fr/
+UniversitÃ© Jean Monnet;http://www.univ-st-etienne.fr/
+UniversitÃ© Jean Moulin (Lyon III);http://www.univ-lyon3.fr/
+UniversitÃ© Joseph Fourier (Grenoble I);http://www.ujf-grenoble.fr/
+UniversitÃ© Louis Pasteur (Strasbourg I);http://www-ulp.u-strasbg.fr/
+UniversitÃ© LumiÃ©re (Lyon II);http://www.univ-lyon2.fr/
+UniversitÃ© Michel de Montaigne (Bordeaux III );http://www.montaigne.u-bordeaux.fr/
+UniversitÃ© Montesquieu (Bordeaux IV);http://www.montesquieu.u-bordeaux.fr/
+UniversitÃ© Nancy II;http://www.univ-nancy2.fr/
+UniversitÃ© PanthÃ©on-Assas (Paris II);http://www.u-paris2.fr/
+UniversitÃ© PanthÃ©on-Sorbonne (Paris I);http://www.univ-paris1.fr/
+UniversitÃ© Paris-Dauphine (Paris IX);http://www.dauphine.fr/
+UniversitÃ© Paris Nanterre (Paris X);http://www.u-paris10.fr/
+UniversitÃ© Paris Nord (Paris XIII);http://www.univ-paris13.fr/
+UniversitÃ© Paris-Sorbonne (Paris IV);http://www.paris4.sorbonne.fr/
+UniversitÃ© Paris Sud (Paris XI);http://www.u-psud.fr/
+UniversitÃ© Paul Sabatier (Toulouse III);http://www.ups-tlse.fr/
+UniversitÃ© Paul ValÃ©ry (Montpellier III);http://www.univ-montp3.fr/
+UniversitÃ© Pierre et Marie Curie (Paris VI);http://www.jussieu.fr/
+UniversitÃ© Pierre Mendes-France (Grenoble II);http://www.upmf-grenoble.fr/
+UniversitÃ© RenÃ© Descartes (Paris V);http://www.univ-paris5.fr/
+UniversitÃ© Rennes I;http://www.univ-rennes1.fr/
+UniversitÃ© Rennes II - Haute-Bretagne;http://www.uhb.fr/
+UniversitÃ© Robert Schuman (Strasbourg III);http://www-urs.u-strasbg.fr/
+UniversitÃ© Sorbonne-Nouvelle (Paris III);http://www.univ-paris3.fr/
+UniversitÃ© Stendhal (Grenoble III);http://www.u-grenoble3.fr/
+UniversitÃ© Val-de-Marne (Paris XII);http://www.univ-paris12.fr/
+UniversitÃ© Victor Segalen (Bordeaux II);http://www.u-bordeaux2.fr/
+UniversitÃ© Vincennes Saint-Denis (Paris VIII);http://www.univ-paris8.fr/
+UniversitÃ© Omar Bongo;http://www.uob.ga/
 Aga Khan University;http://www.aku.edu/
 American InterContinental University - London;http://www.aiuniv.edu/
 Anglia Ruskin University;http://www.anglia.ac.uk/
@@ -166,7 +166,7 @@ School of Oriental and African Studies, University of London;http://www.soas.ac.
 School of Pharmacy, University of London;http://www.ulsop.ac.uk/
 School of Slavonic and East European Studies, University of London;http://www.ssees.ac.uk/
 Sheffield Hallam University;http://www.shu.ac.uk/
-Sotheby´s Institute of Art - London;http://www.sothebysinstitutelondon.com/
+SothebyÂ´s Institute of Art - London;http://www.sothebysinstitutelondon.com/
 Southampton Solent University;http://www.solent.ac.uk/
 South Bank University;http://www.sbu.ac.uk/
 Staffordshire University;http://www.staffs.ac.uk/
@@ -272,7 +272,7 @@ Tbilisi State Medical University;http://www.tsmu.edu/
 Tbilisi State University;http://www.tsu.edu.ge/
 Tbilisi Teaching University;http://www.tbuniver.edu.ge/
 University of Grigol Robakidze;http://www.gruni.edu.ge/
-Université des Antilles et de la Guyane;http://www.univ-ag.fr/
+UniversitÃ© des Antilles et de la Guyane;http://www.univ-ag.fr/
 Accra Polytechnic ;http://www.accrapolytechnic.edu.gh/
 Akrofi-Christaller Institute of Theeology, Mission and  Culture;http://www.acighana.org/
 All Nations University College;http://www.anuc.edu.gh/
@@ -303,11 +303,11 @@ University of Greenland;http://www.ilisimatusarfik.gl/
 American International University West Africa;http://www.aiu.edu.gm/
 EUCLID University;http://www.euclid.int/
 University of the Gambia;http://www.utg.edu.gm/
-Université Gamal Abdel Nasser de Conakry;http://www.uganc.org/
-Université Julius Nyerere Kankan;http://www.ujnk.org/
-Université Kofi Annan;http://www.univ-kag.org/
-Université Thierno Amadou Diallo;http://www.utad-petel-edu.org/
-Université des Antilles et de la Guyane;http://www.univ-ag.fr/
+UniversitÃ© Gamal Abdel Nasser de Conakry;http://www.uganc.org/
+UniversitÃ© Julius Nyerere Kankan;http://www.ujnk.org/
+UniversitÃ© Kofi Annan;http://www.univ-kag.org/
+UniversitÃ© Thierno Amadou Diallo;http://www.utad-petel-edu.org/
+UniversitÃ© des Antilles et de la Guyane;http://www.univ-ag.fr/
 Universidad Nacional de Guinea Ecuatorial;http://www.unge.gq/
 Aegean University;http://www.aegean.gr/
 Agricultural University of Athens;http://www.aua.gr/
@@ -364,11 +364,11 @@ Centro Universitario de Occidente;http://www.cunoc.edu.gt/
 Universidad del Istmo;http://www.unis.edu.gt/
 Universidad del Valle de Guatemala;http://www.uvg.edu.gt/
 Universidad de San Carlos de Guatemala;http://www.usac.edu.gt/
-Universidad Francisco Marroquín;http://www.ufm.edu.gt/
+Universidad Francisco MarroquÃ­n;http://www.ufm.edu.gt/
 Universidad Galileo;http://www.galileo.edu/
-Universidad Mariano Gálvez;http://www.umg.edu.gt/
+Universidad Mariano GÃ¡lvez;http://www.umg.edu.gt/
 Universidad Panamericana;http://www.upana.edu.gt/
-Universidad Rafael Landívar;http://www.url.edu.gt/
+Universidad Rafael LandÃ­var;http://www.url.edu.gt/
 Universidad Rural de Guatemala;http://www.urural.edu.gt/
 University of Guam;http://www.uog.edu/
 Gemsville Technical University;http://www.gemsvilleuniversity.com/
@@ -388,14 +388,14 @@ Lingnan University;http://www.ln.edu.hk/
 Open University of Hong Kong;http://www.ouhk.edu.hk/
 University of Hong Kong;http://www.hku.hk/
 Escuela Agricola Panamericana Zamorano;http://www.zamorano.edu/
-Universidad Católica de Honduras;http://www.unicah.edu/
+Universidad CatÃ³lica de Honduras;http://www.unicah.edu/
 Universidad de San Pedro Sula;http://www.usps.edu.hn/
-Universidad José Cecilio del Valle;http://www.ujcv.edu.hn/
+Universidad JosÃ© Cecilio del Valle;http://www.ujcv.edu.hn/
 Universidad Metropolitana de Honduras;http://www.unimetro.edu.hn/
-Universidad Nacional Autónoma de Honduras;http://www.unah.edu.hn/
-Universidad Pedagógica Nacional "Francisco Morazán";http://www.upnfm.edu.hn/
-Universidad Tecnológica Centroamericana;http://www.unitec.edu/
-Universidad Tecnológica de Honduras;http://www.uth.hn/
+Universidad Nacional AutÃ³noma de Honduras;http://www.unah.edu.hn/
+Universidad PedagÃ³gica Nacional "Francisco MorazÃ¡n";http://www.upnfm.edu.hn/
+Universidad TecnolÃ³gica Centroamericana;http://www.unitec.edu/
+Universidad TecnolÃ³gica de Honduras;http://www.uth.hn/
 University of Dubrovnik;http://www.unidu.hr/
 University of Osijek;http://www.unios.hr/
 University of Pula;http://www.unipu.hr/
@@ -405,11 +405,11 @@ University of Zadar;http://www.unizd.hr/
 University of Zagreb;http://www.unizg.hr/
 Zagreb School of Economics and Management;http://www.zsem.hr/
 American University of the Caribbean;http://www.auchaiti.org/
-Université Chrétienne du Nord d'Haiti;http://www.ucnh.org/
-Université d'Etat d'Haiti;http://www.ueh.edu.ht/
-Université Épiscopale d'Haiti;http://www.uneph.org/
-Université Notre Dame d'Haïti;http://www.undh.org/
-Université Quisqueya;http://www.uniq.edu/
+UniversitÃ© ChrÃ©tienne du Nord d'Haiti;http://www.ucnh.org/
+UniversitÃ© d'Etat d'Haiti;http://www.ueh.edu.ht/
+UniversitÃ© Ãpiscopale d'Haiti;http://www.uneph.org/
+UniversitÃ© Notre Dame d'HaÃ¯ti;http://www.undh.org/
+UniversitÃ© Quisqueya;http://www.uniq.edu/
 Academy of Drama and Film;http://www.filmacademy.hu/
 Andrassy Gyula German Speaking University Budapest;http://www.andrassyuni.hu/
 Avicenna International College;http://www.avicenna.hu/
@@ -417,27 +417,27 @@ Budapest Buddhist University;http://www.tkbf.hu/
 Budapest University of Economic Sciences and Public Administration;http://www.bke.hu/
 Central European University;http://www.ceu.hu/
 College of Dunaujvaros;http://www.duf.hu/
-Dániel Berzsenyi Teacher Training College;http://www.bdtf.hu/
+DÃ¡niel Berzsenyi Teacher Training College;http://www.bdtf.hu/
 Debrecen University of Agricultural Sciences;http://www.agr.unideb.hu/
-Eötvös Lorand University;http://www.elte.hu/
+EÃ¶tvÃ¶s Lorand University;http://www.elte.hu/
 Esztergom Theological College;http://www.ehf.hu/
 Haynal Imre University of Health Sciences Budapest;http://www.hiete.hu/
 Hungarian Academy of Craft and Design;http://www.mif.hu/
 Hungarian Academy of Fine Arts Budapest;http://www.arts7.hu/
 Hungarian University of Physical Education;http://www.hupe.hu/
 Janus Pannonius University;http://www.jpte.hu/
-Károl Gáspár University of the Reformed Church;http://www.kgre.hu/
+KÃ¡rol GÃ¡spÃ¡r University of the Reformed Church;http://www.kgre.hu/
 Kodolanyi Janos University College;http://www.kodolanyi.hu/
 Kossuth Lajos University;http://www.lib.klte.hu/
 Liszt Ferenc Academy of Music Budapest;http://www.lfze.hu/
-Pázmány Péter Catholic University;http://www.ppke.hu/
+PÃ¡zmÃ¡ny PÃ©ter Catholic University;http://www.ppke.hu/
 Reformed Theological Academy of Debrecen;http://www.drk.hu/
-Séchenyi István University;http://www.sze.hu/
+SÃ©chenyi IstvÃ¡n University;http://www.sze.hu/
 Semmelweis University of Medical Sciences;http://www.sote.hu/
-Szent István University;http://www.szie.hu/
+Szent IstvÃ¡n University;http://www.szie.hu/
 Technical University of Budapest;http://www.bme.hu/
 University Medical School of Debrecen;http://www.dote.hu/
-University Medical School of Pécs;http://www.pote.hu/
+University Medical School of PÃ©cs;http://www.pote.hu/
 University of Debrecen ;http://www.unideb.hu/
 University of Horticulture and Food Industry;http://www.kee.hu/
 University of Miskolc;http://www.uni-miskolc.hu/
